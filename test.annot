@@ -1,0 +1,151 @@
+"esami/test.ml" 3 55 59 "esami/test.ml" 3 55 65
+type(
+  int tree
+)
+ident(
+  def albero "esami/test.ml" 4 168 168 "esami/test.ml" 0 0 -1
+)
+"esami/test.ml" 3 55 71 "esami/test.ml" 3 55 72
+type(
+  int
+)
+"esami/test.ml" 3 55 77 "esami/test.ml" 3 55 78
+type(
+  int
+)
+"esami/test.ml" 3 55 83 "esami/test.ml" 3 55 84
+type(
+  int
+)
+"esami/test.ml" 3 55 86 "esami/test.ml" 3 55 91
+type(
+  int tree
+)
+"esami/test.ml" 3 55 92 "esami/test.ml" 3 55 97
+type(
+  int tree
+)
+"esami/test.ml" 3 55 80 "esami/test.ml" 3 55 98
+type(
+  int tree
+)
+"esami/test.ml" 3 55 103 "esami/test.ml" 3 55 104
+type(
+  int
+)
+"esami/test.ml" 3 55 106 "esami/test.ml" 3 55 111
+type(
+  int tree
+)
+"esami/test.ml" 3 55 112 "esami/test.ml" 3 55 117
+type(
+  int tree
+)
+"esami/test.ml" 3 55 100 "esami/test.ml" 3 55 118
+type(
+  int tree
+)
+"esami/test.ml" 3 55 74 "esami/test.ml" 3 55 119
+type(
+  int tree
+)
+"esami/test.ml" 3 55 124 "esami/test.ml" 3 55 125
+type(
+  int
+)
+"esami/test.ml" 3 55 130 "esami/test.ml" 3 55 131
+type(
+  int
+)
+"esami/test.ml" 3 55 132 "esami/test.ml" 3 55 137
+type(
+  int tree
+)
+"esami/test.ml" 3 55 138 "esami/test.ml" 3 55 143
+type(
+  int tree
+)
+"esami/test.ml" 3 55 127 "esami/test.ml" 3 55 144
+type(
+  int tree
+)
+"esami/test.ml" 3 55 149 "esami/test.ml" 3 55 150
+type(
+  int
+)
+"esami/test.ml" 3 55 151 "esami/test.ml" 3 55 156
+type(
+  int tree
+)
+"esami/test.ml" 3 55 157 "esami/test.ml" 3 55 162
+type(
+  int tree
+)
+"esami/test.ml" 3 55 146 "esami/test.ml" 3 55 163
+type(
+  int tree
+)
+"esami/test.ml" 3 55 121 "esami/test.ml" 3 55 164
+type(
+  int tree
+)
+"esami/test.ml" 3 55 68 "esami/test.ml" 3 55 165
+type(
+  int tree
+)
+"esami/test.ml" 6 190 194 "esami/test.ml" 6 190 198
+type(
+  'a tree -> 'a
+)
+ident(
+  def root "esami/test.ml" 8 235 251 "esami/test.ml" 0 0 -1
+)
+"esami/test.ml" 7 210 211 "esami/test.ml" 7 210 216
+type(
+  'a tree
+)
+"esami/test.ml" 7 210 220 "esami/test.ml" 7 210 225
+type(
+  exn -> 'a
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/test.ml" 7 210 226 "esami/test.ml" 7 210 234
+type(
+  exn
+)
+"esami/test.ml" 7 210 220 "esami/test.ml" 7 210 234
+type(
+  'a
+)
+"esami/test.ml" 8 235 240 "esami/test.ml" 8 235 241
+type(
+  'a
+)
+ident(
+  def x "esami/test.ml" 8 235 250 "esami/test.ml" 8 235 251
+)
+"esami/test.ml" 8 235 242 "esami/test.ml" 8 235 243
+type(
+  'a tree
+)
+"esami/test.ml" 8 235 244 "esami/test.ml" 8 235 245
+type(
+  'a tree
+)
+"esami/test.ml" 8 235 237 "esami/test.ml" 8 235 246
+type(
+  'a tree
+)
+"esami/test.ml" 8 235 250 "esami/test.ml" 8 235 251
+type(
+  'a
+)
+ident(
+  int_ref x "esami/test.ml" 8 235 240 "esami/test.ml" 8 235 241
+)
+"esami/test.ml" 6 190 201 "esami/test.ml" 8 235 251
+type(
+  'a tree -> 'a
+)

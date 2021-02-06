@@ -1,0 +1,188 @@
+"esami/settembre2018.ml" 3 19 23 "esami/settembre2018.ml" 3 19 33
+type(
+  int list
+)
+ident(
+  def lista_true "esami/settembre2018.ml" 4 50 50 "esami/settembre2018.ml" 0 0 -1
+)
+"esami/settembre2018.ml" 3 19 37 "esami/settembre2018.ml" 3 19 38
+type(
+  int
+)
+"esami/settembre2018.ml" 3 19 39 "esami/settembre2018.ml" 3 19 40
+type(
+  int
+)
+"esami/settembre2018.ml" 3 19 41 "esami/settembre2018.ml" 3 19 42
+type(
+  int
+)
+"esami/settembre2018.ml" 3 19 43 "esami/settembre2018.ml" 3 19 44
+type(
+  int
+)
+"esami/settembre2018.ml" 3 19 45 "esami/settembre2018.ml" 3 19 46
+type(
+  int
+)
+"esami/settembre2018.ml" 3 19 36 "esami/settembre2018.ml" 3 19 47
+type(
+  int list
+)
+"esami/settembre2018.ml" 4 50 54 "esami/settembre2018.ml" 4 50 65
+type(
+  int list
+)
+ident(
+  def lista_false "esami/settembre2018.ml" 8 149 149 "esami/settembre2018.ml" 0 0 -1
+)
+"esami/settembre2018.ml" 4 50 69 "esami/settembre2018.ml" 4 50 70
+type(
+  int
+)
+"esami/settembre2018.ml" 4 50 71 "esami/settembre2018.ml" 4 50 72
+type(
+  int
+)
+"esami/settembre2018.ml" 4 50 73 "esami/settembre2018.ml" 4 50 74
+type(
+  int
+)
+"esami/settembre2018.ml" 4 50 75 "esami/settembre2018.ml" 4 50 76
+type(
+  int
+)
+"esami/settembre2018.ml" 4 50 77 "esami/settembre2018.ml" 4 50 78
+type(
+  int
+)
+"esami/settembre2018.ml" 4 50 68 "esami/settembre2018.ml" 4 50 79
+type(
+  int list
+)
+"esami/settembre2018.ml" 8 149 153 "esami/settembre2018.ml" 8 149 162
+type(
+  '_weak1 -> '_weak2
+)
+ident(
+  def is_sorted "esami/settembre2018.ml" 15 325 325 "esami/settembre2018.ml" 0 0 -1
+)
+"esami/settembre2018.ml" 8 149 163 "esami/settembre2018.ml" 8 149 168
+type(
+  '_weak1
+)
+ident(
+  def lista "esami/settembre2018.ml" 9 172 173 "esami/settembre2018.ml" 13 276 315
+)
+"esami/settembre2018.ml" 9 172 181 "esami/settembre2018.ml" 9 172 184
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  def aux "esami/settembre2018.ml" 9 172 173 "esami/settembre2018.ml" 13 276 315
+)
+"esami/settembre2018.ml" 9 172 185 "esami/settembre2018.ml" 9 172 195
+type(
+  'a
+)
+ident(
+  def last_value "esami/settembre2018.ml" 9 172 198 "esami/settembre2018.ml" 12 239 275
+)
+"esami/settembre2018.ml" 10 208 212 "esami/settembre2018.ml" 10 208 214
+type(
+  'a list
+)
+"esami/settembre2018.ml" 10 208 218 "esami/settembre2018.ml" 10 208 222
+type(
+  bool
+)
+"esami/settembre2018.ml" 11 223 227 "esami/settembre2018.ml" 11 223 228
+type(
+  'a
+)
+ident(
+  def x "esami/settembre2018.ml" 12 239 246 "esami/settembre2018.ml" 12 239 275
+)
+"esami/settembre2018.ml" 11 223 230 "esami/settembre2018.ml" 11 223 234
+type(
+  'a list
+)
+ident(
+  def rest "esami/settembre2018.ml" 12 239 246 "esami/settembre2018.ml" 12 239 275
+)
+"esami/settembre2018.ml" 11 223 227 "esami/settembre2018.ml" 11 223 234
+type(
+  'a list
+)
+"esami/settembre2018.ml" 12 239 246 "esami/settembre2018.ml" 12 239 247
+type(
+  'a
+)
+ident(
+  int_ref x "esami/settembre2018.ml" 11 223 227 "esami/settembre2018.ml" 11 223 228
+)
+"esami/settembre2018.ml" 12 239 248 "esami/settembre2018.ml" 12 239 250
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( >= ) "stdlib.mli" 150 6190 6190 "stdlib.mli" 150 6190 6242
+)
+"esami/settembre2018.ml" 12 239 251 "esami/settembre2018.ml" 12 239 261
+type(
+  'a
+)
+ident(
+  int_ref last_value "esami/settembre2018.ml" 9 172 185 "esami/settembre2018.ml" 9 172 195
+)
+"esami/settembre2018.ml" 12 239 246 "esami/settembre2018.ml" 12 239 261
+type(
+  bool
+)
+"esami/settembre2018.ml" 12 239 262 "esami/settembre2018.ml" 12 239 264
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"esami/settembre2018.ml" 12 239 265 "esami/settembre2018.ml" 12 239 268
+type(
+  'a -> 'a list -> bool
+)
+ident(
+  int_ref aux "esami/settembre2018.ml" 9 172 181 "esami/settembre2018.ml" 9 172 184
+)
+"esami/settembre2018.ml" 12 239 269 "esami/settembre2018.ml" 12 239 270
+type(
+  'a
+)
+ident(
+  int_ref x "esami/settembre2018.ml" 11 223 227 "esami/settembre2018.ml" 11 223 228
+)
+"esami/settembre2018.ml" 12 239 271 "esami/settembre2018.ml" 12 239 275
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/settembre2018.ml" 11 223 230 "esami/settembre2018.ml" 11 223 234
+)
+"esami/settembre2018.ml" 12 239 265 "esami/settembre2018.ml" 12 239 275
+type(
+  bool
+)
+"esami/settembre2018.ml" 12 239 246 "esami/settembre2018.ml" 12 239 275
+type(
+  bool
+)
+"esami/settembre2018.ml" 9 172 198 "esami/settembre2018.ml" 12 239 275
+type(
+  'a list -> bool
+)
+"esami/settembre2018.ml" 13 276 280 "esami/settembre2018.ml" 13 276 283
+type(
+  '_weak3 -> '_weak3 list -> bool
+)
+ident(
+  int_ref aux "esami/settembre2018.ml" 9 172 181 "esami/settembre2018.ml" 9 172 184
+)
