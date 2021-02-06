@@ -1,0 +1,1122 @@
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 97 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 102
+type(
+  int list
+)
+ident(
+  def lista "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 131 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 106 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 107
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 108 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 109
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 110 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 111
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 112 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 113
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 114 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 115
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 116 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 117
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 118 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 119
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 120 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 121
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 122 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 123
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 124 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 126
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 105 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 127
+type(
+  int list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 135 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 139
+type(
+  (int * color) list
+)
+ident(
+  def cols "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 201 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 144 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 145
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 146 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 151
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 143 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 152
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 155 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 156
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 157 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 162
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 154 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 163
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 166 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 167
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 168 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 173
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 165 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 174
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 177 "esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 178
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 179 "esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 184
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 176 "esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 185
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 188 "esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 189
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 190 "esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 195
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 187 "esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 196
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 142 "esami/esami_da_verificare_se_ok/febraio2019.ml" 10 176 197
+type(
+  (int * color) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 209 "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 219
+type(
+  'a -> ('a * int) list -> ('a * int) list
+)
+ident(
+  def incrementa "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 201 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 220 "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 226
+type(
+  'a
+)
+ident(
+  def colore "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 229 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 240 "esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 242
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 248 "esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 254
+type(
+  'a
+)
+ident(
+  int_ref colore "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 220 "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 226
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 256 "esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 257
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 247 "esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 258
+type(
+  'a * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 246 "esami/esami_da_verificare_se_ok/febraio2019.ml" 13 239 259
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 264 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 265
+type(
+  'a
+)
+ident(
+  def c "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 283 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 266 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 272
+type(
+  int
+)
+ident(
+  def numero "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 283 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 263 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 273
+type(
+  'a * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 275 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 279
+type(
+  ('a * int) list
+)
+ident(
+  def rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 283 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 263 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 279
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 286 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 287
+type(
+  'a
+)
+ident(
+  int_ref c "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 264 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 265
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 288 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 289
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 290 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 296
+type(
+  'a
+)
+ident(
+  int_ref colore "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 220 "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 226
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 286 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 296
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 303 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 304
+type(
+  'a
+)
+ident(
+  int_ref c "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 264 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 265
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 305 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 311
+type(
+  int
+)
+ident(
+  int_ref numero "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 266 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 272
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 311 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 312
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 312 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 313
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 305 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 313
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 302 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 314
+type(
+  'a * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 316 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 320
+type(
+  ('a * int) list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 275 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 279
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 302 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 320
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 327 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 328
+type(
+  'a
+)
+ident(
+  int_ref c "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 264 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 265
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 329 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 335
+type(
+  int
+)
+ident(
+  int_ref numero "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 266 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 272
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 326 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 336
+type(
+  'a * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 338 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 348
+type(
+  'a -> ('a * int) list -> ('a * int) list
+)
+ident(
+  int_ref incrementa "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 209 "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 219
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 349 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 355
+type(
+  'a
+)
+ident(
+  int_ref colore "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 220 "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 226
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 356 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+type(
+  ('a * int) list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 275 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 279
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 338 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 326 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 283 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 229 "esami/esami_da_verificare_se_ok/febraio2019.ml" 14 260 360
+type(
+  ('a * int) list -> ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 372 "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 394
+type(
+  'a -> ('a * color) list -> color
+)
+ident(
+  def prendi_colore_elemento "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 364 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 395 "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 396
+type(
+  'a
+)
+ident(
+  def e "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 399 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 491
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 17 409 411 "esami/esami_da_verificare_se_ok/febraio2019.ml" 17 409 413
+type(
+  ('a * color) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 17 409 417 "esami/esami_da_verificare_se_ok/febraio2019.ml" 17 409 423
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 429 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 430
+type(
+  'a
+)
+ident(
+  def a "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 443 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 491
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 431 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 432
+type(
+  color
+)
+ident(
+  def b "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 443 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 491
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 428 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 433
+type(
+  'a * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 435 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 439
+type(
+  ('a * color) list
+)
+ident(
+  def rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 443 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 491
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 428 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 439
+type(
+  ('a * color) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 446 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 447
+type(
+  'a
+)
+ident(
+  int_ref e "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 395 "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 396
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 447 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 448
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 448 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 449
+type(
+  'a
+)
+ident(
+  int_ref a "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 429 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 430
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 446 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 449
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 455 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 456
+type(
+  color
+)
+ident(
+  int_ref b "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 431 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 432
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 462 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 484
+type(
+  'a -> ('a * color) list -> color
+)
+ident(
+  int_ref prendi_colore_elemento "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 372 "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 394
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 485 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 486
+type(
+  'a
+)
+ident(
+  int_ref e "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 395 "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 396
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 487 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 491
+type(
+  ('a * color) list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 435 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 439
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 462 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 491
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 443 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 491
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 399 "esami/esami_da_verificare_se_ok/febraio2019.ml" 18 425 491
+type(
+  ('a * color) list -> color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 499 "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 511
+type(
+  ('a * color) list -> 'a list -> (color * int) list
+)
+ident(
+  def conta_colori "esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 689 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 512 "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 517
+type(
+  ('a * color) list
+)
+ident(
+  def color "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 518 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 685
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 518 "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 523
+type(
+  'a list
+)
+ident(
+  def lista "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 528 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 685
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 536 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 539
+type(
+  (color * int) list -> ('b * color) list -> 'b list -> (color * int) list
+)
+ident(
+  def aux "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 528 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 685
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 540 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 546
+type(
+  (color * int) list
+)
+ident(
+  def result "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 547 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 662
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 547 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 552
+type(
+  ('b * color) list
+)
+ident(
+  def color "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 555 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 662
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 22 565 567 "esami/esami_da_verificare_se_ok/febraio2019.ml" 22 565 569
+type(
+  'b list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 22 565 573 "esami/esami_da_verificare_se_ok/febraio2019.ml" 22 565 579
+type(
+  (color * int) list
+)
+ident(
+  int_ref result "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 540 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 546
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 584 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 585
+type(
+  'b
+)
+ident(
+  def n "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 595 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 662
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 587 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 591
+type(
+  'b list
+)
+ident(
+  def rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 595 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 662
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 584 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 591
+type(
+  'b list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 595 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 598
+type(
+  (color * int) list -> ('b * color) list -> 'b list -> (color * int) list
+)
+ident(
+  int_ref aux "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 536 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 539
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 600 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 610
+type(
+  color -> (color * int) list -> (color * int) list
+)
+ident(
+  int_ref incrementa "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 209 "esami/esami_da_verificare_se_ok/febraio2019.ml" 12 201 219
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 612 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 634
+type(
+  'b -> ('b * color) list -> color
+)
+ident(
+  int_ref prendi_colore_elemento "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 372 "esami/esami_da_verificare_se_ok/febraio2019.ml" 16 364 394
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 635 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 636
+type(
+  'b
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 584 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 585
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 637 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 642
+type(
+  ('b * color) list
+)
+ident(
+  int_ref color "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 547 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 552
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 611 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 643
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 644 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 650
+type(
+  (color * int) list
+)
+ident(
+  int_ref result "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 540 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 546
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 599 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 651
+type(
+  (color * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 652 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 657
+type(
+  ('b * color) list
+)
+ident(
+  int_ref color "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 547 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 552
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 658 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 662
+type(
+  'b list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 587 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 591
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 595 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 662
+type(
+  (color * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 555 "esami/esami_da_verificare_se_ok/febraio2019.ml" 23 580 662
+type(
+  'b list -> (color * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 667 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 670
+type(
+  (color * int) list -> ('a * color) list -> 'a list -> (color * int) list
+)
+ident(
+  int_ref aux "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 536 "esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 539
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 671 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 673
+type(
+  (color * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 674 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 679
+type(
+  ('a * color) list
+)
+ident(
+  int_ref color "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 512 "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 517
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 680 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 685
+type(
+  'a list
+)
+ident(
+  int_ref lista "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 518 "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 523
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 667 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 685
+type(
+  (color * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 21 527 528 "esami/esami_da_verificare_se_ok/febraio2019.ml" 24 663 685
+type(
+  (color * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 689 "esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 701
+type(
+  (int * color) list -> int list -> (color * int) list
+)
+ident(
+  int_ref conta_colori "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 499 "esami/esami_da_verificare_se_ok/febraio2019.ml" 20 495 511
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 702 "esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 706
+type(
+  (int * color) list
+)
+ident(
+  int_ref cols "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 135 "esami/esami_da_verificare_se_ok/febraio2019.ml" 9 131 139
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 707 "esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 712
+type(
+  int list
+)
+ident(
+  int_ref lista "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 97 "esami/esami_da_verificare_se_ok/febraio2019.ml" 7 93 102
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 689 "esami/esami_da_verificare_se_ok/febraio2019.ml" 26 689 712
+type(
+  (color * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 760 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 776
+type(
+  (int * color) list
+)
+ident(
+  def listaColoriGrafo "esami/esami_da_verificare_se_ok/febraio2019.ml" 34 875 875 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 781 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 782
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 783 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 789
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 780 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 790
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 793 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 794
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 795 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 800
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 792 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 801
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 804 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 805
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 806 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 811
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 803 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 812
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 815 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 816
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 817 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 822
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 814 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 823
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 826 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 827
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 828 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 834
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 825 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 835
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 838 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 839
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 841 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 846
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 837 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 847
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 850 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 851
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 852 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 857
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 849 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 858
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 861 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 862
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 863 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 869
+type(
+  color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 860 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 870
+type(
+  int * color
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 779 "esami/esami_da_verificare_se_ok/febraio2019.ml" 32 756 871
+type(
+  (int * color) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 913 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 918
+type(
+  (int * int) list
+)
+ident(
+  def grafo "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1008 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 923 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 924
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 925 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 926
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 922 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 927
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 929 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 930
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 931 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 932
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 928 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 933
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 936 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 937
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 938 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 939
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 935 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 940
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 943 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 944
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 945 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 946
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 942 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 947
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 950 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 951
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 952 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 953
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 949 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 954
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 957 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 958
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 959 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 960
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 956 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 961
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 964 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 965
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 966 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 967
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 963 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 968
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 971 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 972
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 973 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 974
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 970 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 975
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 978 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 979
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 980 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 981
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 977 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 982
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 985 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 986
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 987 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 988
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 984 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 989
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 992 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 993
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 994 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 995
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 991 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 996
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 999 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 1000
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 1001 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 1002
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 998 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 1003
+type(
+  int * int
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 921 "esami/esami_da_verificare_se_ok/febraio2019.ml" 36 909 1004
+type(
+  (int * int) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1016 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1026
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  def successori "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1008 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1027 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1028
+type(
+  'a
+)
+ident(
+  def n "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1031 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 39 1041 1041 "esami/esami_da_verificare_se_ok/febraio2019.ml" 39 1041 1043
+type(
+  ('a * 'a) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 39 1041 1047 "esami/esami_da_verificare_se_ok/febraio2019.ml" 39 1041 1049
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1053 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1054
+type(
+  'a
+)
+ident(
+  def a "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1067 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1055 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1056
+type(
+  'a
+)
+ident(
+  def b "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1067 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1052 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1057
+type(
+  'a * 'a
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1059 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1063
+type(
+  ('a * 'a) list
+)
+ident(
+  def rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1067 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1052 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1063
+type(
+  ('a * 'a) list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1070 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1071
+type(
+  'a
+)
+ident(
+  int_ref a "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1053 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1054
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1072 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1073
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1074 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1075
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1027 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1028
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1070 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1075
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1081 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1082
+type(
+  'a
+)
+ident(
+  int_ref b "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1055 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1056
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1084 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1094
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref successori "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1016 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1026
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1095 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1096
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1027 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1028
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1097 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1101
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1059 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1063
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1084 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1101
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1081 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1101
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1118 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1119
+type(
+  'a
+)
+ident(
+  int_ref b "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1055 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1056
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1119 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1120
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1120 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1121
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1027 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1028
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1118 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1121
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1127 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1128
+type(
+  'a
+)
+ident(
+  int_ref a "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1053 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1054
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1130 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1140
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref successori "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1016 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1026
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1141 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1142
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1027 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1028
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1143 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1147
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1059 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1063
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1130 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1147
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1127 "esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1147
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1160 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1170
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref successori "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1016 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1026
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1171 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1172
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1027 "esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1028
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1173 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1059 "esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1063
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1160 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 41 1102 1115 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 40 1050 1067 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 38 1008 1031 "esami/esami_da_verificare_se_ok/febraio2019.ml" 42 1148 1177
+type(
+  ('a * 'a) list -> 'a list
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 44 1181 1185 "esami/esami_da_verificare_se_ok/febraio2019.ml" 44 1181 1199
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def get_color_node "esami/esami_da_verificare_se_ok/febraio2019.ml" 50 1277 1277 "esami/esami_da_verificare_se_ok/febraio2019.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 44 1181 1200 "esami/esami_da_verificare_se_ok/febraio2019.ml" 44 1181 1204
+type(
+  '_weak1
+)
+ident(
+  def node "esami/esami_da_verificare_se_ok/febraio2019.ml" 44 1181 1205 "esami/esami_da_verificare_se_ok/febraio2019.ml" 47 1246 1271
+)
+"esami/esami_da_verificare_se_ok/febraio2019.ml" 44 1181 1205 "esami/esami_da_verificare_se_ok/febraio2019.ml" 44 1181 1211
+type(
+  '_weak2
+)
+ident(
+  def colors "esami/esami_da_verificare_se_ok/febraio2019.ml" 45 1215 1216 "esami/esami_da_verificare_se_ok/febraio2019.ml" 47 1246 1271
+)

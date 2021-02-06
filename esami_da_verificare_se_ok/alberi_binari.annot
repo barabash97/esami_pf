@@ -1,0 +1,1392 @@
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 3 56 64 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 3 56 68
+type(
+  'a tree -> int
+)
+ident(
+  def size "esami/esami_da_verificare_se_ok/alberi_binari.ml" 3 56 56 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 4 81 84 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 4 81 89
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 4 81 93 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 4 81 94
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 101 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 102
+type(
+  'a
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 104 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 106
+type(
+  'a tree
+)
+ident(
+  def t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 114 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 135
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 107 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 109
+type(
+  'a tree
+)
+ident(
+  def t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 114 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 135
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 98 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 110
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 114 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 115
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 116 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 117
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 118 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 122
+type(
+  'a tree -> int
+)
+ident(
+  int_ref size "esami/esami_da_verificare_se_ok/alberi_binari.ml" 3 56 64 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 3 56 68
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 123 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 125
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 104 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 106
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 118 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 125
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 114 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 125
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 126 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 127
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 128 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 132
+type(
+  'a tree -> int
+)
+ident(
+  int_ref size "esami/esami_da_verificare_se_ok/alberi_binari.ml" 3 56 64 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 3 56 68
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 133 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 135
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 107 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 109
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 128 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 135
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 114 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 135
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 3 56 71 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 5 95 135
+type(
+  'a tree -> int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 144 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 150
+type(
+  int tree
+)
+ident(
+  def albero "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 274 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 156 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 157
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 163 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 164
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 169 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 170
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 172 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 177
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 179 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 184
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 166 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 185
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 190 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 191
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 193 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 198
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 200 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 205
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 187 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 206
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 160 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 207
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 212 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 213
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 218 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 219
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 224 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 225
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 227 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 232
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 234 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 239
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 221 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 240
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 242 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 247
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 215 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 248
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 253 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 254
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 256 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 261
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 262 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 267
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 250 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 268
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 209 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 269
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 153 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 9 160 270
+type(
+  int tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 282 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 292
+type(
+  ('a -> bool) -> 'a tree -> bool
+)
+ident(
+  def tree_exist "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 274 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 293 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 294
+type(
+  'a -> bool
+)
+ident(
+  def p "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 297 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 12 307 310 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 12 307 315
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 12 307 319 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 12 307 324
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 331 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 332
+type(
+  'a
+)
+ident(
+  def n "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 346 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 333 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 335
+type(
+  'a tree
+)
+ident(
+  def t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 346 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 336 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 338
+type(
+  'a tree
+)
+ident(
+  def t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 346 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 328 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 339
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 346 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 347
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 293 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 294
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 348 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 349
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 331 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 332
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 346 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 349
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 350 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 352
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 353 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 363
+type(
+  ('a -> bool) -> 'a tree -> bool
+)
+ident(
+  int_ref tree_exist "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 282 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 292
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 364 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 365
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 293 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 294
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 366 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 368
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 333 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 335
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 353 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 368
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 369 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 371
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 372 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 382
+type(
+  ('a -> bool) -> 'a tree -> bool
+)
+ident(
+  int_ref tree_exist "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 282 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 292
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 383 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 384
+type(
+  'a -> bool
+)
+ident(
+  int_ref p "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 293 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 294
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 385 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 336 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 13 325 338
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 372 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 353 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 346 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 11 274 297 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 14 343 387
+type(
+  'a tree -> bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 400 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 408
+type(
+  'a tree -> 'a list
+)
+ident(
+  def raccogli "esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 392 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 18 421 423 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 18 421 428
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 18 421 432 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 18 421 434
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 441 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 442
+type(
+  'a
+)
+ident(
+  def x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 453 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 485
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 443 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 445
+type(
+  'a tree
+)
+ident(
+  def t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 453 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 485
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 446 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 448
+type(
+  'a tree
+)
+ident(
+  def t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 453 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 485
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 438 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 449
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 453 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 454
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 441 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 442
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 458 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 466
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref raccogli "esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 400 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 408
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 467 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 469
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 443 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 445
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 457 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 470
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 470 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 471
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.( @ ) "stdlib.mli" 785 29434 29434 "stdlib.mli" 785 29434 29475
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 472 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 480
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref raccogli "esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 400 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 408
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 481 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 483
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 446 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 448
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 471 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 484
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 456 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 485
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 453 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 485
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 411 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 19 435 485
+type(
+  'a tree -> 'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 21 489 489 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 21 489 497
+type(
+  int tree -> int list
+)
+ident(
+  int_ref raccogli "esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 400 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 17 392 408
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 21 489 498 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 21 489 504
+type(
+  int tree
+)
+ident(
+  int_ref albero "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 144 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 150
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 21 489 489 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 21 489 504
+type(
+  int list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 516 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 522
+type(
+  'a tree -> 'a list
+)
+ident(
+  def foglie "esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 508 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 24 535 536 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 24 535 541
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 24 535 545 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 24 535 547
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 553 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 554
+type(
+  'a
+)
+ident(
+  def x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 571 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 574
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 555 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 560
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 561 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 566
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 550 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 567
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 572 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 573
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 553 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 554
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 571 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 25 548 574
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 581 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 582
+type(
+  'a
+)
+ident(
+  def x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 596 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 619
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 583 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 585
+type(
+  'a tree
+)
+ident(
+  def t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 596 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 619
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 586 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 588
+type(
+  'a tree
+)
+ident(
+  def t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 596 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 619
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 578 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 589
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 597 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 603
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref foglie "esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 516 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 522
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 604 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 606
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 583 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 585
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 596 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 607
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 607 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 608
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.( @ ) "stdlib.mli" 785 29434 29434 "stdlib.mli" 785 29434 29475
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 609 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 615
+type(
+  'a tree -> 'a list
+)
+ident(
+  int_ref foglie "esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 516 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 522
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 616 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 618
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 586 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 26 576 588
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 608 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 619
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 596 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 619
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 525 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 27 594 619
+type(
+  'a tree -> 'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 29 623 623 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 29 623 629
+type(
+  int tree -> int list
+)
+ident(
+  int_ref foglie "esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 516 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 23 508 522
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 29 623 630 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 29 623 636
+type(
+  int tree
+)
+ident(
+  int_ref albero "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 144 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 150
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 29 623 623 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 29 623 636
+type(
+  int list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 648 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 666
+type(
+  'a tree -> 'a list list
+)
+ident(
+  def nodi_con_un_figlio "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 640 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 680 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 685
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 691 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 692
+type(
+  'a
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 693 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 698
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 700 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 705
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 688 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 706
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 680 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 706
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 710 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 32 679 712
+type(
+  'a list list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 718 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 719
+type(
+  'a
+)
+ident(
+  def x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 751 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 776
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 721 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 726
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 727 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 728
+type(
+  'a tree
+)
+ident(
+  def t "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 751 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 776
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 715 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 729
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 735 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 736
+type(
+  'a
+)
+ident(
+  def x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 751 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 776
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 738 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 739
+type(
+  'a tree
+)
+ident(
+  def t "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 751 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 776
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 741 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 746
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 732 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 747
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 715 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 747
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 752 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 753
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 718 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 719
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 751 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 754
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 756 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 774
+type(
+  'a tree -> 'a list list
+)
+ident(
+  int_ref nodi_con_un_figlio "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 648 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 666
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 775 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 776
+type(
+  'a tree
+)
+ident(
+  int_ref t "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 727 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 728
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 756 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 776
+type(
+  'a list list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 751 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 33 713 776
+type(
+  'a list list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 782 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 783
+type(
+  'a
+)
+ident(
+  def x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 794 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 841
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 784 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 786
+type(
+  'a tree
+)
+ident(
+  def t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 794 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 841
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 787 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 789
+type(
+  'a tree
+)
+ident(
+  def t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 794 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 841
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 779 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 790
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 795 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 813
+type(
+  'a tree -> 'a list list
+)
+ident(
+  int_ref nodi_con_un_figlio "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 648 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 666
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 814 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 816
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 784 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 786
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 794 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 817
+type(
+  'a list list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 817 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 818
+type(
+  'a list list -> 'a list list -> 'a list list
+)
+ident(
+  int_ref Stdlib.( @ ) "stdlib.mli" 785 29434 29434 "stdlib.mli" 785 29434 29475
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 819 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 837
+type(
+  'a tree -> 'a list list
+)
+ident(
+  int_ref nodi_con_un_figlio "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 648 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 666
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 838 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 840
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 787 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 789
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 818 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 841
+type(
+  'a list list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 794 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 841
+type(
+  'a list list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 669 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 34 777 841
+type(
+  'a tree -> 'a list list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 36 845 845 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 36 845 863
+type(
+  int tree -> int list list
+)
+ident(
+  int_ref nodi_con_un_figlio "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 648 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 31 640 666
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 36 845 864 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 36 845 870
+type(
+  int tree
+)
+ident(
+  int_ref albero "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 144 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 150
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 36 845 845 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 36 845 870
+type(
+  int list list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 906 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 913
+type(
+  'a -> 'a tree -> 'a list
+)
+ident(
+  def path_to "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 898 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 914 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 915
+type(
+  'a
+)
+ident(
+  def x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 918 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1100
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 41 928 931 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 41 928 936
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 41 928 940 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 41 928 945
+type(
+  exn -> 'a list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 41 928 946 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 41 928 954
+type(
+  exn
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 41 928 940 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 41 928 954
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 961 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 962
+type(
+  'a
+)
+ident(
+  def n "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 981 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 1018
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 964 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 969
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 971 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 976
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 958 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 977
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 984 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 985
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 914 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 915
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 986 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 987
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 988 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 989
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 961 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 962
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 984 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 989
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 996 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 997
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 961 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 962
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 995 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 998
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 1004 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 1009
+type(
+  exn -> 'a list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 1010 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 1018
+type(
+  exn
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 1004 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 1018
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 981 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 42 955 1018
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1025 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1026
+type(
+  'a
+)
+ident(
+  def n "esami/esami_da_verificare_se_ok/alberi_binari.ml" 44 1038 1041 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1100
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1027 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1029
+type(
+  'a tree
+)
+ident(
+  def t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 44 1038 1041 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1100
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1030 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1032
+type(
+  'a tree
+)
+ident(
+  def t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 44 1038 1041 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1100
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1022 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1033
+type(
+  'a tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 44 1038 1041 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 44 1038 1042
+type(
+  'a
+)
+ident(
+  int_ref n "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1025 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1026
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 45 1050 1054 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 45 1050 1061
+type(
+  'a -> 'a tree -> 'a list
+)
+ident(
+  int_ref path_to "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 906 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 913
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 45 1050 1062 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 45 1050 1063
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 914 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 915
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 45 1050 1064 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 45 1050 1066
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1027 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1029
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 45 1050 1054 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 45 1050 1066
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1075 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1083
+type(
+  exn
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1087 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1094
+type(
+  'a -> 'a tree -> 'a list
+)
+ident(
+  int_ref path_to "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 906 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 913
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1095 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1096
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 914 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 915
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1097 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1099
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1030 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 43 1019 1032
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1087 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1099
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 44 1038 1044 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1100
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 44 1038 1041 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1100
+type(
+  'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 918 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 46 1067 1100
+type(
+  'a tree -> 'a list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 48 1105 1105 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 48 1105 1112
+type(
+  int -> int tree -> int list
+)
+ident(
+  int_ref path_to "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 906 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 40 898 913
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 48 1105 1113 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 48 1105 1114
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 48 1105 1115 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 48 1105 1121
+type(
+  int tree
+)
+ident(
+  int_ref albero "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 144 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 8 140 150
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 48 1105 1105 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 48 1105 1121
+type(
+  int list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1133 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1136
+type(
+  'a -> ('a * int) list -> ('a * int) list
+)
+ident(
+  def add "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1125 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1137 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1138
+type(
+  'a
+)
+ident(
+  def y "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1141 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1242
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1154 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1156
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1162 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1163
+type(
+  'a
+)
+ident(
+  int_ref y "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1137 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1138
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1164 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1165
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1161 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1166
+type(
+  'a * int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1160 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 51 1151 1167
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1172 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1173
+type(
+  'a
+)
+ident(
+  def a "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1189 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1242
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1174 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1175
+type(
+  int
+)
+ident(
+  def b "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1189 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1242
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1171 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1176
+type(
+  'a * int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1178 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1182
+type(
+  ('a * int) list
+)
+ident(
+  def rest "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1189 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1242
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1171 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1182
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1192 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1193
+type(
+  'a
+)
+ident(
+  int_ref a "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1172 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1173
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1194 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1195
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1196 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1197
+type(
+  'a
+)
+ident(
+  int_ref y "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1137 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1138
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1192 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1197
+type(
+  bool
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1204 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1205
+type(
+  'a
+)
+ident(
+  int_ref a "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1172 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1173
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1207 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1208
+type(
+  int
+)
+ident(
+  int_ref b "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1174 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1175
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1208 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1209
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1209 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1210
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1207 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1210
+type(
+  int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1203 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1211
+type(
+  'a * int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1213 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1217
+type(
+  ('a * int) list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1178 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1182
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1203 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1217
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1224 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1225
+type(
+  'a
+)
+ident(
+  int_ref a "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1172 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1173
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1226 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1227
+type(
+  int
+)
+ident(
+  int_ref b "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1174 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1175
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1223 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1228
+type(
+  'a * int
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1231 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1234
+type(
+  'a -> ('a * int) list -> ('a * int) list
+)
+ident(
+  int_ref add "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1133 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1136
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1235 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1236
+type(
+  'a
+)
+ident(
+  int_ref y "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1137 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1138
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1237 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1241
+type(
+  ('a * int) list
+)
+ident(
+  int_ref rest "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1178 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 52 1168 1182
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1230 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1242
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1223 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1242
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1189 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1242
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1141 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 53 1187 1242
+type(
+  ('a * int) list -> ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 55 1246 1250 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 55 1246 1255
+type(
+  'a tree -> ('a * int) list
+)
+ident(
+  def count "esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1372 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 0 0 -1
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 55 1246 1256 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 55 1246 1257
+type(
+  'a tree
+)
+ident(
+  def t "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1262 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1372
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1270 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1273
+type(
+  ('b * int) list -> 'b tree -> ('b * int) list
+)
+ident(
+  def aux "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1262 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1372
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1274 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1280
+type(
+  ('b * int) list
+)
+ident(
+  def result "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1283 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1359
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 57 1292 1294 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 57 1292 1299
+type(
+  'b tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 57 1292 1303 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 57 1292 1309
+type(
+  ('b * int) list
+)
+ident(
+  int_ref result "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1274 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1280
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1315 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1316
+type(
+  'b
+)
+ident(
+  def x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1330 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1359
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1317 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1319
+type(
+  'b tree
+)
+ident(
+  def t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1330 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1359
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1320 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1322
+type(
+  'b tree
+)
+ident(
+  def t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1330 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1359
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1312 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1323
+type(
+  'b tree
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1330 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1333
+type(
+  ('b * int) list -> 'b tree -> ('b * int) list
+)
+ident(
+  int_ref aux "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1270 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1273
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1334 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1337
+type(
+  ('b * int) list -> 'b tree -> ('b * int) list
+)
+ident(
+  int_ref aux "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1270 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1273
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1339 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1342
+type(
+  'b -> ('b * int) list -> ('b * int) list
+)
+ident(
+  int_ref add "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1133 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 50 1125 1136
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1343 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1344
+type(
+  'b
+)
+ident(
+  int_ref x "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1315 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1316
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1345 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1351
+type(
+  ('b * int) list
+)
+ident(
+  int_ref result "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1274 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1280
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1338 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1352
+type(
+  ('b * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1353 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1355
+type(
+  'b tree
+)
+ident(
+  int_ref t1 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1317 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1319
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1333 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1356
+type(
+  ('b * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1357 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1359
+type(
+  'b tree
+)
+ident(
+  int_ref t2 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1320 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 58 1310 1322
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1330 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1359
+type(
+  ('b * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1283 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 59 1328 1359
+type(
+  'b tree -> ('b * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1364 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1367
+type(
+  ('a * int) list -> 'a tree -> ('a * int) list
+)
+ident(
+  int_ref aux "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1270 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1273
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1368 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1370
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1371 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1372
+type(
+  'a tree
+)
+ident(
+  int_ref t "esami/esami_da_verificare_se_ok/alberi_binari.ml" 55 1246 1256 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 55 1246 1257
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1364 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1372
+type(
+  ('a * int) list
+)
+"esami/esami_da_verificare_se_ok/alberi_binari.ml" 56 1261 1262 "esami/esami_da_verificare_se_ok/alberi_binari.ml" 60 1360 1372
+type(
+  ('a * int) list
+)

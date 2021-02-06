@@ -1,0 +1,143 @@
+"esami/febbraio2019.ml" 5 76 80 "esami/febbraio2019.ml" 5 76 84
+type(
+  (int * color) list
+)
+ident(
+  def cols "esami/febbraio2019.ml" 8 146 146 "esami/febbraio2019.ml" 0 0 -1
+)
+"esami/febbraio2019.ml" 5 76 89 "esami/febbraio2019.ml" 5 76 90
+type(
+  int
+)
+"esami/febbraio2019.ml" 5 76 91 "esami/febbraio2019.ml" 5 76 96
+type(
+  color
+)
+"esami/febbraio2019.ml" 5 76 88 "esami/febbraio2019.ml" 5 76 97
+type(
+  int * color
+)
+"esami/febbraio2019.ml" 5 76 100 "esami/febbraio2019.ml" 5 76 101
+type(
+  int
+)
+"esami/febbraio2019.ml" 5 76 102 "esami/febbraio2019.ml" 5 76 107
+type(
+  color
+)
+"esami/febbraio2019.ml" 5 76 99 "esami/febbraio2019.ml" 5 76 108
+type(
+  int * color
+)
+"esami/febbraio2019.ml" 5 76 111 "esami/febbraio2019.ml" 5 76 112
+type(
+  int
+)
+"esami/febbraio2019.ml" 5 76 113 "esami/febbraio2019.ml" 5 76 118
+type(
+  color
+)
+"esami/febbraio2019.ml" 5 76 110 "esami/febbraio2019.ml" 5 76 119
+type(
+  int * color
+)
+"esami/febbraio2019.ml" 6 121 122 "esami/febbraio2019.ml" 6 121 123
+type(
+  int
+)
+"esami/febbraio2019.ml" 6 121 124 "esami/febbraio2019.ml" 6 121 129
+type(
+  color
+)
+"esami/febbraio2019.ml" 6 121 121 "esami/febbraio2019.ml" 6 121 130
+type(
+  int * color
+)
+"esami/febbraio2019.ml" 6 121 133 "esami/febbraio2019.ml" 6 121 134
+type(
+  int
+)
+"esami/febbraio2019.ml" 6 121 135 "esami/febbraio2019.ml" 6 121 140
+type(
+  color
+)
+"esami/febbraio2019.ml" 6 121 132 "esami/febbraio2019.ml" 6 121 141
+type(
+  int * color
+)
+"esami/febbraio2019.ml" 5 76 87 "esami/febbraio2019.ml" 6 121 142
+type(
+  (int * color) list
+)
+"esami/febbraio2019.ml" 8 146 150 "esami/febbraio2019.ml" 8 146 155
+type(
+  int list
+)
+ident(
+  def nodes "esami/febbraio2019.ml" 10 185 185 "esami/febbraio2019.ml" 0 0 -1
+)
+"esami/febbraio2019.ml" 8 146 160 "esami/febbraio2019.ml" 8 146 161
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 162 "esami/febbraio2019.ml" 8 146 163
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 164 "esami/febbraio2019.ml" 8 146 165
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 166 "esami/febbraio2019.ml" 8 146 167
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 168 "esami/febbraio2019.ml" 8 146 169
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 170 "esami/febbraio2019.ml" 8 146 171
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 172 "esami/febbraio2019.ml" 8 146 173
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 174 "esami/febbraio2019.ml" 8 146 175
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 176 "esami/febbraio2019.ml" 8 146 177
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 178 "esami/febbraio2019.ml" 8 146 180
+type(
+  int
+)
+"esami/febbraio2019.ml" 8 146 159 "esami/febbraio2019.ml" 8 146 181
+type(
+  int list
+)
+"esami/febbraio2019.ml" 10 185 189 "esami/febbraio2019.ml" 10 185 201
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def trova_colore "esami/febbraio2019.ml" 15 263 263 "esami/febbraio2019.ml" 0 0 -1
+)
+"esami/febbraio2019.ml" 10 185 202 "esami/febbraio2019.ml" 10 185 203
+type(
+  '_weak1
+)
+ident(
+  def e "esami/febbraio2019.ml" 10 185 204 "esami/febbraio2019.ml" 13 236 253
+)
+"esami/febbraio2019.ml" 10 185 204 "esami/febbraio2019.ml" 10 185 207
+type(
+  '_weak2
+)
+ident(
+  def lst "esami/febbraio2019.ml" 11 211 212 "esami/febbraio2019.ml" 13 236 253
+)

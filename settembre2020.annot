@@ -1,372 +1,428 @@
-"esami/settembre2020.ml" 2 18 26 "esami/settembre2020.ml" 2 18 32
+"esami/settembre2020.ml" 3 34 38 "esami/settembre2020.ml" 3 34 43
 type(
-  'a -> 'a list -> 'a list
+  (int * int) list
 )
 ident(
-  def remove "esami/settembre2020.ml" 2 18 18 "esami/settembre2020.ml" 0 0 -1
+  def grafo "esami/settembre2020.ml" 5 133 133 "esami/settembre2020.ml" 0 0 -1
 )
-"esami/settembre2020.ml" 2 18 33 "esami/settembre2020.ml" 2 18 34
+"esami/settembre2020.ml" 3 34 48 "esami/settembre2020.ml" 3 34 49
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 50 "esami/settembre2020.ml" 3 34 51
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 47 "esami/settembre2020.ml" 3 34 52
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 54 "esami/settembre2020.ml" 3 34 55
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 56 "esami/settembre2020.ml" 3 34 57
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 53 "esami/settembre2020.ml" 3 34 58
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 61 "esami/settembre2020.ml" 3 34 62
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 63 "esami/settembre2020.ml" 3 34 64
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 60 "esami/settembre2020.ml" 3 34 65
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 68 "esami/settembre2020.ml" 3 34 69
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 70 "esami/settembre2020.ml" 3 34 71
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 67 "esami/settembre2020.ml" 3 34 72
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 75 "esami/settembre2020.ml" 3 34 76
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 77 "esami/settembre2020.ml" 3 34 78
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 74 "esami/settembre2020.ml" 3 34 79
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 82 "esami/settembre2020.ml" 3 34 83
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 84 "esami/settembre2020.ml" 3 34 85
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 81 "esami/settembre2020.ml" 3 34 86
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 89 "esami/settembre2020.ml" 3 34 90
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 91 "esami/settembre2020.ml" 3 34 92
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 88 "esami/settembre2020.ml" 3 34 93
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 96 "esami/settembre2020.ml" 3 34 97
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 98 "esami/settembre2020.ml" 3 34 99
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 95 "esami/settembre2020.ml" 3 34 100
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 103 "esami/settembre2020.ml" 3 34 104
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 105 "esami/settembre2020.ml" 3 34 106
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 102 "esami/settembre2020.ml" 3 34 107
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 110 "esami/settembre2020.ml" 3 34 111
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 112 "esami/settembre2020.ml" 3 34 113
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 109 "esami/settembre2020.ml" 3 34 114
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 117 "esami/settembre2020.ml" 3 34 118
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 119 "esami/settembre2020.ml" 3 34 120
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 116 "esami/settembre2020.ml" 3 34 121
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 124 "esami/settembre2020.ml" 3 34 125
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 126 "esami/settembre2020.ml" 3 34 127
+type(
+  int
+)
+"esami/settembre2020.ml" 3 34 123 "esami/settembre2020.ml" 3 34 128
+type(
+  int * int
+)
+"esami/settembre2020.ml" 3 34 46 "esami/settembre2020.ml" 3 34 129
+type(
+  (int * int) list
+)
+"esami/settembre2020.ml" 5 133 141 "esami/settembre2020.ml" 5 133 147
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  def vicini "esami/settembre2020.ml" 5 133 133 "esami/settembre2020.ml" 0 0 -1
+)
+"esami/settembre2020.ml" 5 133 148 "esami/settembre2020.ml" 5 133 152
 type(
   'a
 )
 ident(
-  def x "esami/settembre2020.ml" 2 18 37 "esami/settembre2020.ml" 4 57 117
+  def nodo "esami/settembre2020.ml" 5 133 155 "esami/settembre2020.ml" 10 279 303
 )
-"esami/settembre2020.ml" 3 47 48 "esami/settembre2020.ml" 3 47 50
+"esami/settembre2020.ml" 6 165 168 "esami/settembre2020.ml" 6 165 170
+type(
+  ('a * 'a) list
+)
+"esami/settembre2020.ml" 6 165 174 "esami/settembre2020.ml" 6 165 176
 type(
   'a list
 )
-"esami/settembre2020.ml" 3 47 54 "esami/settembre2020.ml" 3 47 56
-type(
-  'a list
-)
-"esami/settembre2020.ml" 4 57 59 "esami/settembre2020.ml" 4 57 60
+"esami/settembre2020.ml" 7 177 181 "esami/settembre2020.ml" 7 177 182
 type(
   'a
 )
 ident(
-  def y "esami/settembre2020.ml" 4 57 70 "esami/settembre2020.ml" 4 57 117
+  def a "esami/settembre2020.ml" 8 196 199 "esami/settembre2020.ml" 10 279 303
 )
-"esami/settembre2020.ml" 4 57 62 "esami/settembre2020.ml" 4 57 66
-type(
-  'a list
-)
-ident(
-  def rest "esami/settembre2020.ml" 4 57 70 "esami/settembre2020.ml" 4 57 117
-)
-"esami/settembre2020.ml" 4 57 59 "esami/settembre2020.ml" 4 57 66
-type(
-  'a list
-)
-"esami/settembre2020.ml" 4 57 73 "esami/settembre2020.ml" 4 57 74
+"esami/settembre2020.ml" 7 177 183 "esami/settembre2020.ml" 7 177 184
 type(
   'a
 )
 ident(
-  int_ref y "esami/settembre2020.ml" 4 57 59 "esami/settembre2020.ml" 4 57 60
+  def b "esami/settembre2020.ml" 8 196 199 "esami/settembre2020.ml" 10 279 303
 )
-"esami/settembre2020.ml" 4 57 74 "esami/settembre2020.ml" 4 57 75
+"esami/settembre2020.ml" 7 177 180 "esami/settembre2020.ml" 7 177 185
+type(
+  'a * 'a
+)
+"esami/settembre2020.ml" 7 177 187 "esami/settembre2020.ml" 7 177 191
+type(
+  ('a * 'a) list
+)
+ident(
+  def rest "esami/settembre2020.ml" 8 196 199 "esami/settembre2020.ml" 10 279 303
+)
+"esami/settembre2020.ml" 7 177 180 "esami/settembre2020.ml" 7 177 191
+type(
+  ('a * 'a) list
+)
+"esami/settembre2020.ml" 8 196 202 "esami/settembre2020.ml" 8 196 203
+type(
+  'a
+)
+ident(
+  int_ref a "esami/settembre2020.ml" 7 177 181 "esami/settembre2020.ml" 7 177 182
+)
+"esami/settembre2020.ml" 8 196 204 "esami/settembre2020.ml" 8 196 205
 type(
   'a -> 'a -> bool
 )
 ident(
   int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
 )
-"esami/settembre2020.ml" 4 57 75 "esami/settembre2020.ml" 4 57 76
+"esami/settembre2020.ml" 8 196 206 "esami/settembre2020.ml" 8 196 210
 type(
   'a
 )
 ident(
-  int_ref x "esami/settembre2020.ml" 2 18 33 "esami/settembre2020.ml" 2 18 34
+  int_ref nodo "esami/settembre2020.ml" 5 133 148 "esami/settembre2020.ml" 5 133 152
 )
-"esami/settembre2020.ml" 4 57 73 "esami/settembre2020.ml" 4 57 76
+"esami/settembre2020.ml" 8 196 202 "esami/settembre2020.ml" 8 196 210
 type(
   bool
 )
-"esami/settembre2020.ml" 4 57 82 "esami/settembre2020.ml" 4 57 88
-type(
-  'a -> 'a list -> 'a list
-)
-ident(
-  int_ref remove "esami/settembre2020.ml" 2 18 26 "esami/settembre2020.ml" 2 18 32
-)
-"esami/settembre2020.ml" 4 57 89 "esami/settembre2020.ml" 4 57 90
+"esami/settembre2020.ml" 8 196 216 "esami/settembre2020.ml" 8 196 217
 type(
   'a
 )
 ident(
-  int_ref x "esami/settembre2020.ml" 2 18 33 "esami/settembre2020.ml" 2 18 34
+  int_ref b "esami/settembre2020.ml" 7 177 183 "esami/settembre2020.ml" 7 177 184
 )
-"esami/settembre2020.ml" 4 57 91 "esami/settembre2020.ml" 4 57 95
+"esami/settembre2020.ml" 8 196 219 "esami/settembre2020.ml" 8 196 225
 type(
-  'a list
+  'a -> ('a * 'a) list -> 'a list
 )
 ident(
-  int_ref rest "esami/settembre2020.ml" 4 57 62 "esami/settembre2020.ml" 4 57 66
+  int_ref vicini "esami/settembre2020.ml" 5 133 141 "esami/settembre2020.ml" 5 133 147
 )
-"esami/settembre2020.ml" 4 57 82 "esami/settembre2020.ml" 4 57 95
-type(
-  'a list
-)
-"esami/settembre2020.ml" 4 57 101 "esami/settembre2020.ml" 4 57 102
+"esami/settembre2020.ml" 8 196 226 "esami/settembre2020.ml" 8 196 230
 type(
   'a
 )
 ident(
-  int_ref y "esami/settembre2020.ml" 4 57 59 "esami/settembre2020.ml" 4 57 60
+  int_ref nodo "esami/settembre2020.ml" 5 133 148 "esami/settembre2020.ml" 5 133 152
 )
-"esami/settembre2020.ml" 4 57 104 "esami/settembre2020.ml" 4 57 110
+"esami/settembre2020.ml" 8 196 231 "esami/settembre2020.ml" 8 196 235
 type(
-  'a -> 'a list -> 'a list
+  ('a * 'a) list
 )
 ident(
-  int_ref remove "esami/settembre2020.ml" 2 18 26 "esami/settembre2020.ml" 2 18 32
+  int_ref rest "esami/settembre2020.ml" 7 177 187 "esami/settembre2020.ml" 7 177 191
 )
-"esami/settembre2020.ml" 4 57 111 "esami/settembre2020.ml" 4 57 112
+"esami/settembre2020.ml" 8 196 219 "esami/settembre2020.ml" 8 196 235
+type(
+  'a list
+)
+"esami/settembre2020.ml" 8 196 216 "esami/settembre2020.ml" 8 196 235
+type(
+  'a list
+)
+"esami/settembre2020.ml" 9 236 247 "esami/settembre2020.ml" 9 236 248
 type(
   'a
 )
 ident(
-  int_ref x "esami/settembre2020.ml" 2 18 33 "esami/settembre2020.ml" 2 18 34
+  int_ref b "esami/settembre2020.ml" 7 177 183 "esami/settembre2020.ml" 7 177 184
 )
-"esami/settembre2020.ml" 4 57 113 "esami/settembre2020.ml" 4 57 117
-type(
-  'a list
-)
-ident(
-  int_ref rest "esami/settembre2020.ml" 4 57 62 "esami/settembre2020.ml" 4 57 66
-)
-"esami/settembre2020.ml" 4 57 104 "esami/settembre2020.ml" 4 57 117
-type(
-  'a list
-)
-"esami/settembre2020.ml" 4 57 101 "esami/settembre2020.ml" 4 57 117
-type(
-  'a list
-)
-"esami/settembre2020.ml" 4 57 70 "esami/settembre2020.ml" 4 57 117
-type(
-  'a list
-)
-"esami/settembre2020.ml" 2 18 37 "esami/settembre2020.ml" 4 57 117
-type(
-  'a list -> 'a list
-)
-"esami/settembre2020.ml" 6 121 125 "esami/settembre2020.ml" 6 121 130
-type(
-  int list
-)
-ident(
-  def lista "esami/settembre2020.ml" 8 150 150 "esami/settembre2020.ml" 0 0 -1
-)
-"esami/settembre2020.ml" 6 121 134 "esami/settembre2020.ml" 6 121 135
-type(
-  int
-)
-"esami/settembre2020.ml" 6 121 136 "esami/settembre2020.ml" 6 121 137
-type(
-  int
-)
-"esami/settembre2020.ml" 6 121 138 "esami/settembre2020.ml" 6 121 139
-type(
-  int
-)
-"esami/settembre2020.ml" 6 121 140 "esami/settembre2020.ml" 6 121 141
-type(
-  int
-)
-"esami/settembre2020.ml" 6 121 142 "esami/settembre2020.ml" 6 121 143
-type(
-  int
-)
-"esami/settembre2020.ml" 6 121 144 "esami/settembre2020.ml" 6 121 145
-type(
-  int
-)
-"esami/settembre2020.ml" 6 121 133 "esami/settembre2020.ml" 6 121 146
-type(
-  int list
-)
-"esami/settembre2020.ml" 8 150 150 "esami/settembre2020.ml" 8 150 156
-type(
-  int -> int list -> int list
-)
-ident(
-  int_ref remove "esami/settembre2020.ml" 2 18 26 "esami/settembre2020.ml" 2 18 32
-)
-"esami/settembre2020.ml" 8 150 157 "esami/settembre2020.ml" 8 150 158
-type(
-  int
-)
-"esami/settembre2020.ml" 8 150 159 "esami/settembre2020.ml" 8 150 164
-type(
-  int list
-)
-ident(
-  int_ref lista "esami/settembre2020.ml" 6 121 125 "esami/settembre2020.ml" 6 121 130
-)
-"esami/settembre2020.ml" 8 150 150 "esami/settembre2020.ml" 8 150 164
-type(
-  int list
-)
-"esami/settembre2020.ml" 10 168 172 "esami/settembre2020.ml" 10 168 183
-type(
-  'a -> 'a list -> 'a list
-)
-ident(
-  def remove_iter "esami/settembre2020.ml" 16 318 318 "esami/settembre2020.ml" 0 0 -1
-)
-"esami/settembre2020.ml" 10 168 184 "esami/settembre2020.ml" 10 168 185
-type(
-  'a
-)
-ident(
-  def x "esami/settembre2020.ml" 11 189 190 "esami/settembre2020.ml" 14 304 314
-)
-"esami/settembre2020.ml" 11 189 198 "esami/settembre2020.ml" 11 189 201
-type(
-  'a list -> 'a list -> 'a list
-)
-ident(
-  def aux "esami/settembre2020.ml" 11 189 190 "esami/settembre2020.ml" 14 304 314
-)
-"esami/settembre2020.ml" 11 189 202 "esami/settembre2020.ml" 11 189 208
-type(
-  'a list
-)
-ident(
-  def result "esami/settembre2020.ml" 11 189 211 "esami/settembre2020.ml" 13 236 303
-)
-"esami/settembre2020.ml" 12 221 223 "esami/settembre2020.ml" 12 221 225
-type(
-  'a list
-)
-"esami/settembre2020.ml" 12 221 229 "esami/settembre2020.ml" 12 221 235
-type(
-  'a list
-)
-ident(
-  int_ref result "esami/settembre2020.ml" 11 189 202 "esami/settembre2020.ml" 11 189 208
-)
-"esami/settembre2020.ml" 13 236 239 "esami/settembre2020.ml" 13 236 240
-type(
-  'a
-)
-ident(
-  def y "esami/settembre2020.ml" 13 236 250 "esami/settembre2020.ml" 13 236 303
-)
-"esami/settembre2020.ml" 13 236 242 "esami/settembre2020.ml" 13 236 246
-type(
-  'a list
-)
-ident(
-  def rest "esami/settembre2020.ml" 13 236 250 "esami/settembre2020.ml" 13 236 303
-)
-"esami/settembre2020.ml" 13 236 239 "esami/settembre2020.ml" 13 236 246
-type(
-  'a list
-)
-"esami/settembre2020.ml" 13 236 253 "esami/settembre2020.ml" 13 236 254
-type(
-  'a
-)
-ident(
-  int_ref y "esami/settembre2020.ml" 13 236 239 "esami/settembre2020.ml" 13 236 240
-)
-"esami/settembre2020.ml" 13 236 254 "esami/settembre2020.ml" 13 236 255
+"esami/settembre2020.ml" 9 236 248 "esami/settembre2020.ml" 9 236 249
 type(
   'a -> 'a -> bool
 )
 ident(
   int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
 )
-"esami/settembre2020.ml" 13 236 255 "esami/settembre2020.ml" 13 236 256
+"esami/settembre2020.ml" 9 236 249 "esami/settembre2020.ml" 9 236 253
 type(
   'a
 )
 ident(
-  int_ref x "esami/settembre2020.ml" 10 168 184 "esami/settembre2020.ml" 10 168 185
+  int_ref nodo "esami/settembre2020.ml" 5 133 148 "esami/settembre2020.ml" 5 133 152
 )
-"esami/settembre2020.ml" 13 236 253 "esami/settembre2020.ml" 13 236 256
+"esami/settembre2020.ml" 9 236 247 "esami/settembre2020.ml" 9 236 253
 type(
   bool
 )
-"esami/settembre2020.ml" 13 236 262 "esami/settembre2020.ml" 13 236 265
-type(
-  'a list -> 'a list -> 'a list
-)
-ident(
-  int_ref aux "esami/settembre2020.ml" 11 189 198 "esami/settembre2020.ml" 11 189 201
-)
-"esami/settembre2020.ml" 13 236 266 "esami/settembre2020.ml" 13 236 272
-type(
-  'a list
-)
-ident(
-  int_ref result "esami/settembre2020.ml" 11 189 202 "esami/settembre2020.ml" 11 189 208
-)
-"esami/settembre2020.ml" 13 236 273 "esami/settembre2020.ml" 13 236 277
-type(
-  'a list
-)
-ident(
-  int_ref rest "esami/settembre2020.ml" 13 236 242 "esami/settembre2020.ml" 13 236 246
-)
-"esami/settembre2020.ml" 13 236 262 "esami/settembre2020.ml" 13 236 277
-type(
-  'a list
-)
-"esami/settembre2020.ml" 13 236 283 "esami/settembre2020.ml" 13 236 286
-type(
-  'a list -> 'a list -> 'a list
-)
-ident(
-  int_ref aux "esami/settembre2020.ml" 11 189 198 "esami/settembre2020.ml" 11 189 201
-)
-"esami/settembre2020.ml" 13 236 288 "esami/settembre2020.ml" 13 236 289
+"esami/settembre2020.ml" 9 236 259 "esami/settembre2020.ml" 9 236 260
 type(
   'a
 )
 ident(
-  int_ref y "esami/settembre2020.ml" 13 236 239 "esami/settembre2020.ml" 13 236 240
+  int_ref a "esami/settembre2020.ml" 7 177 181 "esami/settembre2020.ml" 7 177 182
 )
-"esami/settembre2020.ml" 13 236 291 "esami/settembre2020.ml" 13 236 297
+"esami/settembre2020.ml" 9 236 262 "esami/settembre2020.ml" 9 236 268
 type(
-  'a list
+  'a -> ('a * 'a) list -> 'a list
 )
 ident(
-  int_ref result "esami/settembre2020.ml" 11 189 202 "esami/settembre2020.ml" 11 189 208
+  int_ref vicini "esami/settembre2020.ml" 5 133 141 "esami/settembre2020.ml" 5 133 147
 )
-"esami/settembre2020.ml" 13 236 287 "esami/settembre2020.ml" 13 236 298
+"esami/settembre2020.ml" 9 236 269 "esami/settembre2020.ml" 9 236 273
 type(
-  'a list
-)
-"esami/settembre2020.ml" 13 236 299 "esami/settembre2020.ml" 13 236 303
-type(
-  'a list
+  'a
 )
 ident(
-  int_ref rest "esami/settembre2020.ml" 13 236 242 "esami/settembre2020.ml" 13 236 246
+  int_ref nodo "esami/settembre2020.ml" 5 133 148 "esami/settembre2020.ml" 5 133 152
 )
-"esami/settembre2020.ml" 13 236 283 "esami/settembre2020.ml" 13 236 303
+"esami/settembre2020.ml" 9 236 274 "esami/settembre2020.ml" 9 236 278
 type(
-  'a list
-)
-"esami/settembre2020.ml" 13 236 250 "esami/settembre2020.ml" 13 236 303
-type(
-  'a list
-)
-"esami/settembre2020.ml" 11 189 211 "esami/settembre2020.ml" 13 236 303
-type(
-  'a list -> 'a list
-)
-"esami/settembre2020.ml" 14 304 308 "esami/settembre2020.ml" 14 304 311
-type(
-  'a list -> 'a list -> 'a list
+  ('a * 'a) list
 )
 ident(
-  int_ref aux "esami/settembre2020.ml" 11 189 198 "esami/settembre2020.ml" 11 189 201
+  int_ref rest "esami/settembre2020.ml" 7 177 187 "esami/settembre2020.ml" 7 177 191
 )
-"esami/settembre2020.ml" 14 304 312 "esami/settembre2020.ml" 14 304 314
+"esami/settembre2020.ml" 9 236 262 "esami/settembre2020.ml" 9 236 278
 type(
   'a list
 )
-"esami/settembre2020.ml" 14 304 308 "esami/settembre2020.ml" 14 304 314
+"esami/settembre2020.ml" 9 236 259 "esami/settembre2020.ml" 9 236 278
 type(
-  'a list -> 'a list
+  'a list
 )
-"esami/settembre2020.ml" 11 189 190 "esami/settembre2020.ml" 14 304 314
+"esami/settembre2020.ml" 10 279 287 "esami/settembre2020.ml" 10 279 293
 type(
-  'a list -> 'a list
-)
-"esami/settembre2020.ml" 16 318 318 "esami/settembre2020.ml" 16 318 329
-type(
-  int -> int list -> int list
+  'a -> ('a * 'a) list -> 'a list
 )
 ident(
-  int_ref remove_iter "esami/settembre2020.ml" 10 168 172 "esami/settembre2020.ml" 10 168 183
+  int_ref vicini "esami/settembre2020.ml" 5 133 141 "esami/settembre2020.ml" 5 133 147
 )
-"esami/settembre2020.ml" 16 318 330 "esami/settembre2020.ml" 16 318 331
+"esami/settembre2020.ml" 10 279 294 "esami/settembre2020.ml" 10 279 298
 type(
-  int
+  'a
+)
+ident(
+  int_ref nodo "esami/settembre2020.ml" 5 133 148 "esami/settembre2020.ml" 5 133 152
+)
+"esami/settembre2020.ml" 10 279 299 "esami/settembre2020.ml" 10 279 303
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/settembre2020.ml" 7 177 187 "esami/settembre2020.ml" 7 177 191
+)
+"esami/settembre2020.ml" 10 279 287 "esami/settembre2020.ml" 10 279 303
+type(
+  'a list
+)
+"esami/settembre2020.ml" 9 236 244 "esami/settembre2020.ml" 10 279 303
+type(
+  'a list
+)
+"esami/settembre2020.ml" 8 196 199 "esami/settembre2020.ml" 10 279 303
+type(
+  'a list
+)
+"esami/settembre2020.ml" 5 133 155 "esami/settembre2020.ml" 10 279 303
+type(
+  ('a * 'a) list -> 'a list
+)
+"esami/settembre2020.ml" 12 307 311 "esami/settembre2020.ml" 12 307 319
+type(
+  '_weak1 -> '_weak2 -> '_weak3 -> '_weak4 -> '_weak5
+)
+ident(
+  def percorso "esami/settembre2020.ml" 25 777 777 "esami/settembre2020.ml" 0 0 -1
+)
+"esami/settembre2020.ml" 12 307 320 "esami/settembre2020.ml" 12 307 321
+type(
+  '_weak1
+)
+ident(
+  def g "esami/settembre2020.ml" 12 307 322 "esami/settembre2020.ml" 23 750 773
+)
+"esami/settembre2020.ml" 12 307 322 "esami/settembre2020.ml" 12 307 327
+type(
+  '_weak2
+)
+ident(
+  def start "esami/settembre2020.ml" 12 307 328 "esami/settembre2020.ml" 23 750 773
+)
+"esami/settembre2020.ml" 12 307 328 "esami/settembre2020.ml" 12 307 333
+type(
+  '_weak3
+)
+ident(
+  def tappa "esami/settembre2020.ml" 12 307 334 "esami/settembre2020.ml" 23 750 773
+)
+"esami/settembre2020.ml" 12 307 334 "esami/settembre2020.ml" 12 307 340
+type(
+  '_weak4
+)
+ident(
+  def target "esami/settembre2020.ml" 13 344 345 "esami/settembre2020.ml" 23 750 773
+)
+"esami/settembre2020.ml" 13 344 353 "esami/settembre2020.ml" 13 344 362
+type(
+  '_weak6 -> '_weak7 -> '_weak8
+)
+ident(
+  def from_node "esami/settembre2020.ml" 13 344 345 "esami/settembre2020.ml" 23 750 773
+)
+"esami/settembre2020.ml" 13 344 363 "esami/settembre2020.ml" 13 344 370
+type(
+  '_weak6
+)
+ident(
+  def visited "esami/settembre2020.ml" 13 344 371 "esami/settembre2020.ml" 17 522 577
+)
+"esami/settembre2020.ml" 13 344 371 "esami/settembre2020.ml" 13 344 375
+type(
+  '_weak7
+)
+ident(
+  def nodo "esami/settembre2020.ml" 14 379 381 "esami/settembre2020.ml" 17 522 577
+)
+"esami/settembre2020.ml" 18 578 584 "esami/settembre2020.ml" 18 578 593
+type(
+  '_weak9 -> '_weak10 -> '_weak11 -> '_weak12
+)
+ident(
+  def from_list "esami/settembre2020.ml" 13 344 345 "esami/settembre2020.ml" 23 750 773
 )
