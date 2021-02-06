@@ -1,0 +1,472 @@
+"esami/esami_verificare_ok/febbraio2018.ml" 3 19 23 "esami/esami_verificare_ok/febbraio2018.ml" 3 19 28
+type(
+  int list
+)
+ident(
+  def lista "esami/esami_verificare_ok/febbraio2018.ml" 6 95 95 "esami/esami_verificare_ok/febbraio2018.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 3 19 32 "esami/esami_verificare_ok/febbraio2018.ml" 3 19 34
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 3 19 35 "esami/esami_verificare_ok/febbraio2018.ml" 3 19 37
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 3 19 38 "esami/esami_verificare_ok/febbraio2018.ml" 3 19 40
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 3 19 31 "esami/esami_verificare_ok/febbraio2018.ml" 3 19 41
+type(
+  int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 6 95 99 "esami/esami_verificare_ok/febbraio2018.ml" 6 95 121
+type(
+  int list -> int list
+)
+ident(
+  def durations_to_end_times "esami/esami_verificare_ok/febbraio2018.ml" 17 289 289 "esami/esami_verificare_ok/febbraio2018.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 6 95 122 "esami/esami_verificare_ok/febbraio2018.ml" 6 95 127
+type(
+  int list
+)
+ident(
+  def lista "esami/esami_verificare_ok/febbraio2018.ml" 7 131 132 "esami/esami_verificare_ok/febbraio2018.ml" 10 238 253
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 7 131 140 "esami/esami_verificare_ok/febbraio2018.ml" 7 131 143
+type(
+  int -> int list -> int list
+)
+ident(
+  def aux "esami/esami_verificare_ok/febbraio2018.ml" 7 131 132 "esami/esami_verificare_ok/febbraio2018.ml" 10 238 253
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 7 131 144 "esami/esami_verificare_ok/febbraio2018.ml" 7 131 155
+type(
+  int
+)
+ident(
+  def somma_tempi "esami/esami_verificare_ok/febbraio2018.ml" 7 131 158 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 237
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 8 168 172 "esami/esami_verificare_ok/febbraio2018.ml" 8 168 174
+type(
+  int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 8 168 178 "esami/esami_verificare_ok/febbraio2018.ml" 8 168 180
+type(
+  int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 185 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 186
+type(
+  int
+)
+ident(
+  def x "esami/esami_verificare_ok/febbraio2018.ml" 9 181 196 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 237
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 188 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 192
+type(
+  int list
+)
+ident(
+  def rest "esami/esami_verificare_ok/febbraio2018.ml" 9 181 196 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 237
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 185 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 192
+type(
+  int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 197 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 198
+type(
+  int
+)
+ident(
+  int_ref x "esami/esami_verificare_ok/febbraio2018.ml" 9 181 185 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 186
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 198 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 199
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 199 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 210
+type(
+  int
+)
+ident(
+  int_ref somma_tempi "esami/esami_verificare_ok/febbraio2018.ml" 7 131 144 "esami/esami_verificare_ok/febbraio2018.ml" 7 131 155
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 196 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 211
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 213 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 216
+type(
+  int -> int list -> int list
+)
+ident(
+  int_ref aux "esami/esami_verificare_ok/febbraio2018.ml" 7 131 140 "esami/esami_verificare_ok/febbraio2018.ml" 7 131 143
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 218 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 219
+type(
+  int
+)
+ident(
+  int_ref x "esami/esami_verificare_ok/febbraio2018.ml" 9 181 185 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 186
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 219 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 220
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 220 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 231
+type(
+  int
+)
+ident(
+  int_ref somma_tempi "esami/esami_verificare_ok/febbraio2018.ml" 7 131 144 "esami/esami_verificare_ok/febbraio2018.ml" 7 131 155
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 217 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 232
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 233 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 237
+type(
+  int list
+)
+ident(
+  int_ref rest "esami/esami_verificare_ok/febbraio2018.ml" 9 181 188 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 192
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 213 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 237
+type(
+  int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 9 181 196 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 237
+type(
+  int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 7 131 158 "esami/esami_verificare_ok/febbraio2018.ml" 9 181 237
+type(
+  int list -> int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 10 238 242 "esami/esami_verificare_ok/febbraio2018.ml" 10 238 245
+type(
+  int -> int list -> int list
+)
+ident(
+  int_ref aux "esami/esami_verificare_ok/febbraio2018.ml" 7 131 140 "esami/esami_verificare_ok/febbraio2018.ml" 7 131 143
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 10 238 246 "esami/esami_verificare_ok/febbraio2018.ml" 10 238 247
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 10 238 248 "esami/esami_verificare_ok/febbraio2018.ml" 10 238 253
+type(
+  int list
+)
+ident(
+  int_ref lista "esami/esami_verificare_ok/febbraio2018.ml" 6 95 122 "esami/esami_verificare_ok/febbraio2018.ml" 6 95 127
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 10 238 242 "esami/esami_verificare_ok/febbraio2018.ml" 10 238 253
+type(
+  int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 7 131 132 "esami/esami_verificare_ok/febbraio2018.ml" 10 238 253
+type(
+  int list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 362 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 367
+type(
+  (char * int) list
+)
+ident(
+  def money "esami/esami_verificare_ok/febbraio2018.ml" 23 418 418 "esami/esami_verificare_ok/febbraio2018.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 372 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 375
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 377 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 379
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 371 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 380
+type(
+  char * int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 383 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 386
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 388 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 391
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 382 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 392
+type(
+  char * int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 395 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 398
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 400 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 401
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 394 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 402
+type(
+  char * int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 405 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 408
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 410 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 412
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 404 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 413
+type(
+  char * int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 21 358 370 "esami/esami_verificare_ok/febbraio2018.ml" 21 358 414
+type(
+  (char * int) list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 422 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 427
+type(
+  (char * char) list
+)
+ident(
+  def grafo "esami/esami_verificare_ok/febbraio2018.ml" 25 537 537 "esami/esami_verificare_ok/febbraio2018.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 432 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 435
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 437 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 440
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 431 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 441
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 444 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 447
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 448 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 451
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 443 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 452
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 455 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 458
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 460 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 463
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 454 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 464
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 467 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 470
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 472 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 475
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 466 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 476
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 479 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 482
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 483 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 486
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 478 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 487
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 490 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 493
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 494 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 497
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 489 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 498
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 501 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 504
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 505 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 508
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 500 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 509
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 512 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 515
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 516 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 519
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 511 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 520
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 523 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 526
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 528 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 531
+type(
+  char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 522 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 532
+type(
+  char * char
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 23 418 430 "esami/esami_verificare_ok/febbraio2018.ml" 23 418 533
+type(
+  (char * char) list
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 25 537 541 "esami/esami_verificare_ok/febbraio2018.ml" 25 537 552
+type(
+  int -> int -> int
+)
+ident(
+  def changemoney "esami/esami_verificare_ok/febbraio2018.ml" 28 621 621 "esami/esami_verificare_ok/febbraio2018.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 25 537 553 "esami/esami_verificare_ok/febbraio2018.ml" 25 537 559
+type(
+  int
+)
+ident(
+  def actual "esami/esami_verificare_ok/febbraio2018.ml" 25 537 560 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 617
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 25 537 560 "esami/esami_verificare_ok/febbraio2018.ml" 25 537 564
+type(
+  int
+)
+ident(
+  def diff "esami/esami_verificare_ok/febbraio2018.ml" 26 568 569 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 617
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 573 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 579
+type(
+  int
+)
+ident(
+  int_ref actual "esami/esami_verificare_ok/febbraio2018.ml" 25 537 553 "esami/esami_verificare_ok/febbraio2018.ml" 25 537 559
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 580 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 581
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 582 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 586
+type(
+  int
+)
+ident(
+  int_ref diff "esami/esami_verificare_ok/febbraio2018.ml" 25 537 560 "esami/esami_verificare_ok/febbraio2018.ml" 25 537 564
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 572 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 587
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 588 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 589
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 590 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 591
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 572 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 591
+type(
+  bool
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 598 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 604
+type(
+  int
+)
+ident(
+  int_ref actual "esami/esami_verificare_ok/febbraio2018.ml" 25 537 553 "esami/esami_verificare_ok/febbraio2018.ml" 25 537 559
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 604 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 605
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 605 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 609
+type(
+  int
+)
+ident(
+  int_ref diff "esami/esami_verificare_ok/febbraio2018.ml" 25 537 560 "esami/esami_verificare_ok/febbraio2018.ml" 25 537 564
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 597 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 610
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 616 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 617
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 26 568 569 "esami/esami_verificare_ok/febbraio2018.ml" 26 568 617
+type(
+  int
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 28 621 625 "esami/esami_verificare_ok/febbraio2018.ml" 28 621 643
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def getprice_from_node "esami/esami_verificare_ok/febbraio2018.ml" 35 750 750 "esami/esami_verificare_ok/febbraio2018.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 28 621 644 "esami/esami_verificare_ok/febbraio2018.ml" 28 621 648
+type(
+  '_weak1
+)
+ident(
+  def node "esami/esami_verificare_ok/febbraio2018.ml" 28 621 649 "esami/esami_verificare_ok/febbraio2018.ml" 31 688 700
+)
+"esami/esami_verificare_ok/febbraio2018.ml" 28 621 649 "esami/esami_verificare_ok/febbraio2018.ml" 28 621 654
+type(
+  '_weak2
+)
+ident(
+  def lista "esami/esami_verificare_ok/febbraio2018.ml" 29 658 659 "esami/esami_verificare_ok/febbraio2018.ml" 31 688 700
+)

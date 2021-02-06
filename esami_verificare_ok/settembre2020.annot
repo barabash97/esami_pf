@@ -1,0 +1,372 @@
+"esami/esami_verificare_ok/settembre2020.ml" 2 18 26 "esami/esami_verificare_ok/settembre2020.ml" 2 18 32
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  def remove "esami/esami_verificare_ok/settembre2020.ml" 2 18 18 "esami/esami_verificare_ok/settembre2020.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/settembre2020.ml" 2 18 33 "esami/esami_verificare_ok/settembre2020.ml" 2 18 34
+type(
+  'a
+)
+ident(
+  def x "esami/esami_verificare_ok/settembre2020.ml" 2 18 37 "esami/esami_verificare_ok/settembre2020.ml" 4 57 117
+)
+"esami/esami_verificare_ok/settembre2020.ml" 3 47 48 "esami/esami_verificare_ok/settembre2020.ml" 3 47 50
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 3 47 54 "esami/esami_verificare_ok/settembre2020.ml" 3 47 56
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 59 "esami/esami_verificare_ok/settembre2020.ml" 4 57 60
+type(
+  'a
+)
+ident(
+  def y "esami/esami_verificare_ok/settembre2020.ml" 4 57 70 "esami/esami_verificare_ok/settembre2020.ml" 4 57 117
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 62 "esami/esami_verificare_ok/settembre2020.ml" 4 57 66
+type(
+  'a list
+)
+ident(
+  def rest "esami/esami_verificare_ok/settembre2020.ml" 4 57 70 "esami/esami_verificare_ok/settembre2020.ml" 4 57 117
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 59 "esami/esami_verificare_ok/settembre2020.ml" 4 57 66
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 73 "esami/esami_verificare_ok/settembre2020.ml" 4 57 74
+type(
+  'a
+)
+ident(
+  int_ref y "esami/esami_verificare_ok/settembre2020.ml" 4 57 59 "esami/esami_verificare_ok/settembre2020.ml" 4 57 60
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 74 "esami/esami_verificare_ok/settembre2020.ml" 4 57 75
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 75 "esami/esami_verificare_ok/settembre2020.ml" 4 57 76
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_verificare_ok/settembre2020.ml" 2 18 33 "esami/esami_verificare_ok/settembre2020.ml" 2 18 34
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 73 "esami/esami_verificare_ok/settembre2020.ml" 4 57 76
+type(
+  bool
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 82 "esami/esami_verificare_ok/settembre2020.ml" 4 57 88
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref remove "esami/esami_verificare_ok/settembre2020.ml" 2 18 26 "esami/esami_verificare_ok/settembre2020.ml" 2 18 32
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 89 "esami/esami_verificare_ok/settembre2020.ml" 4 57 90
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_verificare_ok/settembre2020.ml" 2 18 33 "esami/esami_verificare_ok/settembre2020.ml" 2 18 34
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 91 "esami/esami_verificare_ok/settembre2020.ml" 4 57 95
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/esami_verificare_ok/settembre2020.ml" 4 57 62 "esami/esami_verificare_ok/settembre2020.ml" 4 57 66
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 82 "esami/esami_verificare_ok/settembre2020.ml" 4 57 95
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 101 "esami/esami_verificare_ok/settembre2020.ml" 4 57 102
+type(
+  'a
+)
+ident(
+  int_ref y "esami/esami_verificare_ok/settembre2020.ml" 4 57 59 "esami/esami_verificare_ok/settembre2020.ml" 4 57 60
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 104 "esami/esami_verificare_ok/settembre2020.ml" 4 57 110
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref remove "esami/esami_verificare_ok/settembre2020.ml" 2 18 26 "esami/esami_verificare_ok/settembre2020.ml" 2 18 32
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 111 "esami/esami_verificare_ok/settembre2020.ml" 4 57 112
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_verificare_ok/settembre2020.ml" 2 18 33 "esami/esami_verificare_ok/settembre2020.ml" 2 18 34
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 113 "esami/esami_verificare_ok/settembre2020.ml" 4 57 117
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/esami_verificare_ok/settembre2020.ml" 4 57 62 "esami/esami_verificare_ok/settembre2020.ml" 4 57 66
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 104 "esami/esami_verificare_ok/settembre2020.ml" 4 57 117
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 101 "esami/esami_verificare_ok/settembre2020.ml" 4 57 117
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 4 57 70 "esami/esami_verificare_ok/settembre2020.ml" 4 57 117
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 2 18 37 "esami/esami_verificare_ok/settembre2020.ml" 4 57 117
+type(
+  'a list -> 'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 6 121 125 "esami/esami_verificare_ok/settembre2020.ml" 6 121 130
+type(
+  int list
+)
+ident(
+  def lista "esami/esami_verificare_ok/settembre2020.ml" 8 150 150 "esami/esami_verificare_ok/settembre2020.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/settembre2020.ml" 6 121 134 "esami/esami_verificare_ok/settembre2020.ml" 6 121 135
+type(
+  int
+)
+"esami/esami_verificare_ok/settembre2020.ml" 6 121 136 "esami/esami_verificare_ok/settembre2020.ml" 6 121 137
+type(
+  int
+)
+"esami/esami_verificare_ok/settembre2020.ml" 6 121 138 "esami/esami_verificare_ok/settembre2020.ml" 6 121 139
+type(
+  int
+)
+"esami/esami_verificare_ok/settembre2020.ml" 6 121 140 "esami/esami_verificare_ok/settembre2020.ml" 6 121 141
+type(
+  int
+)
+"esami/esami_verificare_ok/settembre2020.ml" 6 121 142 "esami/esami_verificare_ok/settembre2020.ml" 6 121 143
+type(
+  int
+)
+"esami/esami_verificare_ok/settembre2020.ml" 6 121 144 "esami/esami_verificare_ok/settembre2020.ml" 6 121 145
+type(
+  int
+)
+"esami/esami_verificare_ok/settembre2020.ml" 6 121 133 "esami/esami_verificare_ok/settembre2020.ml" 6 121 146
+type(
+  int list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 8 150 150 "esami/esami_verificare_ok/settembre2020.ml" 8 150 156
+type(
+  int -> int list -> int list
+)
+ident(
+  int_ref remove "esami/esami_verificare_ok/settembre2020.ml" 2 18 26 "esami/esami_verificare_ok/settembre2020.ml" 2 18 32
+)
+"esami/esami_verificare_ok/settembre2020.ml" 8 150 157 "esami/esami_verificare_ok/settembre2020.ml" 8 150 158
+type(
+  int
+)
+"esami/esami_verificare_ok/settembre2020.ml" 8 150 159 "esami/esami_verificare_ok/settembre2020.ml" 8 150 164
+type(
+  int list
+)
+ident(
+  int_ref lista "esami/esami_verificare_ok/settembre2020.ml" 6 121 125 "esami/esami_verificare_ok/settembre2020.ml" 6 121 130
+)
+"esami/esami_verificare_ok/settembre2020.ml" 8 150 150 "esami/esami_verificare_ok/settembre2020.ml" 8 150 164
+type(
+  int list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 10 168 172 "esami/esami_verificare_ok/settembre2020.ml" 10 168 183
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  def remove_iter "esami/esami_verificare_ok/settembre2020.ml" 16 318 318 "esami/esami_verificare_ok/settembre2020.ml" 0 0 -1
+)
+"esami/esami_verificare_ok/settembre2020.ml" 10 168 184 "esami/esami_verificare_ok/settembre2020.ml" 10 168 185
+type(
+  'a
+)
+ident(
+  def x "esami/esami_verificare_ok/settembre2020.ml" 11 189 190 "esami/esami_verificare_ok/settembre2020.ml" 14 304 314
+)
+"esami/esami_verificare_ok/settembre2020.ml" 11 189 198 "esami/esami_verificare_ok/settembre2020.ml" 11 189 201
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  def aux "esami/esami_verificare_ok/settembre2020.ml" 11 189 190 "esami/esami_verificare_ok/settembre2020.ml" 14 304 314
+)
+"esami/esami_verificare_ok/settembre2020.ml" 11 189 202 "esami/esami_verificare_ok/settembre2020.ml" 11 189 208
+type(
+  'a list
+)
+ident(
+  def result "esami/esami_verificare_ok/settembre2020.ml" 11 189 211 "esami/esami_verificare_ok/settembre2020.ml" 13 236 303
+)
+"esami/esami_verificare_ok/settembre2020.ml" 12 221 223 "esami/esami_verificare_ok/settembre2020.ml" 12 221 225
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 12 221 229 "esami/esami_verificare_ok/settembre2020.ml" 12 221 235
+type(
+  'a list
+)
+ident(
+  int_ref result "esami/esami_verificare_ok/settembre2020.ml" 11 189 202 "esami/esami_verificare_ok/settembre2020.ml" 11 189 208
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 239 "esami/esami_verificare_ok/settembre2020.ml" 13 236 240
+type(
+  'a
+)
+ident(
+  def y "esami/esami_verificare_ok/settembre2020.ml" 13 236 250 "esami/esami_verificare_ok/settembre2020.ml" 13 236 303
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 242 "esami/esami_verificare_ok/settembre2020.ml" 13 236 246
+type(
+  'a list
+)
+ident(
+  def rest "esami/esami_verificare_ok/settembre2020.ml" 13 236 250 "esami/esami_verificare_ok/settembre2020.ml" 13 236 303
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 239 "esami/esami_verificare_ok/settembre2020.ml" 13 236 246
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 253 "esami/esami_verificare_ok/settembre2020.ml" 13 236 254
+type(
+  'a
+)
+ident(
+  int_ref y "esami/esami_verificare_ok/settembre2020.ml" 13 236 239 "esami/esami_verificare_ok/settembre2020.ml" 13 236 240
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 254 "esami/esami_verificare_ok/settembre2020.ml" 13 236 255
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 255 "esami/esami_verificare_ok/settembre2020.ml" 13 236 256
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_verificare_ok/settembre2020.ml" 10 168 184 "esami/esami_verificare_ok/settembre2020.ml" 10 168 185
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 253 "esami/esami_verificare_ok/settembre2020.ml" 13 236 256
+type(
+  bool
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 262 "esami/esami_verificare_ok/settembre2020.ml" 13 236 265
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref aux "esami/esami_verificare_ok/settembre2020.ml" 11 189 198 "esami/esami_verificare_ok/settembre2020.ml" 11 189 201
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 266 "esami/esami_verificare_ok/settembre2020.ml" 13 236 272
+type(
+  'a list
+)
+ident(
+  int_ref result "esami/esami_verificare_ok/settembre2020.ml" 11 189 202 "esami/esami_verificare_ok/settembre2020.ml" 11 189 208
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 273 "esami/esami_verificare_ok/settembre2020.ml" 13 236 277
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/esami_verificare_ok/settembre2020.ml" 13 236 242 "esami/esami_verificare_ok/settembre2020.ml" 13 236 246
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 262 "esami/esami_verificare_ok/settembre2020.ml" 13 236 277
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 283 "esami/esami_verificare_ok/settembre2020.ml" 13 236 286
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref aux "esami/esami_verificare_ok/settembre2020.ml" 11 189 198 "esami/esami_verificare_ok/settembre2020.ml" 11 189 201
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 288 "esami/esami_verificare_ok/settembre2020.ml" 13 236 289
+type(
+  'a
+)
+ident(
+  int_ref y "esami/esami_verificare_ok/settembre2020.ml" 13 236 239 "esami/esami_verificare_ok/settembre2020.ml" 13 236 240
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 291 "esami/esami_verificare_ok/settembre2020.ml" 13 236 297
+type(
+  'a list
+)
+ident(
+  int_ref result "esami/esami_verificare_ok/settembre2020.ml" 11 189 202 "esami/esami_verificare_ok/settembre2020.ml" 11 189 208
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 287 "esami/esami_verificare_ok/settembre2020.ml" 13 236 298
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 299 "esami/esami_verificare_ok/settembre2020.ml" 13 236 303
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/esami_verificare_ok/settembre2020.ml" 13 236 242 "esami/esami_verificare_ok/settembre2020.ml" 13 236 246
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 283 "esami/esami_verificare_ok/settembre2020.ml" 13 236 303
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 13 236 250 "esami/esami_verificare_ok/settembre2020.ml" 13 236 303
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 11 189 211 "esami/esami_verificare_ok/settembre2020.ml" 13 236 303
+type(
+  'a list -> 'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 14 304 308 "esami/esami_verificare_ok/settembre2020.ml" 14 304 311
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref aux "esami/esami_verificare_ok/settembre2020.ml" 11 189 198 "esami/esami_verificare_ok/settembre2020.ml" 11 189 201
+)
+"esami/esami_verificare_ok/settembre2020.ml" 14 304 312 "esami/esami_verificare_ok/settembre2020.ml" 14 304 314
+type(
+  'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 14 304 308 "esami/esami_verificare_ok/settembre2020.ml" 14 304 314
+type(
+  'a list -> 'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 11 189 190 "esami/esami_verificare_ok/settembre2020.ml" 14 304 314
+type(
+  'a list -> 'a list
+)
+"esami/esami_verificare_ok/settembre2020.ml" 16 318 318 "esami/esami_verificare_ok/settembre2020.ml" 16 318 329
+type(
+  int -> int list -> int list
+)
+ident(
+  int_ref remove_iter "esami/esami_verificare_ok/settembre2020.ml" 10 168 172 "esami/esami_verificare_ok/settembre2020.ml" 10 168 183
+)
+"esami/esami_verificare_ok/settembre2020.ml" 16 318 330 "esami/esami_verificare_ok/settembre2020.ml" 16 318 331
+type(
+  int
+)
