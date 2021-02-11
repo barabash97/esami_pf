@@ -1,0 +1,170 @@
+"esami/esami_ok/febbraio2018.ml" 1 0 4 "esami/esami_ok/febbraio2018.ml" 1 0 10
+type(
+  int list
+)
+ident(
+  def durata "esami/esami_ok/febbraio2018.ml" 4 79 79 "esami/esami_ok/febbraio2018.ml" 0 0 -1
+)
+"esami/esami_ok/febbraio2018.ml" 1 0 14 "esami/esami_ok/febbraio2018.ml" 1 0 16
+type(
+  int
+)
+"esami/esami_ok/febbraio2018.ml" 1 0 17 "esami/esami_ok/febbraio2018.ml" 1 0 19
+type(
+  int
+)
+"esami/esami_ok/febbraio2018.ml" 1 0 20 "esami/esami_ok/febbraio2018.ml" 1 0 22
+type(
+  int
+)
+"esami/esami_ok/febbraio2018.ml" 1 0 13 "esami/esami_ok/febbraio2018.ml" 1 0 23
+type(
+  int list
+)
+"esami/esami_ok/febbraio2018.ml" 4 79 83 "esami/esami_ok/febbraio2018.ml" 4 79 105
+type(
+  '_weak1 -> '_weak2
+)
+ident(
+  def durations_to_end_times "esami/esami_ok/febbraio2018.ml" 11 299 299 "esami/esami_ok/febbraio2018.ml" 0 0 -1
+)
+"esami/esami_ok/febbraio2018.ml" 4 79 106 "esami/esami_ok/febbraio2018.ml" 4 79 109
+type(
+  '_weak1
+)
+ident(
+  def lst "esami/esami_ok/febbraio2018.ml" 5 113 114 "esami/esami_ok/febbraio2018.ml" 9 269 295
+)
+"esami/esami_ok/febbraio2018.ml" 5 113 122 "esami/esami_ok/febbraio2018.ml" 5 113 125
+type(
+  int list -> int -> int list -> int list
+)
+ident(
+  def aux "esami/esami_ok/febbraio2018.ml" 5 113 114 "esami/esami_ok/febbraio2018.ml" 9 269 295
+)
+"esami/esami_ok/febbraio2018.ml" 5 113 126 "esami/esami_ok/febbraio2018.ml" 5 113 132
+type(
+  int list
+)
+ident(
+  def result "esami/esami_ok/febbraio2018.ml" 5 113 133 "esami/esami_ok/febbraio2018.ml" 8 188 268
+)
+"esami/esami_ok/febbraio2018.ml" 5 113 133 "esami/esami_ok/febbraio2018.ml" 5 113 142
+type(
+  int
+)
+ident(
+  def predvalue "esami/esami_ok/febbraio2018.ml" 5 113 145 "esami/esami_ok/febbraio2018.ml" 8 188 268
+)
+"esami/esami_ok/febbraio2018.ml" 6 155 159 "esami/esami_ok/febbraio2018.ml" 6 155 161
+type(
+  int list
+)
+"esami/esami_ok/febbraio2018.ml" 6 155 165 "esami/esami_ok/febbraio2018.ml" 6 155 171
+type(
+  int list
+)
+ident(
+  int_ref result "esami/esami_ok/febbraio2018.ml" 5 113 126 "esami/esami_ok/febbraio2018.ml" 5 113 132
+)
+"esami/esami_ok/febbraio2018.ml" 7 172 176 "esami/esami_ok/febbraio2018.ml" 7 172 177
+type(
+  int
+)
+ident(
+  def x "esami/esami_ok/febbraio2018.ml" 8 188 191 "esami/esami_ok/febbraio2018.ml" 8 188 268
+)
+"esami/esami_ok/febbraio2018.ml" 7 172 179 "esami/esami_ok/febbraio2018.ml" 7 172 183
+type(
+  int list
+)
+ident(
+  def rest "esami/esami_ok/febbraio2018.ml" 8 188 191 "esami/esami_ok/febbraio2018.ml" 8 188 268
+)
+"esami/esami_ok/febbraio2018.ml" 7 172 176 "esami/esami_ok/febbraio2018.ml" 7 172 183
+type(
+  int list
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 195 "esami/esami_ok/febbraio2018.ml" 8 188 206
+type(
+  int
+)
+ident(
+  def nuova_somma "esami/esami_ok/febbraio2018.ml" 8 188 226 "esami/esami_ok/febbraio2018.ml" 8 188 268
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 209 "esami/esami_ok/febbraio2018.ml" 8 188 218
+type(
+  int
+)
+ident(
+  int_ref predvalue "esami/esami_ok/febbraio2018.ml" 5 113 133 "esami/esami_ok/febbraio2018.ml" 5 113 142
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 219 "esami/esami_ok/febbraio2018.ml" 8 188 220
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 221 "esami/esami_ok/febbraio2018.ml" 8 188 222
+type(
+  int
+)
+ident(
+  int_ref x "esami/esami_ok/febbraio2018.ml" 7 172 176 "esami/esami_ok/febbraio2018.ml" 7 172 177
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 209 "esami/esami_ok/febbraio2018.ml" 8 188 222
+type(
+  int
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 226 "esami/esami_ok/febbraio2018.ml" 8 188 229
+type(
+  int list -> int -> int list -> int list
+)
+ident(
+  int_ref aux "esami/esami_ok/febbraio2018.ml" 5 113 122 "esami/esami_ok/febbraio2018.ml" 5 113 125
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 231 "esami/esami_ok/febbraio2018.ml" 8 188 242
+type(
+  int
+)
+ident(
+  int_ref nuova_somma "esami/esami_ok/febbraio2018.ml" 8 188 195 "esami/esami_ok/febbraio2018.ml" 8 188 206
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 244 "esami/esami_ok/febbraio2018.ml" 8 188 250
+type(
+  int list
+)
+ident(
+  int_ref result "esami/esami_ok/febbraio2018.ml" 5 113 126 "esami/esami_ok/febbraio2018.ml" 5 113 132
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 230 "esami/esami_ok/febbraio2018.ml" 8 188 251
+type(
+  int list
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 252 "esami/esami_ok/febbraio2018.ml" 8 188 263
+type(
+  int
+)
+ident(
+  int_ref nuova_somma "esami/esami_ok/febbraio2018.ml" 8 188 195 "esami/esami_ok/febbraio2018.ml" 8 188 206
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 264 "esami/esami_ok/febbraio2018.ml" 8 188 268
+type(
+  int list
+)
+ident(
+  int_ref rest "esami/esami_ok/febbraio2018.ml" 7 172 179 "esami/esami_ok/febbraio2018.ml" 7 172 183
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 226 "esami/esami_ok/febbraio2018.ml" 8 188 268
+type(
+  int list
+)
+"esami/esami_ok/febbraio2018.ml" 8 188 191 "esami/esami_ok/febbraio2018.ml" 8 188 268
+type(
+  int list
+)
+"esami/esami_ok/febbraio2018.ml" 5 113 145 "esami/esami_ok/febbraio2018.ml" 8 188 268
+type(
+  int list -> int list
+)
