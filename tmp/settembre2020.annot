@@ -1,0 +1,428 @@
+"esami/tmp/settembre2020.ml" 3 34 38 "esami/tmp/settembre2020.ml" 3 34 43
+type(
+  (int * int) list
+)
+ident(
+  def grafo "esami/tmp/settembre2020.ml" 5 133 133 "esami/tmp/settembre2020.ml" 0 0 -1
+)
+"esami/tmp/settembre2020.ml" 3 34 48 "esami/tmp/settembre2020.ml" 3 34 49
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 50 "esami/tmp/settembre2020.ml" 3 34 51
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 47 "esami/tmp/settembre2020.ml" 3 34 52
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 54 "esami/tmp/settembre2020.ml" 3 34 55
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 56 "esami/tmp/settembre2020.ml" 3 34 57
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 53 "esami/tmp/settembre2020.ml" 3 34 58
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 61 "esami/tmp/settembre2020.ml" 3 34 62
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 63 "esami/tmp/settembre2020.ml" 3 34 64
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 60 "esami/tmp/settembre2020.ml" 3 34 65
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 68 "esami/tmp/settembre2020.ml" 3 34 69
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 70 "esami/tmp/settembre2020.ml" 3 34 71
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 67 "esami/tmp/settembre2020.ml" 3 34 72
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 75 "esami/tmp/settembre2020.ml" 3 34 76
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 77 "esami/tmp/settembre2020.ml" 3 34 78
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 74 "esami/tmp/settembre2020.ml" 3 34 79
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 82 "esami/tmp/settembre2020.ml" 3 34 83
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 84 "esami/tmp/settembre2020.ml" 3 34 85
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 81 "esami/tmp/settembre2020.ml" 3 34 86
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 89 "esami/tmp/settembre2020.ml" 3 34 90
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 91 "esami/tmp/settembre2020.ml" 3 34 92
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 88 "esami/tmp/settembre2020.ml" 3 34 93
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 96 "esami/tmp/settembre2020.ml" 3 34 97
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 98 "esami/tmp/settembre2020.ml" 3 34 99
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 95 "esami/tmp/settembre2020.ml" 3 34 100
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 103 "esami/tmp/settembre2020.ml" 3 34 104
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 105 "esami/tmp/settembre2020.ml" 3 34 106
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 102 "esami/tmp/settembre2020.ml" 3 34 107
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 110 "esami/tmp/settembre2020.ml" 3 34 111
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 112 "esami/tmp/settembre2020.ml" 3 34 113
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 109 "esami/tmp/settembre2020.ml" 3 34 114
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 117 "esami/tmp/settembre2020.ml" 3 34 118
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 119 "esami/tmp/settembre2020.ml" 3 34 120
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 116 "esami/tmp/settembre2020.ml" 3 34 121
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 124 "esami/tmp/settembre2020.ml" 3 34 125
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 126 "esami/tmp/settembre2020.ml" 3 34 127
+type(
+  int
+)
+"esami/tmp/settembre2020.ml" 3 34 123 "esami/tmp/settembre2020.ml" 3 34 128
+type(
+  int * int
+)
+"esami/tmp/settembre2020.ml" 3 34 46 "esami/tmp/settembre2020.ml" 3 34 129
+type(
+  (int * int) list
+)
+"esami/tmp/settembre2020.ml" 5 133 141 "esami/tmp/settembre2020.ml" 5 133 147
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  def vicini "esami/tmp/settembre2020.ml" 5 133 133 "esami/tmp/settembre2020.ml" 0 0 -1
+)
+"esami/tmp/settembre2020.ml" 5 133 148 "esami/tmp/settembre2020.ml" 5 133 152
+type(
+  'a
+)
+ident(
+  def nodo "esami/tmp/settembre2020.ml" 5 133 155 "esami/tmp/settembre2020.ml" 10 279 303
+)
+"esami/tmp/settembre2020.ml" 6 165 168 "esami/tmp/settembre2020.ml" 6 165 170
+type(
+  ('a * 'a) list
+)
+"esami/tmp/settembre2020.ml" 6 165 174 "esami/tmp/settembre2020.ml" 6 165 176
+type(
+  'a list
+)
+"esami/tmp/settembre2020.ml" 7 177 181 "esami/tmp/settembre2020.ml" 7 177 182
+type(
+  'a
+)
+ident(
+  def a "esami/tmp/settembre2020.ml" 8 196 199 "esami/tmp/settembre2020.ml" 10 279 303
+)
+"esami/tmp/settembre2020.ml" 7 177 183 "esami/tmp/settembre2020.ml" 7 177 184
+type(
+  'a
+)
+ident(
+  def b "esami/tmp/settembre2020.ml" 8 196 199 "esami/tmp/settembre2020.ml" 10 279 303
+)
+"esami/tmp/settembre2020.ml" 7 177 180 "esami/tmp/settembre2020.ml" 7 177 185
+type(
+  'a * 'a
+)
+"esami/tmp/settembre2020.ml" 7 177 187 "esami/tmp/settembre2020.ml" 7 177 191
+type(
+  ('a * 'a) list
+)
+ident(
+  def rest "esami/tmp/settembre2020.ml" 8 196 199 "esami/tmp/settembre2020.ml" 10 279 303
+)
+"esami/tmp/settembre2020.ml" 7 177 180 "esami/tmp/settembre2020.ml" 7 177 191
+type(
+  ('a * 'a) list
+)
+"esami/tmp/settembre2020.ml" 8 196 202 "esami/tmp/settembre2020.ml" 8 196 203
+type(
+  'a
+)
+ident(
+  int_ref a "esami/tmp/settembre2020.ml" 7 177 181 "esami/tmp/settembre2020.ml" 7 177 182
+)
+"esami/tmp/settembre2020.ml" 8 196 204 "esami/tmp/settembre2020.ml" 8 196 205
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp/settembre2020.ml" 8 196 206 "esami/tmp/settembre2020.ml" 8 196 210
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/tmp/settembre2020.ml" 5 133 148 "esami/tmp/settembre2020.ml" 5 133 152
+)
+"esami/tmp/settembre2020.ml" 8 196 202 "esami/tmp/settembre2020.ml" 8 196 210
+type(
+  bool
+)
+"esami/tmp/settembre2020.ml" 8 196 216 "esami/tmp/settembre2020.ml" 8 196 217
+type(
+  'a
+)
+ident(
+  int_ref b "esami/tmp/settembre2020.ml" 7 177 183 "esami/tmp/settembre2020.ml" 7 177 184
+)
+"esami/tmp/settembre2020.ml" 8 196 219 "esami/tmp/settembre2020.ml" 8 196 225
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref vicini "esami/tmp/settembre2020.ml" 5 133 141 "esami/tmp/settembre2020.ml" 5 133 147
+)
+"esami/tmp/settembre2020.ml" 8 196 226 "esami/tmp/settembre2020.ml" 8 196 230
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/tmp/settembre2020.ml" 5 133 148 "esami/tmp/settembre2020.ml" 5 133 152
+)
+"esami/tmp/settembre2020.ml" 8 196 231 "esami/tmp/settembre2020.ml" 8 196 235
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/tmp/settembre2020.ml" 7 177 187 "esami/tmp/settembre2020.ml" 7 177 191
+)
+"esami/tmp/settembre2020.ml" 8 196 219 "esami/tmp/settembre2020.ml" 8 196 235
+type(
+  'a list
+)
+"esami/tmp/settembre2020.ml" 8 196 216 "esami/tmp/settembre2020.ml" 8 196 235
+type(
+  'a list
+)
+"esami/tmp/settembre2020.ml" 9 236 247 "esami/tmp/settembre2020.ml" 9 236 248
+type(
+  'a
+)
+ident(
+  int_ref b "esami/tmp/settembre2020.ml" 7 177 183 "esami/tmp/settembre2020.ml" 7 177 184
+)
+"esami/tmp/settembre2020.ml" 9 236 248 "esami/tmp/settembre2020.ml" 9 236 249
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp/settembre2020.ml" 9 236 249 "esami/tmp/settembre2020.ml" 9 236 253
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/tmp/settembre2020.ml" 5 133 148 "esami/tmp/settembre2020.ml" 5 133 152
+)
+"esami/tmp/settembre2020.ml" 9 236 247 "esami/tmp/settembre2020.ml" 9 236 253
+type(
+  bool
+)
+"esami/tmp/settembre2020.ml" 9 236 259 "esami/tmp/settembre2020.ml" 9 236 260
+type(
+  'a
+)
+ident(
+  int_ref a "esami/tmp/settembre2020.ml" 7 177 181 "esami/tmp/settembre2020.ml" 7 177 182
+)
+"esami/tmp/settembre2020.ml" 9 236 262 "esami/tmp/settembre2020.ml" 9 236 268
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref vicini "esami/tmp/settembre2020.ml" 5 133 141 "esami/tmp/settembre2020.ml" 5 133 147
+)
+"esami/tmp/settembre2020.ml" 9 236 269 "esami/tmp/settembre2020.ml" 9 236 273
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/tmp/settembre2020.ml" 5 133 148 "esami/tmp/settembre2020.ml" 5 133 152
+)
+"esami/tmp/settembre2020.ml" 9 236 274 "esami/tmp/settembre2020.ml" 9 236 278
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/tmp/settembre2020.ml" 7 177 187 "esami/tmp/settembre2020.ml" 7 177 191
+)
+"esami/tmp/settembre2020.ml" 9 236 262 "esami/tmp/settembre2020.ml" 9 236 278
+type(
+  'a list
+)
+"esami/tmp/settembre2020.ml" 9 236 259 "esami/tmp/settembre2020.ml" 9 236 278
+type(
+  'a list
+)
+"esami/tmp/settembre2020.ml" 10 279 287 "esami/tmp/settembre2020.ml" 10 279 293
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref vicini "esami/tmp/settembre2020.ml" 5 133 141 "esami/tmp/settembre2020.ml" 5 133 147
+)
+"esami/tmp/settembre2020.ml" 10 279 294 "esami/tmp/settembre2020.ml" 10 279 298
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/tmp/settembre2020.ml" 5 133 148 "esami/tmp/settembre2020.ml" 5 133 152
+)
+"esami/tmp/settembre2020.ml" 10 279 299 "esami/tmp/settembre2020.ml" 10 279 303
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/tmp/settembre2020.ml" 7 177 187 "esami/tmp/settembre2020.ml" 7 177 191
+)
+"esami/tmp/settembre2020.ml" 10 279 287 "esami/tmp/settembre2020.ml" 10 279 303
+type(
+  'a list
+)
+"esami/tmp/settembre2020.ml" 9 236 244 "esami/tmp/settembre2020.ml" 10 279 303
+type(
+  'a list
+)
+"esami/tmp/settembre2020.ml" 8 196 199 "esami/tmp/settembre2020.ml" 10 279 303
+type(
+  'a list
+)
+"esami/tmp/settembre2020.ml" 5 133 155 "esami/tmp/settembre2020.ml" 10 279 303
+type(
+  ('a * 'a) list -> 'a list
+)
+"esami/tmp/settembre2020.ml" 12 307 311 "esami/tmp/settembre2020.ml" 12 307 319
+type(
+  '_weak1 -> '_weak2 -> '_weak3 -> '_weak4 -> '_weak5
+)
+ident(
+  def percorso "esami/tmp/settembre2020.ml" 25 777 777 "esami/tmp/settembre2020.ml" 0 0 -1
+)
+"esami/tmp/settembre2020.ml" 12 307 320 "esami/tmp/settembre2020.ml" 12 307 321
+type(
+  '_weak1
+)
+ident(
+  def g "esami/tmp/settembre2020.ml" 12 307 322 "esami/tmp/settembre2020.ml" 23 750 773
+)
+"esami/tmp/settembre2020.ml" 12 307 322 "esami/tmp/settembre2020.ml" 12 307 327
+type(
+  '_weak2
+)
+ident(
+  def start "esami/tmp/settembre2020.ml" 12 307 328 "esami/tmp/settembre2020.ml" 23 750 773
+)
+"esami/tmp/settembre2020.ml" 12 307 328 "esami/tmp/settembre2020.ml" 12 307 333
+type(
+  '_weak3
+)
+ident(
+  def tappa "esami/tmp/settembre2020.ml" 12 307 334 "esami/tmp/settembre2020.ml" 23 750 773
+)
+"esami/tmp/settembre2020.ml" 12 307 334 "esami/tmp/settembre2020.ml" 12 307 340
+type(
+  '_weak4
+)
+ident(
+  def target "esami/tmp/settembre2020.ml" 13 344 345 "esami/tmp/settembre2020.ml" 23 750 773
+)
+"esami/tmp/settembre2020.ml" 13 344 353 "esami/tmp/settembre2020.ml" 13 344 362
+type(
+  '_weak6 -> '_weak7 -> '_weak8
+)
+ident(
+  def from_node "esami/tmp/settembre2020.ml" 13 344 345 "esami/tmp/settembre2020.ml" 23 750 773
+)
+"esami/tmp/settembre2020.ml" 13 344 363 "esami/tmp/settembre2020.ml" 13 344 370
+type(
+  '_weak6
+)
+ident(
+  def visited "esami/tmp/settembre2020.ml" 13 344 371 "esami/tmp/settembre2020.ml" 17 522 577
+)
+"esami/tmp/settembre2020.ml" 13 344 371 "esami/tmp/settembre2020.ml" 13 344 375
+type(
+  '_weak7
+)
+ident(
+  def nodo "esami/tmp/settembre2020.ml" 14 379 381 "esami/tmp/settembre2020.ml" 17 522 577
+)
+"esami/tmp/settembre2020.ml" 18 578 584 "esami/tmp/settembre2020.ml" 18 578 593
+type(
+  '_weak9 -> '_weak10 -> '_weak11 -> '_weak12
+)
+ident(
+  def from_list "esami/tmp/settembre2020.ml" 13 344 345 "esami/tmp/settembre2020.ml" 23 750 773
+)

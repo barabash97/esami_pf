@@ -1,0 +1,587 @@
+"esami/tmp/test.ml" 5 142 150 "esami/tmp/test.ml" 5 142 160
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  def successori "esami/tmp/test.ml" 5 142 142 "esami/tmp/test.ml" 0 0 -1
+)
+"esami/tmp/test.ml" 5 142 161 "esami/tmp/test.ml" 5 142 162
+type(
+  'a
+)
+ident(
+  def n "esami/tmp/test.ml" 5 142 165 "esami/tmp/test.ml" 8 239 264
+)
+"esami/tmp/test.ml" 6 174 178 "esami/tmp/test.ml" 6 174 180
+type(
+  ('a * 'b) list
+)
+"esami/tmp/test.ml" 6 174 184 "esami/tmp/test.ml" 6 174 186
+type(
+  'b list
+)
+"esami/tmp/test.ml" 7 187 192 "esami/tmp/test.ml" 7 187 193
+type(
+  'a
+)
+ident(
+  def x "esami/tmp/test.ml" 7 187 206 "esami/tmp/test.ml" 8 239 264
+)
+"esami/tmp/test.ml" 7 187 194 "esami/tmp/test.ml" 7 187 195
+type(
+  'b
+)
+ident(
+  def y "esami/tmp/test.ml" 7 187 206 "esami/tmp/test.ml" 8 239 264
+)
+"esami/tmp/test.ml" 7 187 191 "esami/tmp/test.ml" 7 187 196
+type(
+  'a * 'b
+)
+"esami/tmp/test.ml" 7 187 198 "esami/tmp/test.ml" 7 187 202
+type(
+  ('a * 'b) list
+)
+ident(
+  def rest "esami/tmp/test.ml" 7 187 206 "esami/tmp/test.ml" 8 239 264
+)
+"esami/tmp/test.ml" 7 187 191 "esami/tmp/test.ml" 7 187 202
+type(
+  ('a * 'b) list
+)
+"esami/tmp/test.ml" 7 187 209 "esami/tmp/test.ml" 7 187 210
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp/test.ml" 7 187 192 "esami/tmp/test.ml" 7 187 193
+)
+"esami/tmp/test.ml" 7 187 210 "esami/tmp/test.ml" 7 187 211
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp/test.ml" 7 187 211 "esami/tmp/test.ml" 7 187 212
+type(
+  'a
+)
+ident(
+  int_ref n "esami/tmp/test.ml" 5 142 161 "esami/tmp/test.ml" 5 142 162
+)
+"esami/tmp/test.ml" 7 187 209 "esami/tmp/test.ml" 7 187 212
+type(
+  bool
+)
+"esami/tmp/test.ml" 7 187 218 "esami/tmp/test.ml" 7 187 219
+type(
+  'b
+)
+ident(
+  int_ref y "esami/tmp/test.ml" 7 187 194 "esami/tmp/test.ml" 7 187 195
+)
+"esami/tmp/test.ml" 7 187 221 "esami/tmp/test.ml" 7 187 231
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  int_ref successori "esami/tmp/test.ml" 5 142 150 "esami/tmp/test.ml" 5 142 160
+)
+"esami/tmp/test.ml" 7 187 232 "esami/tmp/test.ml" 7 187 233
+type(
+  'a
+)
+ident(
+  int_ref n "esami/tmp/test.ml" 5 142 161 "esami/tmp/test.ml" 5 142 162
+)
+"esami/tmp/test.ml" 7 187 234 "esami/tmp/test.ml" 7 187 238
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "esami/tmp/test.ml" 7 187 198 "esami/tmp/test.ml" 7 187 202
+)
+"esami/tmp/test.ml" 7 187 221 "esami/tmp/test.ml" 7 187 238
+type(
+  'b list
+)
+"esami/tmp/test.ml" 7 187 218 "esami/tmp/test.ml" 7 187 238
+type(
+  'b list
+)
+"esami/tmp/test.ml" 8 239 247 "esami/tmp/test.ml" 8 239 257
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  int_ref successori "esami/tmp/test.ml" 5 142 150 "esami/tmp/test.ml" 5 142 160
+)
+"esami/tmp/test.ml" 8 239 258 "esami/tmp/test.ml" 8 239 259
+type(
+  'a
+)
+ident(
+  int_ref n "esami/tmp/test.ml" 5 142 161 "esami/tmp/test.ml" 5 142 162
+)
+"esami/tmp/test.ml" 8 239 260 "esami/tmp/test.ml" 8 239 264
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "esami/tmp/test.ml" 7 187 198 "esami/tmp/test.ml" 7 187 202
+)
+"esami/tmp/test.ml" 8 239 247 "esami/tmp/test.ml" 8 239 264
+type(
+  'b list
+)
+"esami/tmp/test.ml" 7 187 206 "esami/tmp/test.ml" 8 239 264
+type(
+  'b list
+)
+"esami/tmp/test.ml" 5 142 165 "esami/tmp/test.ml" 8 239 264
+type(
+  ('a * 'b) list -> 'b list
+)
+"esami/tmp/test.ml" 10 268 272 "esami/tmp/test.ml" 10 268 277
+type(
+  (int * int) list
+)
+ident(
+  def grafo "esami/tmp/test.ml" 15 488 488 "esami/tmp/test.ml" 0 0 -1
+)
+"esami/tmp/test.ml" 10 268 282 "esami/tmp/test.ml" 10 268 283
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 284 "esami/tmp/test.ml" 10 268 285
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 281 "esami/tmp/test.ml" 10 268 286
+type(
+  int * int
+)
+"esami/tmp/test.ml" 10 268 288 "esami/tmp/test.ml" 10 268 289
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 290 "esami/tmp/test.ml" 10 268 291
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 287 "esami/tmp/test.ml" 10 268 292
+type(
+  int * int
+)
+"esami/tmp/test.ml" 10 268 294 "esami/tmp/test.ml" 10 268 295
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 296 "esami/tmp/test.ml" 10 268 297
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 293 "esami/tmp/test.ml" 10 268 298
+type(
+  int * int
+)
+"esami/tmp/test.ml" 10 268 300 "esami/tmp/test.ml" 10 268 301
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 302 "esami/tmp/test.ml" 10 268 303
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 299 "esami/tmp/test.ml" 10 268 304
+type(
+  int * int
+)
+"esami/tmp/test.ml" 10 268 306 "esami/tmp/test.ml" 10 268 307
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 308 "esami/tmp/test.ml" 10 268 309
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 305 "esami/tmp/test.ml" 10 268 310
+type(
+  int * int
+)
+"esami/tmp/test.ml" 10 268 312 "esami/tmp/test.ml" 10 268 313
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 314 "esami/tmp/test.ml" 10 268 315
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 311 "esami/tmp/test.ml" 10 268 316
+type(
+  int * int
+)
+"esami/tmp/test.ml" 10 268 318 "esami/tmp/test.ml" 10 268 319
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 320 "esami/tmp/test.ml" 10 268 321
+type(
+  int
+)
+"esami/tmp/test.ml" 10 268 317 "esami/tmp/test.ml" 10 268 322
+type(
+  int * int
+)
+"esami/tmp/test.ml" 10 268 280 "esami/tmp/test.ml" 10 268 323
+type(
+  (int * int) list
+)
+"esami/tmp/test.ml" 15 488 492 "esami/tmp/test.ml" 15 488 498
+type(
+  'a -> 'a option -> bool
+)
+ident(
+  def checks "esami/tmp/test.ml" 22 640 640 "esami/tmp/test.ml" 0 0 -1
+)
+"esami/tmp/test.ml" 15 488 499 "esami/tmp/test.ml" 15 488 500
+type(
+  'a
+)
+ident(
+  def n "esami/tmp/test.ml" 15 488 503 "esami/tmp/test.ml" 17 531 547
+)
+"esami/tmp/test.ml" 16 512 521 "esami/tmp/test.ml" 16 512 522
+ident(
+  def y "esami/tmp/test.ml" 16 512 527 "esami/tmp/test.ml" 16 512 530
+)
+"esami/tmp/test.ml" 16 512 520 "esami/tmp/test.ml" 16 512 523
+type(
+  'a
+)
+"esami/tmp/test.ml" 16 512 516 "esami/tmp/test.ml" 16 512 523
+type(
+  'a option
+)
+"esami/tmp/test.ml" 16 512 527 "esami/tmp/test.ml" 16 512 528
+type(
+  'a
+)
+ident(
+  int_ref y "esami/tmp/test.ml" 16 512 520 "esami/tmp/test.ml" 16 512 523
+)
+"esami/tmp/test.ml" 16 512 528 "esami/tmp/test.ml" 16 512 529
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp/test.ml" 16 512 529 "esami/tmp/test.ml" 16 512 530
+type(
+  'a
+)
+ident(
+  int_ref n "esami/tmp/test.ml" 15 488 499 "esami/tmp/test.ml" 15 488 500
+)
+"esami/tmp/test.ml" 16 512 527 "esami/tmp/test.ml" 16 512 530
+type(
+  bool
+)
+"esami/tmp/test.ml" 17 531 535 "esami/tmp/test.ml" 17 531 539
+type(
+  'a option
+)
+"esami/tmp/test.ml" 17 531 543 "esami/tmp/test.ml" 17 531 547
+type(
+  bool
+)
+"esami/tmp/test.ml" 15 488 503 "esami/tmp/test.ml" 17 531 547
+type(
+  'a option -> bool
+)
+"esami/tmp/test.ml" 22 640 644 "esami/tmp/test.ml" 22 640 652
+type(
+  'a list -> bool
+)
+ident(
+  def checkuno "esami/tmp/test.ml" 26 695 695 "esami/tmp/test.ml" 0 0 -1
+)
+"esami/tmp/test.ml" 23 663 668 "esami/tmp/test.ml" 23 663 669
+type(
+  'a
+)
+ident(
+  def x "esami/tmp/test.ml" 23 663 674 "esami/tmp/test.ml" 23 663 678
+)
+"esami/tmp/test.ml" 23 663 667 "esami/tmp/test.ml" 23 663 670
+type(
+  'a list
+)
+"esami/tmp/test.ml" 23 663 674 "esami/tmp/test.ml" 23 663 678
+type(
+  bool
+)
+"esami/tmp/test.ml" 24 679 683 "esami/tmp/test.ml" 24 679 684
+type(
+  'a list
+)
+"esami/tmp/test.ml" 24 679 688 "esami/tmp/test.ml" 24 679 693
+type(
+  bool
+)
+"esami/tmp/test.ml" 22 640 654 "esami/tmp/test.ml" 24 679 693
+type(
+  'a list -> bool
+)
+"esami/tmp/test.ml" 43 1508 1512 "esami/tmp/test.ml" 43 1508 1521
+type(
+  '_weak1 -> '_weak2 -> '_weak3 -> '_weak4 -> '_weak5
+)
+ident(
+  def whichpath "esami/tmp/test.ml" 67 2468 2502 "esami/tmp/test.ml" 0 0 -1
+)
+"esami/tmp/test.ml" 43 1508 1522 "esami/tmp/test.ml" 43 1508 1523
+type(
+  '_weak1
+)
+ident(
+  def g "esami/tmp/test.ml" 43 1508 1524 "esami/tmp/test.ml" 67 2468 2502
+)
+"esami/tmp/test.ml" 43 1508 1524 "esami/tmp/test.ml" 43 1508 1529
+type(
+  '_weak2
+)
+ident(
+  def plist "esami/tmp/test.ml" 43 1508 1530 "esami/tmp/test.ml" 67 2468 2502
+)
+"esami/tmp/test.ml" 43 1508 1530 "esami/tmp/test.ml" 43 1508 1535
+type(
+  '_weak3
+)
+ident(
+  def start "esami/tmp/test.ml" 43 1508 1536 "esami/tmp/test.ml" 67 2468 2502
+)
+"esami/tmp/test.ml" 43 1508 1536 "esami/tmp/test.ml" 43 1508 1540
+type(
+  '_weak4
+)
+ident(
+  def goal "esami/tmp/test.ml" 44 1543 1545 "esami/tmp/test.ml" 67 2468 2502
+)
+"esami/tmp/test.ml" 44 1543 1553 "esami/tmp/test.ml" 44 1543 1556
+type(
+  '_weak6 -> '_weak7 list -> '_weak8 -> '_weak4 list -> '_weak9
+)
+ident(
+  def aux "esami/tmp/test.ml" 44 1543 1545 "esami/tmp/test.ml" 67 2468 2502
+)
+"esami/tmp/test.ml" 44 1543 1557 "esami/tmp/test.ml" 44 1543 1564
+type(
+  '_weak6
+)
+ident(
+  def visited "esami/tmp/test.ml" 44 1543 1565 "esami/tmp/test.ml" 54 1925 1956
+)
+"esami/tmp/test.ml" 44 1543 1565 "esami/tmp/test.ml" 44 1543 1566
+type(
+  '_weak7 list
+)
+ident(
+  def l "esami/tmp/test.ml" 44 1543 1567 "esami/tmp/test.ml" 54 1925 1956
+)
+"esami/tmp/test.ml" 44 1543 1567 "esami/tmp/test.ml" 44 1543 1571
+type(
+  '_weak8
+)
+ident(
+  def path "esami/tmp/test.ml" 44 1543 1574 "esami/tmp/test.ml" 54 1925 1956
+)
+"esami/tmp/test.ml" 45 1583 1589 "esami/tmp/test.ml" 45 1583 1591
+type(
+  '_weak4 list
+)
+"esami/tmp/test.ml" 45 1583 1595 "esami/tmp/test.ml" 45 1583 1603
+type(
+  string -> '_weak9
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/tmp/test.ml" 45 1583 1604 "esami/tmp/test.ml" 45 1583 1607
+type(
+  string
+)
+"esami/tmp/test.ml" 45 1583 1595 "esami/tmp/test.ml" 45 1583 1607
+type(
+  '_weak9
+)
+"esami/tmp/test.ml" 46 1608 1614 "esami/tmp/test.ml" 46 1608 1615
+type(
+  '_weak4
+)
+ident(
+  def n "esami/tmp/test.ml" 46 1608 1625 "esami/tmp/test.ml" 54 1925 1956
+)
+"esami/tmp/test.ml" 46 1608 1617 "esami/tmp/test.ml" 46 1608 1621
+type(
+  '_weak4 list
+)
+ident(
+  def rest "esami/tmp/test.ml" 46 1608 1625 "esami/tmp/test.ml" 54 1925 1956
+)
+"esami/tmp/test.ml" 46 1608 1614 "esami/tmp/test.ml" 46 1608 1621
+type(
+  '_weak4 list
+)
+"esami/tmp/test.ml" 46 1608 1631 "esami/tmp/test.ml" 46 1608 1632
+type(
+  '_weak7 list
+)
+ident(
+  int_ref l "esami/tmp/test.ml" 44 1543 1565 "esami/tmp/test.ml" 44 1543 1566
+)
+"esami/tmp/test.ml" 47 1638 1639 "esami/tmp/test.ml" 47 1638 1641
+type(
+  '_weak7 list
+)
+"esami/tmp/test.ml" 47 1638 1645 "esami/tmp/test.ml" 47 1638 1652
+type(
+  '_weak6 -> '_weak8 -> '_weak4 -> '_weak1 -> '_weak4 list -> '_weak9
+)
+ident(
+  int_ref cammino "esami/tmp/test.ml" 55 1957 1965 "esami/tmp/test.ml" 55 1957 1972
+)
+"esami/tmp/test.ml" 47 1638 1653 "esami/tmp/test.ml" 47 1638 1660
+type(
+  '_weak6
+)
+ident(
+  int_ref visited "esami/tmp/test.ml" 44 1543 1557 "esami/tmp/test.ml" 44 1543 1564
+)
+"esami/tmp/test.ml" 47 1638 1661 "esami/tmp/test.ml" 47 1638 1665
+type(
+  '_weak8
+)
+ident(
+  int_ref path "esami/tmp/test.ml" 44 1543 1567 "esami/tmp/test.ml" 44 1543 1571
+)
+"esami/tmp/test.ml" 47 1638 1666 "esami/tmp/test.ml" 47 1638 1670
+type(
+  '_weak4
+)
+ident(
+  int_ref goal "esami/tmp/test.ml" 43 1508 1536 "esami/tmp/test.ml" 43 1508 1540
+)
+"esami/tmp/test.ml" 47 1638 1671 "esami/tmp/test.ml" 47 1638 1672
+type(
+  '_weak1
+)
+ident(
+  int_ref g "esami/tmp/test.ml" 43 1508 1522 "esami/tmp/test.ml" 43 1508 1523
+)
+"esami/tmp/test.ml" 47 1638 1674 "esami/tmp/test.ml" 47 1638 1675
+type(
+  '_weak4
+)
+ident(
+  int_ref n "esami/tmp/test.ml" 46 1608 1614 "esami/tmp/test.ml" 46 1608 1615
+)
+"esami/tmp/test.ml" 47 1638 1677 "esami/tmp/test.ml" 47 1638 1681
+type(
+  '_weak4 list
+)
+ident(
+  int_ref rest "esami/tmp/test.ml" 46 1608 1617 "esami/tmp/test.ml" 46 1608 1621
+)
+"esami/tmp/test.ml" 47 1638 1673 "esami/tmp/test.ml" 47 1638 1682
+type(
+  '_weak4 list
+)
+"esami/tmp/test.ml" 47 1638 1645 "esami/tmp/test.ml" 47 1638 1682
+type(
+  '_weak9
+)
+"esami/tmp/test.ml" 48 1683 1691 "esami/tmp/test.ml" 48 1683 1692
+type(
+  '_weak7 list
+)
+"esami/tmp/test.ml" 50 1709 1715 "esami/tmp/test.ml" 50 1709 1719
+type(
+  '_weak4
+)
+ident(
+  int_ref goal "esami/tmp/test.ml" 43 1508 1536 "esami/tmp/test.ml" 43 1508 1540
+)
+"esami/tmp/test.ml" 50 1709 1720 "esami/tmp/test.ml" 50 1709 1721
+type(
+  '_weak4 -> '_weak4 -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp/test.ml" 50 1709 1722 "esami/tmp/test.ml" 50 1709 1723
+type(
+  '_weak4
+)
+ident(
+  int_ref n "esami/tmp/test.ml" 46 1608 1614 "esami/tmp/test.ml" 46 1608 1615
+)
+"esami/tmp/test.ml" 50 1709 1715 "esami/tmp/test.ml" 50 1709 1723
+type(
+  bool
+)
+"esami/tmp/test.ml" 50 1709 1724 "esami/tmp/test.ml" 50 1709 1726
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"esami/tmp/test.ml" 50 1709 1727 "esami/tmp/test.ml" 50 1709 1735
+type(
+  '_weak7 list -> bool
+)
+ident(
+  int_ref checkuno "esami/tmp/test.ml" 22 640 644 "esami/tmp/test.ml" 22 640 652
+)
+"esami/tmp/test.ml" 50 1709 1736 "esami/tmp/test.ml" 50 1709 1737
+type(
+  '_weak7 list
+)
+ident(
+  int_ref l "esami/tmp/test.ml" 44 1543 1565 "esami/tmp/test.ml" 44 1543 1566
+)
+"esami/tmp/test.ml" 50 1709 1727 "esami/tmp/test.ml" 50 1709 1737
+type(
+  bool
+)
+"esami/tmp/test.ml" 50 1709 1738 "esami/tmp/test.ml" 50 1709 1740
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"esami/tmp/test.ml" 50 1709 1742 "esami/tmp/test.ml" 50 1709 1748
+type(
+  '_weak4 -> '_weak4 option -> bool
+)
+ident(
+  int_ref checks "esami/tmp/test.ml" 15 488 492 "esami/tmp/test.ml" 15 488 498
+)
+"esami/tmp/test.ml" 50 1709 1749 "esami/tmp/test.ml" 50 1709 1750
+type(
+  '_weak4
+)
+ident(
+  int_ref n "esami/tmp/test.ml" 46 1608 1614 "esami/tmp/test.ml" 46 1608 1615
+)
+"esami/tmp/test.ml" 55 1957 1965 "esami/tmp/test.ml" 55 1957 1972
+type(
+  '_weak6 -> '_weak8 -> '_weak4 -> '_weak1 -> '_weak4 list -> '_weak9
+)
+ident(
+  def cammino "esami/tmp/test.ml" 44 1543 1545 "esami/tmp/test.ml" 67 2468 2502
+)

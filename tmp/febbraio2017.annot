@@ -1,0 +1,372 @@
+"esami/tmp/febbraio2017.ml" 5 72 76 "esami/tmp/febbraio2017.ml" 5 72 77
+type(
+  (int * int) list
+)
+ident(
+  def g "esami/tmp/febbraio2017.ml" 8 173 173 "esami/tmp/febbraio2017.ml" 0 0 -1
+)
+"esami/tmp/febbraio2017.ml" 5 72 82 "esami/tmp/febbraio2017.ml" 5 72 83
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 84 "esami/tmp/febbraio2017.ml" 5 72 85
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 81 "esami/tmp/febbraio2017.ml" 5 72 86
+type(
+  int * int
+)
+"esami/tmp/febbraio2017.ml" 5 72 88 "esami/tmp/febbraio2017.ml" 5 72 89
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 90 "esami/tmp/febbraio2017.ml" 5 72 91
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 87 "esami/tmp/febbraio2017.ml" 5 72 92
+type(
+  int * int
+)
+"esami/tmp/febbraio2017.ml" 5 72 96 "esami/tmp/febbraio2017.ml" 5 72 97
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 98 "esami/tmp/febbraio2017.ml" 5 72 99
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 95 "esami/tmp/febbraio2017.ml" 5 72 100
+type(
+  int * int
+)
+"esami/tmp/febbraio2017.ml" 5 72 103 "esami/tmp/febbraio2017.ml" 5 72 104
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 105 "esami/tmp/febbraio2017.ml" 5 72 106
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 102 "esami/tmp/febbraio2017.ml" 5 72 107
+type(
+  int * int
+)
+"esami/tmp/febbraio2017.ml" 5 72 110 "esami/tmp/febbraio2017.ml" 5 72 111
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 112 "esami/tmp/febbraio2017.ml" 5 72 113
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 109 "esami/tmp/febbraio2017.ml" 5 72 114
+type(
+  int * int
+)
+"esami/tmp/febbraio2017.ml" 5 72 117 "esami/tmp/febbraio2017.ml" 5 72 118
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 119 "esami/tmp/febbraio2017.ml" 5 72 120
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 116 "esami/tmp/febbraio2017.ml" 5 72 121
+type(
+  int * int
+)
+"esami/tmp/febbraio2017.ml" 5 72 124 "esami/tmp/febbraio2017.ml" 5 72 125
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 126 "esami/tmp/febbraio2017.ml" 5 72 127
+type(
+  int
+)
+"esami/tmp/febbraio2017.ml" 5 72 123 "esami/tmp/febbraio2017.ml" 5 72 128
+type(
+  int * int
+)
+"esami/tmp/febbraio2017.ml" 5 72 80 "esami/tmp/febbraio2017.ml" 5 72 129
+type(
+  (int * int) list
+)
+"esami/tmp/febbraio2017.ml" 8 173 181 "esami/tmp/febbraio2017.ml" 8 173 187
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  def vicini "esami/tmp/febbraio2017.ml" 8 173 173 "esami/tmp/febbraio2017.ml" 0 0 -1
+)
+"esami/tmp/febbraio2017.ml" 8 173 188 "esami/tmp/febbraio2017.ml" 8 173 189
+type(
+  'a
+)
+ident(
+  def x "esami/tmp/febbraio2017.ml" 8 173 192 "esami/tmp/febbraio2017.ml" 11 263 290
+)
+"esami/tmp/febbraio2017.ml" 9 202 205 "esami/tmp/febbraio2017.ml" 9 202 207
+type(
+  ('a * 'b) list
+)
+"esami/tmp/febbraio2017.ml" 9 202 211 "esami/tmp/febbraio2017.ml" 9 202 213
+type(
+  'b list
+)
+"esami/tmp/febbraio2017.ml" 10 214 218 "esami/tmp/febbraio2017.ml" 10 214 219
+type(
+  'a
+)
+ident(
+  def a "esami/tmp/febbraio2017.ml" 10 214 232 "esami/tmp/febbraio2017.ml" 11 263 290
+)
+"esami/tmp/febbraio2017.ml" 10 214 220 "esami/tmp/febbraio2017.ml" 10 214 221
+type(
+  'b
+)
+ident(
+  def b "esami/tmp/febbraio2017.ml" 10 214 232 "esami/tmp/febbraio2017.ml" 11 263 290
+)
+"esami/tmp/febbraio2017.ml" 10 214 217 "esami/tmp/febbraio2017.ml" 10 214 222
+type(
+  'a * 'b
+)
+"esami/tmp/febbraio2017.ml" 10 214 224 "esami/tmp/febbraio2017.ml" 10 214 228
+type(
+  ('a * 'b) list
+)
+ident(
+  def rest "esami/tmp/febbraio2017.ml" 10 214 232 "esami/tmp/febbraio2017.ml" 11 263 290
+)
+"esami/tmp/febbraio2017.ml" 10 214 217 "esami/tmp/febbraio2017.ml" 10 214 228
+type(
+  ('a * 'b) list
+)
+"esami/tmp/febbraio2017.ml" 10 214 235 "esami/tmp/febbraio2017.ml" 10 214 236
+type(
+  'a
+)
+ident(
+  int_ref a "esami/tmp/febbraio2017.ml" 10 214 218 "esami/tmp/febbraio2017.ml" 10 214 219
+)
+"esami/tmp/febbraio2017.ml" 10 214 237 "esami/tmp/febbraio2017.ml" 10 214 238
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp/febbraio2017.ml" 10 214 239 "esami/tmp/febbraio2017.ml" 10 214 240
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp/febbraio2017.ml" 8 173 188 "esami/tmp/febbraio2017.ml" 8 173 189
+)
+"esami/tmp/febbraio2017.ml" 10 214 235 "esami/tmp/febbraio2017.ml" 10 214 240
+type(
+  bool
+)
+"esami/tmp/febbraio2017.ml" 10 214 246 "esami/tmp/febbraio2017.ml" 10 214 247
+type(
+  'b
+)
+ident(
+  int_ref b "esami/tmp/febbraio2017.ml" 10 214 220 "esami/tmp/febbraio2017.ml" 10 214 221
+)
+"esami/tmp/febbraio2017.ml" 10 214 249 "esami/tmp/febbraio2017.ml" 10 214 255
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  int_ref vicini "esami/tmp/febbraio2017.ml" 8 173 181 "esami/tmp/febbraio2017.ml" 8 173 187
+)
+"esami/tmp/febbraio2017.ml" 10 214 256 "esami/tmp/febbraio2017.ml" 10 214 257
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp/febbraio2017.ml" 8 173 188 "esami/tmp/febbraio2017.ml" 8 173 189
+)
+"esami/tmp/febbraio2017.ml" 10 214 258 "esami/tmp/febbraio2017.ml" 10 214 262
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "esami/tmp/febbraio2017.ml" 10 214 224 "esami/tmp/febbraio2017.ml" 10 214 228
+)
+"esami/tmp/febbraio2017.ml" 10 214 249 "esami/tmp/febbraio2017.ml" 10 214 262
+type(
+  'b list
+)
+"esami/tmp/febbraio2017.ml" 10 214 246 "esami/tmp/febbraio2017.ml" 10 214 262
+type(
+  'b list
+)
+"esami/tmp/febbraio2017.ml" 11 263 277 "esami/tmp/febbraio2017.ml" 11 263 283
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  int_ref vicini "esami/tmp/febbraio2017.ml" 8 173 181 "esami/tmp/febbraio2017.ml" 8 173 187
+)
+"esami/tmp/febbraio2017.ml" 11 263 284 "esami/tmp/febbraio2017.ml" 11 263 285
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp/febbraio2017.ml" 8 173 188 "esami/tmp/febbraio2017.ml" 8 173 189
+)
+"esami/tmp/febbraio2017.ml" 11 263 286 "esami/tmp/febbraio2017.ml" 11 263 290
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "esami/tmp/febbraio2017.ml" 10 214 224 "esami/tmp/febbraio2017.ml" 10 214 228
+)
+"esami/tmp/febbraio2017.ml" 11 263 277 "esami/tmp/febbraio2017.ml" 11 263 290
+type(
+  'b list
+)
+"esami/tmp/febbraio2017.ml" 10 214 232 "esami/tmp/febbraio2017.ml" 11 263 290
+type(
+  'b list
+)
+"esami/tmp/febbraio2017.ml" 8 173 192 "esami/tmp/febbraio2017.ml" 11 263 290
+type(
+  ('a * 'b) list -> 'b list
+)
+"esami/tmp/febbraio2017.ml" 14 338 342 "esami/tmp/febbraio2017.ml" 14 338 354
+type(
+  'a -> 'a option -> bool
+)
+ident(
+  def checkpattern "esami/tmp/febbraio2017.ml" 26 565 565 "esami/tmp/febbraio2017.ml" 0 0 -1
+)
+"esami/tmp/febbraio2017.ml" 14 338 355 "esami/tmp/febbraio2017.ml" 14 338 356
+type(
+  'a
+)
+ident(
+  def x "esami/tmp/febbraio2017.ml" 14 338 359 "esami/tmp/febbraio2017.ml" 16 385 403
+)
+"esami/tmp/febbraio2017.ml" 15 369 372 "esami/tmp/febbraio2017.ml" 15 369 376
+type(
+  'a option
+)
+"esami/tmp/febbraio2017.ml" 15 369 380 "esami/tmp/febbraio2017.ml" 15 369 384
+type(
+  bool
+)
+"esami/tmp/febbraio2017.ml" 16 385 393 "esami/tmp/febbraio2017.ml" 16 385 394
+type(
+  'a
+)
+ident(
+  def y "esami/tmp/febbraio2017.ml" 16 385 398 "esami/tmp/febbraio2017.ml" 16 385 403
+)
+"esami/tmp/febbraio2017.ml" 16 385 388 "esami/tmp/febbraio2017.ml" 16 385 394
+type(
+  'a option
+)
+"esami/tmp/febbraio2017.ml" 16 385 398 "esami/tmp/febbraio2017.ml" 16 385 399
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp/febbraio2017.ml" 14 338 355 "esami/tmp/febbraio2017.ml" 14 338 356
+)
+"esami/tmp/febbraio2017.ml" 16 385 400 "esami/tmp/febbraio2017.ml" 16 385 401
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp/febbraio2017.ml" 16 385 402 "esami/tmp/febbraio2017.ml" 16 385 403
+type(
+  'a
+)
+ident(
+  int_ref y "esami/tmp/febbraio2017.ml" 16 385 393 "esami/tmp/febbraio2017.ml" 16 385 394
+)
+"esami/tmp/febbraio2017.ml" 16 385 398 "esami/tmp/febbraio2017.ml" 16 385 403
+type(
+  bool
+)
+"esami/tmp/febbraio2017.ml" 14 338 359 "esami/tmp/febbraio2017.ml" 16 385 403
+type(
+  'a option -> bool
+)
+"esami/tmp/febbraio2017.ml" 27 590 594 "esami/tmp/febbraio2017.ml" 27 590 603
+type(
+  '_weak1 -> '_weak2 -> '_weak3 -> '_weak4 -> '_weak5
+)
+ident(
+  def whichpath "esami/tmp/febbraio2017.ml" 46 1291 1291 "esami/tmp/febbraio2017.ml" 0 0 -1
+)
+"esami/tmp/febbraio2017.ml" 27 590 604 "esami/tmp/febbraio2017.ml" 27 590 605
+type(
+  '_weak1
+)
+ident(
+  def g "esami/tmp/febbraio2017.ml" 27 590 606 "esami/tmp/febbraio2017.ml" 44 1249 1277
+)
+"esami/tmp/febbraio2017.ml" 27 590 606 "esami/tmp/febbraio2017.ml" 27 590 611
+type(
+  '_weak2
+)
+ident(
+  def lista "esami/tmp/febbraio2017.ml" 27 590 612 "esami/tmp/febbraio2017.ml" 44 1249 1277
+)
+"esami/tmp/febbraio2017.ml" 27 590 612 "esami/tmp/febbraio2017.ml" 27 590 617
+type(
+  '_weak3
+)
+ident(
+  def start "esami/tmp/febbraio2017.ml" 27 590 618 "esami/tmp/febbraio2017.ml" 44 1249 1277
+)
+"esami/tmp/febbraio2017.ml" 27 590 618 "esami/tmp/febbraio2017.ml" 27 590 622
+type(
+  '_weak4
+)
+ident(
+  def goal "esami/tmp/febbraio2017.ml" 28 626 627 "esami/tmp/febbraio2017.ml" 44 1249 1277
+)
+"esami/tmp/febbraio2017.ml" 28 626 635 "esami/tmp/febbraio2017.ml" 28 626 644
+type(
+  '_weak6 -> '_weak7 -> '_weak8 -> '_weak9
+)
+ident(
+  def from_node "esami/tmp/febbraio2017.ml" 28 626 627 "esami/tmp/febbraio2017.ml" 44 1249 1277
+)
+"esami/tmp/febbraio2017.ml" 28 626 645 "esami/tmp/febbraio2017.ml" 28 626 652
+type(
+  '_weak6
+)
+ident(
+  def visited "esami/tmp/febbraio2017.ml" 28 626 653 "esami/tmp/febbraio2017.ml" 35 957 1035
+)
+"esami/tmp/febbraio2017.ml" 28 626 653 "esami/tmp/febbraio2017.ml" 28 626 657
+type(
+  '_weak7
+)
+ident(
+  def nodo "esami/tmp/febbraio2017.ml" 28 626 658 "esami/tmp/febbraio2017.ml" 35 957 1035
+)
+"esami/tmp/febbraio2017.ml" 28 626 658 "esami/tmp/febbraio2017.ml" 28 626 666
+type(
+  '_weak8
+)
+ident(
+  def patterns "esami/tmp/febbraio2017.ml" 29 671 674 "esami/tmp/febbraio2017.ml" 35 957 1035
+)
+"esami/tmp/febbraio2017.ml" 37 1040 1048 "esami/tmp/febbraio2017.ml" 37 1040 1057
+type(
+  '_weak10 -> '_weak11 -> '_weak12 -> '_weak13 -> '_weak14
+)
+ident(
+  def from_list "esami/tmp/febbraio2017.ml" 28 626 627 "esami/tmp/febbraio2017.ml" 44 1249 1277
+)
