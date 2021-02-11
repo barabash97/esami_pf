@@ -1,0 +1,718 @@
+"esami/febbraio2014.ml" 3 19 23 "esami/febbraio2014.ml" 3 19 29
+type(
+  int list
+)
+ident(
+  def output "esami/febbraio2014.ml" 5 58 58 "esami/febbraio2014.ml" 0 0 -1
+)
+"esami/febbraio2014.ml" 3 19 33 "esami/febbraio2014.ml" 3 19 34
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 35 "esami/febbraio2014.ml" 3 19 36
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 37 "esami/febbraio2014.ml" 3 19 38
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 39 "esami/febbraio2014.ml" 3 19 40
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 41 "esami/febbraio2014.ml" 3 19 42
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 43 "esami/febbraio2014.ml" 3 19 44
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 45 "esami/febbraio2014.ml" 3 19 46
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 47 "esami/febbraio2014.ml" 3 19 48
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 49 "esami/febbraio2014.ml" 3 19 51
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 52 "esami/febbraio2014.ml" 3 19 53
+type(
+  int
+)
+"esami/febbraio2014.ml" 3 19 32 "esami/febbraio2014.ml" 3 19 54
+type(
+  int list
+)
+"esami/febbraio2014.ml" 5 58 66 "esami/febbraio2014.ml" 5 58 83
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  def elementi_maggiori "esami/febbraio2014.ml" 5 58 58 "esami/febbraio2014.ml" 0 0 -1
+)
+"esami/febbraio2014.ml" 5 58 84 "esami/febbraio2014.ml" 5 58 89
+type(
+  'a
+)
+ident(
+  def value "esami/febbraio2014.ml" 5 58 92 "esami/febbraio2014.ml" 7 114 207
+)
+"esami/febbraio2014.ml" 6 102 105 "esami/febbraio2014.ml" 6 102 107
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 6 102 111 "esami/febbraio2014.ml" 6 102 113
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 7 114 117 "esami/febbraio2014.ml" 7 114 118
+type(
+  'a
+)
+ident(
+  def x "esami/febbraio2014.ml" 7 114 128 "esami/febbraio2014.ml" 7 114 207
+)
+"esami/febbraio2014.ml" 7 114 120 "esami/febbraio2014.ml" 7 114 124
+type(
+  'a list
+)
+ident(
+  def rest "esami/febbraio2014.ml" 7 114 128 "esami/febbraio2014.ml" 7 114 207
+)
+"esami/febbraio2014.ml" 7 114 117 "esami/febbraio2014.ml" 7 114 124
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 7 114 131 "esami/febbraio2014.ml" 7 114 132
+type(
+  'a
+)
+ident(
+  int_ref x "esami/febbraio2014.ml" 7 114 117 "esami/febbraio2014.ml" 7 114 118
+)
+"esami/febbraio2014.ml" 7 114 133 "esami/febbraio2014.ml" 7 114 134
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"esami/febbraio2014.ml" 7 114 135 "esami/febbraio2014.ml" 7 114 140
+type(
+  'a
+)
+ident(
+  int_ref value "esami/febbraio2014.ml" 5 58 84 "esami/febbraio2014.ml" 5 58 89
+)
+"esami/febbraio2014.ml" 7 114 131 "esami/febbraio2014.ml" 7 114 140
+type(
+  bool
+)
+"esami/febbraio2014.ml" 7 114 146 "esami/febbraio2014.ml" 7 114 147
+type(
+  'a
+)
+ident(
+  int_ref x "esami/febbraio2014.ml" 7 114 117 "esami/febbraio2014.ml" 7 114 118
+)
+"esami/febbraio2014.ml" 7 114 149 "esami/febbraio2014.ml" 7 114 166
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref elementi_maggiori "esami/febbraio2014.ml" 5 58 66 "esami/febbraio2014.ml" 5 58 83
+)
+"esami/febbraio2014.ml" 7 114 167 "esami/febbraio2014.ml" 7 114 168
+type(
+  'a
+)
+ident(
+  int_ref x "esami/febbraio2014.ml" 7 114 117 "esami/febbraio2014.ml" 7 114 118
+)
+"esami/febbraio2014.ml" 7 114 169 "esami/febbraio2014.ml" 7 114 173
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/febbraio2014.ml" 7 114 120 "esami/febbraio2014.ml" 7 114 124
+)
+"esami/febbraio2014.ml" 7 114 149 "esami/febbraio2014.ml" 7 114 173
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 7 114 146 "esami/febbraio2014.ml" 7 114 173
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 7 114 179 "esami/febbraio2014.ml" 7 114 196
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref elementi_maggiori "esami/febbraio2014.ml" 5 58 66 "esami/febbraio2014.ml" 5 58 83
+)
+"esami/febbraio2014.ml" 7 114 197 "esami/febbraio2014.ml" 7 114 202
+type(
+  'a
+)
+ident(
+  int_ref value "esami/febbraio2014.ml" 5 58 84 "esami/febbraio2014.ml" 5 58 89
+)
+"esami/febbraio2014.ml" 7 114 203 "esami/febbraio2014.ml" 7 114 207
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/febbraio2014.ml" 7 114 120 "esami/febbraio2014.ml" 7 114 124
+)
+"esami/febbraio2014.ml" 7 114 179 "esami/febbraio2014.ml" 7 114 207
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 7 114 128 "esami/febbraio2014.ml" 7 114 207
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 5 58 92 "esami/febbraio2014.ml" 7 114 207
+type(
+  'a list -> 'a list
+)
+"esami/febbraio2014.ml" 9 212 220 "esami/febbraio2014.ml" 9 212 228
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  def ordinati "esami/febbraio2014.ml" 9 212 212 "esami/febbraio2014.ml" 0 0 -1
+)
+"esami/febbraio2014.ml" 9 212 229 "esami/febbraio2014.ml" 9 212 234
+type(
+  'a
+)
+ident(
+  def start "esami/febbraio2014.ml" 9 212 237 "esami/febbraio2014.ml" 11 259 343
+)
+"esami/febbraio2014.ml" 10 247 250 "esami/febbraio2014.ml" 10 247 252
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 10 247 256 "esami/febbraio2014.ml" 10 247 258
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 11 259 262 "esami/febbraio2014.ml" 11 259 263
+type(
+  'a
+)
+ident(
+  def x "esami/febbraio2014.ml" 11 259 273 "esami/febbraio2014.ml" 11 259 343
+)
+"esami/febbraio2014.ml" 11 259 265 "esami/febbraio2014.ml" 11 259 269
+type(
+  'a list
+)
+ident(
+  def rest "esami/febbraio2014.ml" 11 259 273 "esami/febbraio2014.ml" 11 259 343
+)
+"esami/febbraio2014.ml" 11 259 262 "esami/febbraio2014.ml" 11 259 269
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 11 259 276 "esami/febbraio2014.ml" 11 259 277
+type(
+  'a
+)
+ident(
+  int_ref x "esami/febbraio2014.ml" 11 259 262 "esami/febbraio2014.ml" 11 259 263
+)
+"esami/febbraio2014.ml" 11 259 278 "esami/febbraio2014.ml" 11 259 279
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/febbraio2014.ml" 11 259 280 "esami/febbraio2014.ml" 11 259 285
+type(
+  'a
+)
+ident(
+  int_ref start "esami/febbraio2014.ml" 9 212 229 "esami/febbraio2014.ml" 9 212 234
+)
+"esami/febbraio2014.ml" 11 259 276 "esami/febbraio2014.ml" 11 259 285
+type(
+  bool
+)
+"esami/febbraio2014.ml" 11 259 291 "esami/febbraio2014.ml" 11 259 292
+type(
+  'a
+)
+ident(
+  int_ref x "esami/febbraio2014.ml" 11 259 262 "esami/febbraio2014.ml" 11 259 263
+)
+"esami/febbraio2014.ml" 11 259 294 "esami/febbraio2014.ml" 11 259 311
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref elementi_maggiori "esami/febbraio2014.ml" 5 58 66 "esami/febbraio2014.ml" 5 58 83
+)
+"esami/febbraio2014.ml" 11 259 312 "esami/febbraio2014.ml" 11 259 313
+type(
+  'a
+)
+ident(
+  int_ref x "esami/febbraio2014.ml" 11 259 262 "esami/febbraio2014.ml" 11 259 263
+)
+"esami/febbraio2014.ml" 11 259 314 "esami/febbraio2014.ml" 11 259 318
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/febbraio2014.ml" 11 259 265 "esami/febbraio2014.ml" 11 259 269
+)
+"esami/febbraio2014.ml" 11 259 294 "esami/febbraio2014.ml" 11 259 318
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 11 259 291 "esami/febbraio2014.ml" 11 259 318
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 11 259 324 "esami/febbraio2014.ml" 11 259 332
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref ordinati "esami/febbraio2014.ml" 9 212 220 "esami/febbraio2014.ml" 9 212 228
+)
+"esami/febbraio2014.ml" 11 259 333 "esami/febbraio2014.ml" 11 259 338
+type(
+  'a
+)
+ident(
+  int_ref start "esami/febbraio2014.ml" 9 212 229 "esami/febbraio2014.ml" 9 212 234
+)
+"esami/febbraio2014.ml" 11 259 339 "esami/febbraio2014.ml" 11 259 343
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/febbraio2014.ml" 11 259 265 "esami/febbraio2014.ml" 11 259 269
+)
+"esami/febbraio2014.ml" 11 259 324 "esami/febbraio2014.ml" 11 259 343
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 11 259 273 "esami/febbraio2014.ml" 11 259 343
+type(
+  'a list
+)
+"esami/febbraio2014.ml" 9 212 237 "esami/febbraio2014.ml" 11 259 343
+type(
+  'a list -> 'a list
+)
+"esami/febbraio2014.ml" 13 347 347 "esami/febbraio2014.ml" 13 347 355
+type(
+  int -> int list -> int list
+)
+ident(
+  int_ref ordinati "esami/febbraio2014.ml" 9 212 220 "esami/febbraio2014.ml" 9 212 228
+)
+"esami/febbraio2014.ml" 13 347 356 "esami/febbraio2014.ml" 13 347 357
+type(
+  int
+)
+"esami/febbraio2014.ml" 13 347 358 "esami/febbraio2014.ml" 13 347 364
+type(
+  int list
+)
+ident(
+  int_ref output "esami/febbraio2014.ml" 3 19 23 "esami/febbraio2014.ml" 3 19 29
+)
+"esami/febbraio2014.ml" 13 347 347 "esami/febbraio2014.ml" 13 347 364
+type(
+  int list
+)
+"esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+type(
+  'a -> 'a ntree
+)
+ident(
+  def leaf "esami/febbraio2014.ml" 21 461 461 "esami/febbraio2014.ml" 0 0 -1
+)
+"esami/febbraio2014.ml" 19 436 445 "esami/febbraio2014.ml" 19 436 446
+type(
+  'a
+)
+ident(
+  def x "esami/febbraio2014.ml" 19 436 449 "esami/febbraio2014.ml" 19 436 457
+)
+"esami/febbraio2014.ml" 19 436 452 "esami/febbraio2014.ml" 19 436 453
+type(
+  'a
+)
+ident(
+  int_ref x "esami/febbraio2014.ml" 19 436 445 "esami/febbraio2014.ml" 19 436 446
+)
+"esami/febbraio2014.ml" 19 436 454 "esami/febbraio2014.ml" 19 436 456
+type(
+  'a ntree list
+)
+"esami/febbraio2014.ml" 19 436 449 "esami/febbraio2014.ml" 19 436 457
+type(
+  'a ntree
+)
+"esami/febbraio2014.ml" 21 461 465 "esami/febbraio2014.ml" 21 461 466
+type(
+  int ntree
+)
+ident(
+  def t "esami/febbraio2014.ml" 36 653 653 "esami/febbraio2014.ml" 0 0 -1
+)
+"esami/febbraio2014.ml" 21 461 472 "esami/febbraio2014.ml" 21 461 473
+type(
+  int
+)
+"esami/febbraio2014.ml" 21 461 478 "esami/febbraio2014.ml" 21 461 479
+type(
+  int
+)
+"esami/febbraio2014.ml" 21 461 484 "esami/febbraio2014.ml" 21 461 485
+type(
+  int
+)
+"esami/febbraio2014.ml" 21 461 487 "esami/febbraio2014.ml" 21 461 491
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 21 461 492 "esami/febbraio2014.ml" 21 461 493
+type(
+  int
+)
+"esami/febbraio2014.ml" 21 461 487 "esami/febbraio2014.ml" 21 461 493
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 22 495 496 "esami/febbraio2014.ml" 22 495 500
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 22 495 501 "esami/febbraio2014.ml" 22 495 502
+type(
+  int
+)
+"esami/febbraio2014.ml" 22 495 496 "esami/febbraio2014.ml" 22 495 502
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 21 461 486 "esami/febbraio2014.ml" 22 495 503
+type(
+  int ntree list
+)
+"esami/febbraio2014.ml" 21 461 481 "esami/febbraio2014.ml" 22 495 504
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 23 506 510 "esami/febbraio2014.ml" 23 506 511
+type(
+  int
+)
+"esami/febbraio2014.ml" 23 506 513 "esami/febbraio2014.ml" 23 506 517
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 23 506 518 "esami/febbraio2014.ml" 23 506 519
+type(
+  int
+)
+"esami/febbraio2014.ml" 23 506 513 "esami/febbraio2014.ml" 23 506 519
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 23 506 512 "esami/febbraio2014.ml" 23 506 520
+type(
+  int ntree list
+)
+"esami/febbraio2014.ml" 23 506 507 "esami/febbraio2014.ml" 23 506 521
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 24 523 524 "esami/febbraio2014.ml" 24 523 528
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 24 523 529 "esami/febbraio2014.ml" 24 523 530
+type(
+  int
+)
+"esami/febbraio2014.ml" 24 523 524 "esami/febbraio2014.ml" 24 523 530
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 21 461 480 "esami/febbraio2014.ml" 24 523 531
+type(
+  int ntree list
+)
+"esami/febbraio2014.ml" 21 461 475 "esami/febbraio2014.ml" 24 523 532
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 25 534 535 "esami/febbraio2014.ml" 25 534 539
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 25 534 540 "esami/febbraio2014.ml" 25 534 541
+type(
+  int
+)
+"esami/febbraio2014.ml" 25 534 535 "esami/febbraio2014.ml" 25 534 541
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 26 543 547 "esami/febbraio2014.ml" 26 543 549
+type(
+  int
+)
+"esami/febbraio2014.ml" 26 543 554 "esami/febbraio2014.ml" 26 543 556
+type(
+  int
+)
+"esami/febbraio2014.ml" 26 543 558 "esami/febbraio2014.ml" 26 543 562
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 26 543 563 "esami/febbraio2014.ml" 26 543 565
+type(
+  int
+)
+"esami/febbraio2014.ml" 26 543 558 "esami/febbraio2014.ml" 26 543 565
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 27 567 568 "esami/febbraio2014.ml" 27 567 572
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 27 567 573 "esami/febbraio2014.ml" 27 567 575
+type(
+  int
+)
+"esami/febbraio2014.ml" 27 567 568 "esami/febbraio2014.ml" 27 567 575
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 28 577 578 "esami/febbraio2014.ml" 28 577 582
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 28 577 583 "esami/febbraio2014.ml" 28 577 585
+type(
+  int
+)
+"esami/febbraio2014.ml" 28 577 578 "esami/febbraio2014.ml" 28 577 585
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 26 543 557 "esami/febbraio2014.ml" 28 577 586
+type(
+  int ntree list
+)
+"esami/febbraio2014.ml" 26 543 551 "esami/febbraio2014.ml" 28 577 587
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 29 589 590 "esami/febbraio2014.ml" 29 589 594
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 29 589 595 "esami/febbraio2014.ml" 29 589 597
+type(
+  int
+)
+"esami/febbraio2014.ml" 29 589 590 "esami/febbraio2014.ml" 29 589 597
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 30 599 603 "esami/febbraio2014.ml" 30 599 605
+type(
+  int
+)
+"esami/febbraio2014.ml" 30 599 607 "esami/febbraio2014.ml" 30 599 611
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 30 599 612 "esami/febbraio2014.ml" 30 599 614
+type(
+  int
+)
+"esami/febbraio2014.ml" 30 599 607 "esami/febbraio2014.ml" 30 599 614
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 31 616 620 "esami/febbraio2014.ml" 31 616 622
+type(
+  int
+)
+"esami/febbraio2014.ml" 31 616 624 "esami/febbraio2014.ml" 31 616 628
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 31 616 629 "esami/febbraio2014.ml" 31 616 631
+type(
+  int
+)
+"esami/febbraio2014.ml" 31 616 624 "esami/febbraio2014.ml" 31 616 631
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 32 633 634 "esami/febbraio2014.ml" 32 633 638
+type(
+  int -> int ntree
+)
+ident(
+  int_ref leaf "esami/febbraio2014.ml" 19 436 440 "esami/febbraio2014.ml" 19 436 444
+)
+"esami/febbraio2014.ml" 32 633 639 "esami/febbraio2014.ml" 32 633 641
+type(
+  int
+)
+"esami/febbraio2014.ml" 32 633 634 "esami/febbraio2014.ml" 32 633 641
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 31 616 623 "esami/febbraio2014.ml" 32 633 642
+type(
+  int ntree list
+)
+"esami/febbraio2014.ml" 31 616 617 "esami/febbraio2014.ml" 32 633 643
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 30 599 606 "esami/febbraio2014.ml" 32 633 644
+type(
+  int ntree list
+)
+"esami/febbraio2014.ml" 30 599 600 "esami/febbraio2014.ml" 32 633 645
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 26 543 550 "esami/febbraio2014.ml" 32 633 646
+type(
+  int ntree list
+)
+"esami/febbraio2014.ml" 26 543 544 "esami/febbraio2014.ml" 32 633 647
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 21 461 474 "esami/febbraio2014.ml" 32 633 648
+type(
+  int ntree list
+)
+"esami/febbraio2014.ml" 21 461 469 "esami/febbraio2014.ml" 32 633 649
+type(
+  int ntree
+)
+"esami/febbraio2014.ml" 36 653 661 "esami/febbraio2014.ml" 36 653 670
+type(
+  int -> '_weak1 ntree -> '_weak1 list
+)
+ident(
+  def livello_b "esami/febbraio2014.ml" 36 653 653 "esami/febbraio2014.ml" 0 0 -1
+)
+"esami/febbraio2014.ml" 36 653 671 "esami/febbraio2014.ml" 36 653 672
+type(
+  int
+)
+ident(
+  def k "esami/febbraio2014.ml" 36 653 673 "esami/febbraio2014.ml" 38 706 759
+)
+"esami/febbraio2014.ml" 36 653 677 "esami/febbraio2014.ml" 36 653 678
+type(
+  '_weak1
+)
+ident(
+  def x "esami/febbraio2014.ml" 37 689 690 "esami/febbraio2014.ml" 38 706 759
+)
+"esami/febbraio2014.ml" 36 653 679 "esami/febbraio2014.ml" 36 653 684
+type(
+  '_weak1 ntree list
+)
+ident(
+  def tlist "esami/febbraio2014.ml" 37 689 690 "esami/febbraio2014.ml" 38 706 759
+)
+"esami/febbraio2014.ml" 36 653 673 "esami/febbraio2014.ml" 36 653 686
+type(
+  '_weak1 ntree
+)
+"esami/febbraio2014.ml" 37 689 693 "esami/febbraio2014.ml" 37 689 694
+type(
+  int
+)
+ident(
+  int_ref k "esami/febbraio2014.ml" 36 653 671 "esami/febbraio2014.ml" 36 653 672
+)
+"esami/febbraio2014.ml" 37 689 694 "esami/febbraio2014.ml" 37 689 695
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/febbraio2014.ml" 37 689 695 "esami/febbraio2014.ml" 37 689 696
+type(
+  int
+)
+"esami/febbraio2014.ml" 37 689 693 "esami/febbraio2014.ml" 37 689 696
+type(
+  bool
+)
+"esami/febbraio2014.ml" 37 689 703 "esami/febbraio2014.ml" 37 689 704
+type(
+  '_weak1
+)
+ident(
+  int_ref x "esami/febbraio2014.ml" 36 653 677 "esami/febbraio2014.ml" 36 653 678
+)
+"esami/febbraio2014.ml" 37 689 702 "esami/febbraio2014.ml" 37 689 705
+type(
+  '_weak1 list
+)
