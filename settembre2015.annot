@@ -1,0 +1,244 @@
+"esami/settembre2015.ml" 3 42 46 "esami/settembre2015.ml" 3 42 52
+type(
+  int tree
+)
+ident(
+  def albero "esami/settembre2015.ml" 13 262 262 "esami/settembre2015.ml" 0 0 -1
+)
+"esami/settembre2015.ml" 3 42 58 "esami/settembre2015.ml" 3 42 59
+type(
+  int
+)
+"esami/settembre2015.ml" 3 42 64 "esami/settembre2015.ml" 3 42 65
+type(
+  int
+)
+"esami/settembre2015.ml" 3 42 70 "esami/settembre2015.ml" 3 42 71
+type(
+  int
+)
+"esami/settembre2015.ml" 3 42 72 "esami/settembre2015.ml" 3 42 74
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 3 42 67 "esami/settembre2015.ml" 3 42 75
+type(
+  int tree
+)
+"esami/settembre2015.ml" 4 77 80 "esami/settembre2015.ml" 4 77 81
+type(
+  int
+)
+"esami/settembre2015.ml" 4 77 86 "esami/settembre2015.ml" 4 77 87
+type(
+  int
+)
+"esami/settembre2015.ml" 4 77 92 "esami/settembre2015.ml" 4 77 93
+type(
+  int
+)
+"esami/settembre2015.ml" 4 77 94 "esami/settembre2015.ml" 4 77 96
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 4 77 89 "esami/settembre2015.ml" 4 77 97
+type(
+  int tree
+)
+"esami/settembre2015.ml" 4 77 88 "esami/settembre2015.ml" 4 77 98
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 4 77 83 "esami/settembre2015.ml" 4 77 99
+type(
+  int tree
+)
+"esami/settembre2015.ml" 4 77 104 "esami/settembre2015.ml" 4 77 106
+type(
+  int
+)
+"esami/settembre2015.ml" 4 77 107 "esami/settembre2015.ml" 4 77 109
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 4 77 101 "esami/settembre2015.ml" 4 77 110
+type(
+  int tree
+)
+"esami/settembre2015.ml" 4 77 82 "esami/settembre2015.ml" 4 77 111
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 4 77 77 "esami/settembre2015.ml" 4 77 112
+type(
+  int tree
+)
+"esami/settembre2015.ml" 3 42 66 "esami/settembre2015.ml" 4 77 113
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 3 42 61 "esami/settembre2015.ml" 4 77 114
+type(
+  int tree
+)
+"esami/settembre2015.ml" 5 116 119 "esami/settembre2015.ml" 5 116 120
+type(
+  int
+)
+"esami/settembre2015.ml" 5 116 125 "esami/settembre2015.ml" 5 116 126
+type(
+  int
+)
+"esami/settembre2015.ml" 5 116 127 "esami/settembre2015.ml" 5 116 129
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 5 116 122 "esami/settembre2015.ml" 5 116 130
+type(
+  int tree
+)
+"esami/settembre2015.ml" 6 132 135 "esami/settembre2015.ml" 6 132 136
+type(
+  int
+)
+"esami/settembre2015.ml" 6 132 137 "esami/settembre2015.ml" 6 132 139
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 6 132 132 "esami/settembre2015.ml" 6 132 140
+type(
+  int tree
+)
+"esami/settembre2015.ml" 7 142 145 "esami/settembre2015.ml" 7 142 146
+type(
+  int
+)
+"esami/settembre2015.ml" 7 142 151 "esami/settembre2015.ml" 7 142 152
+type(
+  int
+)
+"esami/settembre2015.ml" 7 142 153 "esami/settembre2015.ml" 7 142 155
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 7 142 148 "esami/settembre2015.ml" 7 142 156
+type(
+  int tree
+)
+"esami/settembre2015.ml" 7 142 161 "esami/settembre2015.ml" 7 142 162
+type(
+  int
+)
+"esami/settembre2015.ml" 7 142 163 "esami/settembre2015.ml" 7 142 165
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 7 142 158 "esami/settembre2015.ml" 7 142 166
+type(
+  int tree
+)
+"esami/settembre2015.ml" 7 142 147 "esami/settembre2015.ml" 7 142 167
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 7 142 142 "esami/settembre2015.ml" 7 142 168
+type(
+  int tree
+)
+"esami/settembre2015.ml" 5 116 121 "esami/settembre2015.ml" 7 142 169
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 5 116 116 "esami/settembre2015.ml" 7 142 170
+type(
+  int tree
+)
+"esami/settembre2015.ml" 8 172 175 "esami/settembre2015.ml" 8 172 176
+type(
+  int
+)
+"esami/settembre2015.ml" 8 172 181 "esami/settembre2015.ml" 8 172 182
+type(
+  int
+)
+"esami/settembre2015.ml" 8 172 183 "esami/settembre2015.ml" 8 172 185
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 8 172 178 "esami/settembre2015.ml" 8 172 186
+type(
+  int tree
+)
+"esami/settembre2015.ml" 9 188 191 "esami/settembre2015.ml" 9 188 193
+type(
+  int
+)
+"esami/settembre2015.ml" 9 188 194 "esami/settembre2015.ml" 9 188 196
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 9 188 188 "esami/settembre2015.ml" 9 188 197
+type(
+  int tree
+)
+"esami/settembre2015.ml" 10 199 202 "esami/settembre2015.ml" 10 199 203
+type(
+  int
+)
+"esami/settembre2015.ml" 10 199 208 "esami/settembre2015.ml" 10 199 209
+type(
+  int
+)
+"esami/settembre2015.ml" 10 199 210 "esami/settembre2015.ml" 10 199 212
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 10 199 205 "esami/settembre2015.ml" 10 199 213
+type(
+  int tree
+)
+"esami/settembre2015.ml" 10 199 204 "esami/settembre2015.ml" 10 199 214
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 10 199 199 "esami/settembre2015.ml" 10 199 215
+type(
+  int tree
+)
+"esami/settembre2015.ml" 8 172 177 "esami/settembre2015.ml" 10 199 216
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 8 172 172 "esami/settembre2015.ml" 10 199 217
+type(
+  int tree
+)
+"esami/settembre2015.ml" 3 42 60 "esami/settembre2015.ml" 10 199 218
+type(
+  int tree list
+)
+"esami/settembre2015.ml" 3 42 55 "esami/settembre2015.ml" 10 199 219
+type(
+  int tree
+)
+"esami/settembre2015.ml" 13 262 266 "esami/settembre2015.ml" 13 262 272
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def setadd "esami/settembre2015.ml" 16 325 325 "esami/settembre2015.ml" 0 0 -1
+)
+"esami/settembre2015.ml" 13 262 273 "esami/settembre2015.ml" 13 262 274
+type(
+  '_weak1
+)
+ident(
+  def x "esami/settembre2015.ml" 13 262 275 "esami/settembre2015.ml" 14 282 321
+)
+"esami/settembre2015.ml" 13 262 275 "esami/settembre2015.ml" 13 262 278
+type(
+  '_weak2
+)
+ident(
+  def lst "esami/settembre2015.ml" 14 282 283 "esami/settembre2015.ml" 14 282 321
+)

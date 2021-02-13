@@ -1,0 +1,294 @@
+"esami/esami_ok/settembre2018.ml" 3 64 68 "esami/esami_ok/settembre2018.ml" 3 64 74
+type(
+  int treebin
+)
+ident(
+  def albero "esami/esami_ok/settembre2018.ml" 5 195 195 "esami/esami_ok/settembre2018.ml" 0 0 -1
+)
+"esami/esami_ok/settembre2018.ml" 3 64 80 "esami/esami_ok/settembre2018.ml" 3 64 81
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 3 64 86 "esami/esami_ok/settembre2018.ml" 3 64 87
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 3 64 92 "esami/esami_ok/settembre2018.ml" 3 64 93
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 3 64 95 "esami/esami_ok/settembre2018.ml" 3 64 100
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 102 "esami/esami_ok/settembre2018.ml" 3 64 107
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 89 "esami/esami_ok/settembre2018.ml" 3 64 108
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 113 "esami/esami_ok/settembre2018.ml" 3 64 114
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 3 64 116 "esami/esami_ok/settembre2018.ml" 3 64 121
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 122 "esami/esami_ok/settembre2018.ml" 3 64 127
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 110 "esami/esami_ok/settembre2018.ml" 3 64 128
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 83 "esami/esami_ok/settembre2018.ml" 3 64 129
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 134 "esami/esami_ok/settembre2018.ml" 3 64 135
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 3 64 140 "esami/esami_ok/settembre2018.ml" 3 64 141
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 3 64 146 "esami/esami_ok/settembre2018.ml" 3 64 147
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 3 64 149 "esami/esami_ok/settembre2018.ml" 3 64 154
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 155 "esami/esami_ok/settembre2018.ml" 3 64 160
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 143 "esami/esami_ok/settembre2018.ml" 3 64 161
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 163 "esami/esami_ok/settembre2018.ml" 3 64 168
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 137 "esami/esami_ok/settembre2018.ml" 3 64 169
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 174 "esami/esami_ok/settembre2018.ml" 3 64 175
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 3 64 177 "esami/esami_ok/settembre2018.ml" 3 64 182
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 183 "esami/esami_ok/settembre2018.ml" 3 64 188
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 171 "esami/esami_ok/settembre2018.ml" 3 64 189
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 131 "esami/esami_ok/settembre2018.ml" 3 64 190
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 3 64 77 "esami/esami_ok/settembre2018.ml" 3 64 191
+type(
+  int treebin
+)
+"esami/esami_ok/settembre2018.ml" 5 195 199 "esami/esami_ok/settembre2018.ml" 5 195 207
+type(
+  int list
+)
+ident(
+  def lista_ok "esami/esami_ok/settembre2018.ml" 6 220 220 "esami/esami_ok/settembre2018.ml" 0 0 -1
+)
+"esami/esami_ok/settembre2018.ml" 5 195 211 "esami/esami_ok/settembre2018.ml" 5 195 212
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 5 195 213 "esami/esami_ok/settembre2018.ml" 5 195 214
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 5 195 215 "esami/esami_ok/settembre2018.ml" 5 195 216
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 5 195 210 "esami/esami_ok/settembre2018.ml" 5 195 217
+type(
+  int list
+)
+"esami/esami_ok/settembre2018.ml" 6 220 224 "esami/esami_ok/settembre2018.ml" 6 220 235
+type(
+  int list
+)
+ident(
+  def lista_false "esami/esami_ok/settembre2018.ml" 10 312 312 "esami/esami_ok/settembre2018.ml" 0 0 -1
+)
+"esami/esami_ok/settembre2018.ml" 6 220 239 "esami/esami_ok/settembre2018.ml" 6 220 240
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 6 220 241 "esami/esami_ok/settembre2018.ml" 6 220 242
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 6 220 243 "esami/esami_ok/settembre2018.ml" 6 220 244
+type(
+  int
+)
+"esami/esami_ok/settembre2018.ml" 6 220 238 "esami/esami_ok/settembre2018.ml" 6 220 245
+type(
+  int list
+)
+"esami/esami_ok/settembre2018.ml" 10 312 316 "esami/esami_ok/settembre2018.ml" 10 312 325
+type(
+  '_weak1 -> '_weak2
+)
+ident(
+  def is_sorted "esami/esami_ok/settembre2018.ml" 17 489 489 "esami/esami_ok/settembre2018.ml" 0 0 -1
+)
+"esami/esami_ok/settembre2018.ml" 10 312 326 "esami/esami_ok/settembre2018.ml" 10 312 329
+type(
+  '_weak1
+)
+ident(
+  def lst "esami/esami_ok/settembre2018.ml" 11 333 334 "esami/esami_ok/settembre2018.ml" 15 446 485
+)
+"esami/esami_ok/settembre2018.ml" 11 333 342 "esami/esami_ok/settembre2018.ml" 11 333 345
+type(
+  bool -> 'a -> 'a list -> bool
+)
+ident(
+  def aux "esami/esami_ok/settembre2018.ml" 11 333 334 "esami/esami_ok/settembre2018.ml" 15 446 485
+)
+"esami/esami_ok/settembre2018.ml" 11 333 346 "esami/esami_ok/settembre2018.ml" 11 333 352
+type(
+  bool
+)
+ident(
+  def result "esami/esami_ok/settembre2018.ml" 11 333 353 "esami/esami_ok/settembre2018.ml" 13 386 444
+)
+"esami/esami_ok/settembre2018.ml" 11 333 353 "esami/esami_ok/settembre2018.ml" 11 333 357
+type(
+  'a
+)
+ident(
+  def pred "esami/esami_ok/settembre2018.ml" 11 333 360 "esami/esami_ok/settembre2018.ml" 13 386 444
+)
+"esami/esami_ok/settembre2018.ml" 12 369 373 "esami/esami_ok/settembre2018.ml" 12 369 375
+type(
+  'a list
+)
+"esami/esami_ok/settembre2018.ml" 12 369 379 "esami/esami_ok/settembre2018.ml" 12 369 385
+type(
+  bool
+)
+ident(
+  int_ref result "esami/esami_ok/settembre2018.ml" 11 333 346 "esami/esami_ok/settembre2018.ml" 11 333 352
+)
+"esami/esami_ok/settembre2018.ml" 13 386 390 "esami/esami_ok/settembre2018.ml" 13 386 391
+type(
+  'a
+)
+ident(
+  def x "esami/esami_ok/settembre2018.ml" 13 386 401 "esami/esami_ok/settembre2018.ml" 13 386 444
+)
+"esami/esami_ok/settembre2018.ml" 13 386 393 "esami/esami_ok/settembre2018.ml" 13 386 397
+type(
+  'a list
+)
+ident(
+  def rest "esami/esami_ok/settembre2018.ml" 13 386 401 "esami/esami_ok/settembre2018.ml" 13 386 444
+)
+"esami/esami_ok/settembre2018.ml" 13 386 390 "esami/esami_ok/settembre2018.ml" 13 386 397
+type(
+  'a list
+)
+"esami/esami_ok/settembre2018.ml" 13 386 404 "esami/esami_ok/settembre2018.ml" 13 386 408
+type(
+  'a
+)
+ident(
+  int_ref pred "esami/esami_ok/settembre2018.ml" 11 333 353 "esami/esami_ok/settembre2018.ml" 11 333 357
+)
+"esami/esami_ok/settembre2018.ml" 13 386 409 "esami/esami_ok/settembre2018.ml" 13 386 410
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"esami/esami_ok/settembre2018.ml" 13 386 411 "esami/esami_ok/settembre2018.ml" 13 386 412
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/settembre2018.ml" 13 386 390 "esami/esami_ok/settembre2018.ml" 13 386 391
+)
+"esami/esami_ok/settembre2018.ml" 13 386 404 "esami/esami_ok/settembre2018.ml" 13 386 412
+type(
+  bool
+)
+"esami/esami_ok/settembre2018.ml" 13 386 418 "esami/esami_ok/settembre2018.ml" 13 386 421
+type(
+  bool -> 'a -> 'a list -> bool
+)
+ident(
+  int_ref aux "esami/esami_ok/settembre2018.ml" 11 333 342 "esami/esami_ok/settembre2018.ml" 11 333 345
+)
+"esami/esami_ok/settembre2018.ml" 13 386 422 "esami/esami_ok/settembre2018.ml" 13 386 426
+type(
+  bool
+)
+"esami/esami_ok/settembre2018.ml" 13 386 427 "esami/esami_ok/settembre2018.ml" 13 386 428
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/settembre2018.ml" 13 386 390 "esami/esami_ok/settembre2018.ml" 13 386 391
+)
+"esami/esami_ok/settembre2018.ml" 13 386 429 "esami/esami_ok/settembre2018.ml" 13 386 433
+type(
+  'a list
+)
+ident(
+  int_ref rest "esami/esami_ok/settembre2018.ml" 13 386 393 "esami/esami_ok/settembre2018.ml" 13 386 397
+)
+"esami/esami_ok/settembre2018.ml" 13 386 418 "esami/esami_ok/settembre2018.ml" 13 386 433
+type(
+  bool
+)
+"esami/esami_ok/settembre2018.ml" 13 386 439 "esami/esami_ok/settembre2018.ml" 13 386 444
+type(
+  bool
+)
+"esami/esami_ok/settembre2018.ml" 13 386 401 "esami/esami_ok/settembre2018.ml" 13 386 444
+type(
+  bool
+)
+"esami/esami_ok/settembre2018.ml" 11 333 360 "esami/esami_ok/settembre2018.ml" 13 386 444
+type(
+  'a list -> bool
+)
+"esami/esami_ok/settembre2018.ml" 15 446 449 "esami/esami_ok/settembre2018.ml" 15 446 452
+type(
+  bool -> '_weak3 -> '_weak3 list -> bool
+)
+ident(
+  int_ref aux "esami/esami_ok/settembre2018.ml" 11 333 342 "esami/esami_ok/settembre2018.ml" 11 333 345
+)
+"esami/esami_ok/settembre2018.ml" 15 446 453 "esami/esami_ok/settembre2018.ml" 15 446 457
+type(
+  bool
+)

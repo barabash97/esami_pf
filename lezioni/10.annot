@@ -1,0 +1,495 @@
+"esami/lezioni/10.ml" 2 31 35 "esami/lezioni/10.ml" 2 31 40
+type(
+  (int * int) list
+)
+ident(
+  def grafo "esami/lezioni/10.ml" 5 123 123 "esami/lezioni/10.ml" 0 0 -1
+)
+"esami/lezioni/10.ml" 2 31 45 "esami/lezioni/10.ml" 2 31 46
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 47 "esami/lezioni/10.ml" 2 31 48
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 44 "esami/lezioni/10.ml" 2 31 49
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 2 31 52 "esami/lezioni/10.ml" 2 31 53
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 54 "esami/lezioni/10.ml" 2 31 55
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 51 "esami/lezioni/10.ml" 2 31 56
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 2 31 59 "esami/lezioni/10.ml" 2 31 60
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 61 "esami/lezioni/10.ml" 2 31 62
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 58 "esami/lezioni/10.ml" 2 31 63
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 2 31 66 "esami/lezioni/10.ml" 2 31 67
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 68 "esami/lezioni/10.ml" 2 31 69
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 65 "esami/lezioni/10.ml" 2 31 70
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 2 31 73 "esami/lezioni/10.ml" 2 31 74
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 75 "esami/lezioni/10.ml" 2 31 76
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 72 "esami/lezioni/10.ml" 2 31 77
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 2 31 80 "esami/lezioni/10.ml" 2 31 81
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 82 "esami/lezioni/10.ml" 2 31 83
+type(
+  int
+)
+"esami/lezioni/10.ml" 2 31 79 "esami/lezioni/10.ml" 2 31 84
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 3 86 100 "esami/lezioni/10.ml" 3 86 101
+type(
+  int
+)
+"esami/lezioni/10.ml" 3 86 102 "esami/lezioni/10.ml" 3 86 103
+type(
+  int
+)
+"esami/lezioni/10.ml" 3 86 99 "esami/lezioni/10.ml" 3 86 104
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 3 86 107 "esami/lezioni/10.ml" 3 86 108
+type(
+  int
+)
+"esami/lezioni/10.ml" 3 86 109 "esami/lezioni/10.ml" 3 86 110
+type(
+  int
+)
+"esami/lezioni/10.ml" 3 86 106 "esami/lezioni/10.ml" 3 86 111
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 3 86 114 "esami/lezioni/10.ml" 3 86 115
+type(
+  int
+)
+"esami/lezioni/10.ml" 3 86 116 "esami/lezioni/10.ml" 3 86 117
+type(
+  int
+)
+"esami/lezioni/10.ml" 3 86 113 "esami/lezioni/10.ml" 3 86 118
+type(
+  int * int
+)
+"esami/lezioni/10.ml" 2 31 43 "esami/lezioni/10.ml" 3 86 119
+type(
+  (int * int) list
+)
+"esami/lezioni/10.ml" 7 167 175 "esami/lezioni/10.ml" 7 167 185
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  def successori "esami/lezioni/10.ml" 7 167 167 "esami/lezioni/10.ml" 0 0 -1
+)
+"esami/lezioni/10.ml" 7 167 186 "esami/lezioni/10.ml" 7 167 190
+type(
+  'a
+)
+ident(
+  def nodo "esami/lezioni/10.ml" 7 167 193 "esami/lezioni/10.ml" 11 288 321
+)
+"esami/lezioni/10.ml" 8 203 209 "esami/lezioni/10.ml" 8 203 211
+type(
+  ('a * 'b) list
+)
+"esami/lezioni/10.ml" 8 203 215 "esami/lezioni/10.ml" 8 203 217
+type(
+  'b list
+)
+"esami/lezioni/10.ml" 9 218 225 "esami/lezioni/10.ml" 9 218 226
+type(
+  'a
+)
+ident(
+  def x "esami/lezioni/10.ml" 10 239 247 "esami/lezioni/10.ml" 11 288 321
+)
+"esami/lezioni/10.ml" 9 218 227 "esami/lezioni/10.ml" 9 218 228
+type(
+  'b
+)
+ident(
+  def y "esami/lezioni/10.ml" 10 239 247 "esami/lezioni/10.ml" 11 288 321
+)
+"esami/lezioni/10.ml" 9 218 224 "esami/lezioni/10.ml" 9 218 229
+type(
+  'a * 'b
+)
+"esami/lezioni/10.ml" 9 218 231 "esami/lezioni/10.ml" 9 218 235
+type(
+  ('a * 'b) list
+)
+ident(
+  def rest "esami/lezioni/10.ml" 10 239 247 "esami/lezioni/10.ml" 11 288 321
+)
+"esami/lezioni/10.ml" 9 218 224 "esami/lezioni/10.ml" 9 218 235
+type(
+  ('a * 'b) list
+)
+"esami/lezioni/10.ml" 10 239 250 "esami/lezioni/10.ml" 10 239 251
+type(
+  'a
+)
+ident(
+  int_ref x "esami/lezioni/10.ml" 9 218 225 "esami/lezioni/10.ml" 9 218 226
+)
+"esami/lezioni/10.ml" 10 239 252 "esami/lezioni/10.ml" 10 239 253
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/lezioni/10.ml" 10 239 254 "esami/lezioni/10.ml" 10 239 258
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/lezioni/10.ml" 7 167 186 "esami/lezioni/10.ml" 7 167 190
+)
+"esami/lezioni/10.ml" 10 239 250 "esami/lezioni/10.ml" 10 239 258
+type(
+  bool
+)
+"esami/lezioni/10.ml" 10 239 264 "esami/lezioni/10.ml" 10 239 265
+type(
+  'b
+)
+ident(
+  int_ref y "esami/lezioni/10.ml" 9 218 227 "esami/lezioni/10.ml" 9 218 228
+)
+"esami/lezioni/10.ml" 10 239 267 "esami/lezioni/10.ml" 10 239 277
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  int_ref successori "esami/lezioni/10.ml" 7 167 175 "esami/lezioni/10.ml" 7 167 185
+)
+"esami/lezioni/10.ml" 10 239 278 "esami/lezioni/10.ml" 10 239 282
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/lezioni/10.ml" 7 167 186 "esami/lezioni/10.ml" 7 167 190
+)
+"esami/lezioni/10.ml" 10 239 283 "esami/lezioni/10.ml" 10 239 287
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "esami/lezioni/10.ml" 9 218 231 "esami/lezioni/10.ml" 9 218 235
+)
+"esami/lezioni/10.ml" 10 239 267 "esami/lezioni/10.ml" 10 239 287
+type(
+  'b list
+)
+"esami/lezioni/10.ml" 10 239 264 "esami/lezioni/10.ml" 10 239 287
+type(
+  'b list
+)
+"esami/lezioni/10.ml" 11 288 301 "esami/lezioni/10.ml" 11 288 311
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  int_ref successori "esami/lezioni/10.ml" 7 167 175 "esami/lezioni/10.ml" 7 167 185
+)
+"esami/lezioni/10.ml" 11 288 312 "esami/lezioni/10.ml" 11 288 316
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/lezioni/10.ml" 7 167 186 "esami/lezioni/10.ml" 7 167 190
+)
+"esami/lezioni/10.ml" 11 288 317 "esami/lezioni/10.ml" 11 288 321
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "esami/lezioni/10.ml" 9 218 231 "esami/lezioni/10.ml" 9 218 235
+)
+"esami/lezioni/10.ml" 11 288 301 "esami/lezioni/10.ml" 11 288 321
+type(
+  'b list
+)
+"esami/lezioni/10.ml" 10 239 247 "esami/lezioni/10.ml" 11 288 321
+type(
+  'b list
+)
+"esami/lezioni/10.ml" 7 167 193 "esami/lezioni/10.ml" 11 288 321
+type(
+  ('a * 'b) list -> 'b list
+)
+"esami/lezioni/10.ml" 13 325 333 "esami/lezioni/10.ml" 13 325 339
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  def vicini "esami/lezioni/10.ml" 13 325 325 "esami/lezioni/10.ml" 0 0 -1
+)
+"esami/lezioni/10.ml" 13 325 340 "esami/lezioni/10.ml" 13 325 344
+type(
+  'a
+)
+ident(
+  def nodo "esami/lezioni/10.ml" 13 325 347 "esami/lezioni/10.ml" 18 480 507
+)
+"esami/lezioni/10.ml" 14 357 361 "esami/lezioni/10.ml" 14 357 363
+type(
+  ('a * 'a) list
+)
+"esami/lezioni/10.ml" 14 357 367 "esami/lezioni/10.ml" 14 357 369
+type(
+  'a list
+)
+"esami/lezioni/10.ml" 15 370 375 "esami/lezioni/10.ml" 15 370 376
+type(
+  'a
+)
+ident(
+  def x "esami/lezioni/10.ml" 16 389 395 "esami/lezioni/10.ml" 18 480 507
+)
+"esami/lezioni/10.ml" 15 370 377 "esami/lezioni/10.ml" 15 370 378
+type(
+  'a
+)
+ident(
+  def y "esami/lezioni/10.ml" 16 389 395 "esami/lezioni/10.ml" 18 480 507
+)
+"esami/lezioni/10.ml" 15 370 374 "esami/lezioni/10.ml" 15 370 379
+type(
+  'a * 'a
+)
+"esami/lezioni/10.ml" 15 370 381 "esami/lezioni/10.ml" 15 370 385
+type(
+  ('a * 'a) list
+)
+ident(
+  def rest "esami/lezioni/10.ml" 16 389 395 "esami/lezioni/10.ml" 18 480 507
+)
+"esami/lezioni/10.ml" 15 370 374 "esami/lezioni/10.ml" 15 370 385
+type(
+  ('a * 'a) list
+)
+"esami/lezioni/10.ml" 16 389 398 "esami/lezioni/10.ml" 16 389 399
+type(
+  'a
+)
+ident(
+  int_ref x "esami/lezioni/10.ml" 15 370 375 "esami/lezioni/10.ml" 15 370 376
+)
+"esami/lezioni/10.ml" 16 389 400 "esami/lezioni/10.ml" 16 389 401
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/lezioni/10.ml" 16 389 402 "esami/lezioni/10.ml" 16 389 406
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/lezioni/10.ml" 13 325 340 "esami/lezioni/10.ml" 13 325 344
+)
+"esami/lezioni/10.ml" 16 389 398 "esami/lezioni/10.ml" 16 389 406
+type(
+  bool
+)
+"esami/lezioni/10.ml" 16 389 412 "esami/lezioni/10.ml" 16 389 413
+type(
+  'a
+)
+ident(
+  int_ref y "esami/lezioni/10.ml" 15 370 377 "esami/lezioni/10.ml" 15 370 378
+)
+"esami/lezioni/10.ml" 16 389 415 "esami/lezioni/10.ml" 16 389 421
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref vicini "esami/lezioni/10.ml" 13 325 333 "esami/lezioni/10.ml" 13 325 339
+)
+"esami/lezioni/10.ml" 16 389 422 "esami/lezioni/10.ml" 16 389 426
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/lezioni/10.ml" 13 325 340 "esami/lezioni/10.ml" 13 325 344
+)
+"esami/lezioni/10.ml" 16 389 427 "esami/lezioni/10.ml" 16 389 431
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/lezioni/10.ml" 15 370 381 "esami/lezioni/10.ml" 15 370 385
+)
+"esami/lezioni/10.ml" 16 389 415 "esami/lezioni/10.ml" 16 389 431
+type(
+  'a list
+)
+"esami/lezioni/10.ml" 16 389 412 "esami/lezioni/10.ml" 16 389 431
+type(
+  'a list
+)
+"esami/lezioni/10.ml" 17 432 446 "esami/lezioni/10.ml" 17 432 447
+type(
+  'a
+)
+ident(
+  int_ref y "esami/lezioni/10.ml" 15 370 377 "esami/lezioni/10.ml" 15 370 378
+)
+"esami/lezioni/10.ml" 17 432 448 "esami/lezioni/10.ml" 17 432 449
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/lezioni/10.ml" 17 432 450 "esami/lezioni/10.ml" 17 432 454
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/lezioni/10.ml" 13 325 340 "esami/lezioni/10.ml" 13 325 344
+)
+"esami/lezioni/10.ml" 17 432 446 "esami/lezioni/10.ml" 17 432 454
+type(
+  bool
+)
+"esami/lezioni/10.ml" 17 432 460 "esami/lezioni/10.ml" 17 432 461
+type(
+  'a
+)
+ident(
+  int_ref x "esami/lezioni/10.ml" 15 370 375 "esami/lezioni/10.ml" 15 370 376
+)
+"esami/lezioni/10.ml" 17 432 463 "esami/lezioni/10.ml" 17 432 469
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref vicini "esami/lezioni/10.ml" 13 325 333 "esami/lezioni/10.ml" 13 325 339
+)
+"esami/lezioni/10.ml" 17 432 470 "esami/lezioni/10.ml" 17 432 474
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/lezioni/10.ml" 13 325 340 "esami/lezioni/10.ml" 13 325 344
+)
+"esami/lezioni/10.ml" 17 432 475 "esami/lezioni/10.ml" 17 432 479
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/lezioni/10.ml" 15 370 381 "esami/lezioni/10.ml" 15 370 385
+)
+"esami/lezioni/10.ml" 17 432 463 "esami/lezioni/10.ml" 17 432 479
+type(
+  'a list
+)
+"esami/lezioni/10.ml" 17 432 460 "esami/lezioni/10.ml" 17 432 479
+type(
+  'a list
+)
+"esami/lezioni/10.ml" 18 480 491 "esami/lezioni/10.ml" 18 480 497
+type(
+  'a -> ('a * 'a) list -> 'a list
+)
+ident(
+  int_ref vicini "esami/lezioni/10.ml" 13 325 333 "esami/lezioni/10.ml" 13 325 339
+)
+"esami/lezioni/10.ml" 18 480 498 "esami/lezioni/10.ml" 18 480 502
+type(
+  'a
+)
+ident(
+  int_ref nodo "esami/lezioni/10.ml" 13 325 340 "esami/lezioni/10.ml" 13 325 344
+)
+"esami/lezioni/10.ml" 18 480 503 "esami/lezioni/10.ml" 18 480 507
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref rest "esami/lezioni/10.ml" 15 370 381 "esami/lezioni/10.ml" 15 370 385
+)
+"esami/lezioni/10.ml" 18 480 491 "esami/lezioni/10.ml" 18 480 507
+type(
+  'a list
+)
+"esami/lezioni/10.ml" 17 432 443 "esami/lezioni/10.ml" 18 480 507
+type(
+  'a list
+)
+"esami/lezioni/10.ml" 16 389 395 "esami/lezioni/10.ml" 18 480 507
+type(
+  'a list
+)
+"esami/lezioni/10.ml" 13 325 347 "esami/lezioni/10.ml" 18 480 507
+type(
+  ('a * 'a) list -> 'a list
+)
+"esami/lezioni/10.ml" 20 511 515 "esami/lezioni/10.ml" 20 511 521
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def setadd "esami/lezioni/10.ml" 23 575 575 "esami/lezioni/10.ml" 0 0 -1
+)
+"esami/lezioni/10.ml" 20 511 522 "esami/lezioni/10.ml" 20 511 523
+type(
+  '_weak1
+)
+ident(
+  def x "esami/lezioni/10.ml" 20 511 524 "esami/lezioni/10.ml" 21 531 571
+)
+"esami/lezioni/10.ml" 20 511 524 "esami/lezioni/10.ml" 20 511 527
+type(
+  '_weak2
+)
+ident(
+  def set "esami/lezioni/10.ml" 21 531 533 "esami/lezioni/10.ml" 21 531 571
+)
