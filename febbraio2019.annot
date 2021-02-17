@@ -3,7 +3,7 @@ type(
   (int * color) list
 )
 ident(
-  def cols "esami/febbraio2019.ml" 6 109 109 "esami/febbraio2019.ml" 0 0 -1
+  def cols "esami/febbraio2019.ml" 7 110 110 "esami/febbraio2019.ml" 0 0 -1
 )
 "esami/febbraio2019.ml" 3 39 52 "esami/febbraio2019.ml" 3 39 53
 type(
@@ -69,24 +69,24 @@ type(
 type(
   (int * color) list
 )
-"esami/febbraio2019.ml" 6 109 113 "esami/febbraio2019.ml" 6 109 121
+"esami/febbraio2019.ml" 7 110 114 "esami/febbraio2019.ml" 7 110 122
 type(
   '_weak1 -> '_weak2 -> '_weak3
 )
 ident(
-  def getcolor "esami/febbraio2019.ml" 10 175 175 "esami/febbraio2019.ml" 0 0 -1
+  def getcolor "esami/febbraio2019.ml" 11 176 176 "esami/febbraio2019.ml" 0 0 -1
 )
-"esami/febbraio2019.ml" 6 109 122 "esami/febbraio2019.ml" 6 109 123
+"esami/febbraio2019.ml" 7 110 123 "esami/febbraio2019.ml" 7 110 124
 type(
   '_weak1
 )
 ident(
-  def c "esami/febbraio2019.ml" 6 109 124 "esami/febbraio2019.ml" 8 154 171
+  def c "esami/febbraio2019.ml" 7 110 125 "esami/febbraio2019.ml" 9 155 172
 )
-"esami/febbraio2019.ml" 6 109 124 "esami/febbraio2019.ml" 6 109 127
+"esami/febbraio2019.ml" 7 110 125 "esami/febbraio2019.ml" 7 110 128
 type(
   '_weak2
 )
 ident(
-  def lst "esami/febbraio2019.ml" 7 131 132 "esami/febbraio2019.ml" 8 154 171
+  def lst "esami/febbraio2019.ml" 8 132 133 "esami/febbraio2019.ml" 9 155 172
 )

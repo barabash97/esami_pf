@@ -1,0 +1,1145 @@
+"esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 306 "esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 317
+type(
+  form -> int
+)
+ident(
+  def complessita "esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 298 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 337 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 338
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 342 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 359
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 333 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 338
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 342 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 343
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 344 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 345
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 346 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 357
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 306 "esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 317
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 358 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 359
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 337 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 338
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 346 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 359
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 342 "esami/esercizi/soluzione_prof/gruppo11.ml" 18 329 359
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 368 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 369
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 370 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 371
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 364 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 372
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 378 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 379
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 380 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 381
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 375 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 382
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 364 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 382
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 389 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 390
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 391 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 392
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 385 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 393
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 364 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 393
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 398
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 399 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 400
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 401 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 412
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 306 "esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 317
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 413 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 414
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 368 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 369
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 401 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 414
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 414
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 415 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 416
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 417 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 428
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 306 "esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 317
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 429 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 370 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 371
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 417 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 397 "esami/esercizi/soluzione_prof/gruppo11.ml" 19 360 430
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 20 431 435 "esami/esercizi/soluzione_prof/gruppo11.ml" 20 431 436
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 20 431 440 "esami/esercizi/soluzione_prof/gruppo11.ml" 20 431 441
+type(
+  int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 17 298 320 "esami/esercizi/soluzione_prof/gruppo11.ml" 20 431 441
+type(
+  form -> int
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 25 518 526 "esami/esercizi/soluzione_prof/gruppo11.ml" 25 518 531
+type(
+  form list -> form
+)
+ident(
+  def mkand "esami/esercizi/soluzione_prof/gruppo11.ml" 25 518 518 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 26 543 547 "esami/esercizi/soluzione_prof/gruppo11.ml" 26 543 549
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 26 543 552 "esami/esercizi/soluzione_prof/gruppo11.ml" 26 543 556
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 562 "esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 563
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 567 "esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 568
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 561 "esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 564
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 567 "esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 568
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 562 "esami/esercizi/soluzione_prof/gruppo11.ml" 27 557 563
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 573 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 574
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 584 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 602
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 576 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 580
+type(
+  form list
+)
+ident(
+  def rest "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 584 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 602
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 573 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 580
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 588 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 589
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 573 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 574
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 591 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 596
+type(
+  form list -> form
+)
+ident(
+  int_ref mkand "esami/esercizi/soluzione_prof/gruppo11.ml" 25 518 526 "esami/esercizi/soluzione_prof/gruppo11.ml" 25 518 531
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 597 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 601
+type(
+  form list
+)
+ident(
+  int_ref rest "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 576 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 580
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 591 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 601
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 584 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 602
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 25 518 534 "esami/esercizi/soluzione_prof/gruppo11.ml" 28 569 602
+type(
+  form list -> form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 33 676 684 "esami/esercizi/soluzione_prof/gruppo11.ml" 33 676 688
+type(
+  form list -> form
+)
+ident(
+  def mkor "esami/esercizi/soluzione_prof/gruppo11.ml" 33 676 676 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 34 700 704 "esami/esercizi/soluzione_prof/gruppo11.ml" 34 700 706
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 34 700 709 "esami/esercizi/soluzione_prof/gruppo11.ml" 34 700 714
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 720 "esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 721
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 725 "esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 726
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 719 "esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 722
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 725 "esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 726
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 720 "esami/esercizi/soluzione_prof/gruppo11.ml" 35 715 721
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 731 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 732
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 742 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 758
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 734 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 738
+type(
+  form list
+)
+ident(
+  def rest "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 742 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 758
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 731 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 738
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 745 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 746
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 731 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 732
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 748 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 752
+type(
+  form list -> form
+)
+ident(
+  int_ref mkor "esami/esercizi/soluzione_prof/gruppo11.ml" 33 676 684 "esami/esercizi/soluzione_prof/gruppo11.ml" 33 676 688
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 753 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 757
+type(
+  form list
+)
+ident(
+  int_ref rest "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 734 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 738
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 748 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 757
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 742 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 758
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 33 676 691 "esami/esercizi/soluzione_prof/gruppo11.ml" 36 727 758
+type(
+  form list -> form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 41 844 848 "esami/esercizi/soluzione_prof/gruppo11.ml" 41 844 861
+type(
+  form -> form
+)
+ident(
+  def complementare "esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1093 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 877 "esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 881
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 888 "esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 893
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 884 "esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 893
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 877 "esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 893
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 897 "esami/esercizi/soluzione_prof/gruppo11.ml" 42 873 902
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 907 "esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 912
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 919 "esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 923
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 915 "esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 923
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 907 "esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 923
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 927 "esami/esercizi/soluzione_prof/gruppo11.ml" 43 903 931
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 941 "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 942
+type(
+  string
+)
+ident(
+  def p "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 945 "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 956
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 936 "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 942
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 954 "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 955
+type(
+  string
+)
+ident(
+  int_ref p "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 941 "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 942
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 948 "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 956
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 945 "esami/esercizi/soluzione_prof/gruppo11.ml" 44 932 956
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 970 "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 971
+type(
+  string
+)
+ident(
+  def p "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 975 "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 981
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 964 "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 972
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 961 "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 972
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 980 "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 981
+type(
+  string
+)
+ident(
+  int_ref p "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 970 "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 971
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 975 "esami/esercizi/soluzione_prof/gruppo11.ml" 45 957 981
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 986 "esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 987
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 991 "esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 999
+type(
+  string -> form
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 1000 "esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 1015
+type(
+  string
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 991 "esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 1015
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 41 844 864 "esami/esercizi/soluzione_prof/gruppo11.ml" 46 982 1015
+type(
+  form -> form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1101 "esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1109
+type(
+  form -> bool
+)
+ident(
+  def test_nnf "esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1093 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1130 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1131
+type(
+  string
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1125 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1131
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1143 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1144
+type(
+  string
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1137 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1145
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1134 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1145
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1125 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1145
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1148 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1152
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1125 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1152
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1155 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1160
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1125 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1160
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1167 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1171
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1163 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1171
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1125 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1171
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1178 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1183
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1174 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1183
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1125 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1183
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1187 "esami/esercizi/soluzione_prof/gruppo11.ml" 53 1121 1191
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1201 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1202
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1219 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1242
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1203 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1204
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1219 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1242
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1196 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1205
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1211 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1212
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1219 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1242
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1213 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1214
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1219 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1242
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1208 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1215
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1196 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1215
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1219 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1227
+type(
+  form -> bool
+)
+ident(
+  int_ref test_nnf "esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1101 "esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1109
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1228 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1229
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1201 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1202
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1219 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1229
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1230 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1231
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( & ) "stdlib.mli" 221 9260 9260 "stdlib.mli" 222 9311 9353
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1232 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1240
+type(
+  form -> bool
+)
+ident(
+  int_ref test_nnf "esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1101 "esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1109
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1241 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1242
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1203 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1204
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1232 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1242
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1219 "esami/esercizi/soluzione_prof/gruppo11.ml" 54 1192 1242
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 55 1243 1247 "esami/esercizi/soluzione_prof/gruppo11.ml" 55 1243 1248
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 55 1243 1252 "esami/esercizi/soluzione_prof/gruppo11.ml" 55 1243 1257
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 52 1093 1112 "esami/esercizi/soluzione_prof/gruppo11.ml" 55 1243 1257
+type(
+  form -> bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1336 "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1341
+type(
+  form -> form
+)
+ident(
+  def duale "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1328 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1363 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1364
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1371 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1390
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1365 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1366
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1371 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1390
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1359 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1367
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1374 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1379
+type(
+  form -> form
+)
+ident(
+  int_ref duale "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1336 "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1341
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1380 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1381
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1363 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1364
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1374 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1381
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1382 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1387
+type(
+  form -> form
+)
+ident(
+  int_ref duale "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1336 "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1341
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1388 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1389
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1365 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1366
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1382 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1389
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1371 "esami/esercizi/soluzione_prof/gruppo11.ml" 62 1353 1390
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1400 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1401
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1408 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1428
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1402 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1403
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1408 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1428
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1397 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1404
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1412 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1417
+type(
+  form -> form
+)
+ident(
+  int_ref duale "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1336 "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1341
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1418 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1419
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1400 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1401
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1412 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1419
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1420 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1425
+type(
+  form -> form
+)
+ident(
+  int_ref duale "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1336 "esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1341
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1426 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1427
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1402 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1403
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1420 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1427
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1408 "esami/esercizi/soluzione_prof/gruppo11.ml" 63 1391 1428
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 64 1429 1435 "esami/esercizi/soluzione_prof/gruppo11.ml" 64 1429 1436
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 65 1495 1496 "esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1567
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 65 1495 1500 "esami/esercizi/soluzione_prof/gruppo11.ml" 65 1495 1513
+type(
+  form -> form
+)
+ident(
+  int_ref complementare "esami/esercizi/soluzione_prof/gruppo11.ml" 41 844 848 "esami/esercizi/soluzione_prof/gruppo11.ml" 41 844 861
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 65 1495 1514 "esami/esercizi/soluzione_prof/gruppo11.ml" 65 1495 1515
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 64 1429 1435 "esami/esercizi/soluzione_prof/gruppo11.ml" 64 1429 1436
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 65 1495 1500 "esami/esercizi/soluzione_prof/gruppo11.ml" 65 1495 1515
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1532 "esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1547
+type(
+  string
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1523 "esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1547
+type(
+  exn
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1551 "esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1559
+type(
+  string -> form
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1560 "esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1567
+type(
+  string
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1551 "esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1567
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 65 1495 1496 "esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1567
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 61 1328 1344 "esami/esercizi/soluzione_prof/gruppo11.ml" 66 1517 1567
+type(
+  form -> form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 72 1712 1716 "esami/esercizi/soluzione_prof/gruppo11.ml" 72 1712 1723
+type(
+  form -> bool
+)
+ident(
+  def literal "esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1860 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1739 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1743
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1746 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1751
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1739 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1751
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1758 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1762
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1754 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1762
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1739 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1762
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1769 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1774
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1765 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1774
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1739 "esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1774
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1785 "esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1786
+type(
+  string
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1780 "esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1786
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1739 "esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1786
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1798 "esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1799
+type(
+  string
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1792 "esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1800
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1789 "esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1800
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 73 1735 1739 "esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1800
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1804 "esami/esercizi/soluzione_prof/gruppo11.ml" 74 1776 1808
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 75 1809 1813 "esami/esercizi/soluzione_prof/gruppo11.ml" 75 1809 1814
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 75 1809 1818 "esami/esercizi/soluzione_prof/gruppo11.ml" 75 1809 1823
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 72 1712 1726 "esami/esercizi/soluzione_prof/gruppo11.ml" 75 1809 1823
+type(
+  form -> bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1868 "esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1876
+type(
+  form -> form list
+)
+ident(
+  def and2list "esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1860 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1897 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1898
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1905 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1930
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1899 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1900
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1905 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1930
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1893 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1901
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1906 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1914
+type(
+  form -> form list
+)
+ident(
+  int_ref and2list "esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1868 "esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1876
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1915 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1916
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1897 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1898
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1905 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1917
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1917 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1918
+type(
+  form list -> form list -> form list
+)
+ident(
+  int_ref Stdlib.( @ ) "stdlib.mli" 785 29434 29434 "stdlib.mli" 785 29434 29475
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1919 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1927
+type(
+  form -> form list
+)
+ident(
+  int_ref and2list "esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1868 "esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1876
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1928 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1929
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1899 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1900
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1918 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1930
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1905 "esami/esercizi/soluzione_prof/gruppo11.ml" 79 1889 1930
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1935 "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1936
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1940 "esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1988
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1943 "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1950
+type(
+  form -> bool
+)
+ident(
+  int_ref literal "esami/esercizi/soluzione_prof/gruppo11.ml" 72 1712 1716 "esami/esercizi/soluzione_prof/gruppo11.ml" 72 1712 1723
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1951 "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1952
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1935 "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1936
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1943 "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1952
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1959 "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1960
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1935 "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1936
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1958 "esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1961
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1969 "esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1977
+type(
+  string -> form list
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1978 "esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1988
+type(
+  string
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1969 "esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1988
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 80 1931 1940 "esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1988
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 78 1860 1879 "esami/esercizi/soluzione_prof/gruppo11.ml" 81 1962 1988
+type(
+  form -> form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 86 2078 2082 "esami/esercizi/soluzione_prof/gruppo11.ml" 86 2078 2097
+type(
+  '_weak1 -> '_weak2
+)
+ident(
+  def satxand_of_lits "esami/esercizi/soluzione_prof/gruppo11.ml" 102 2660 2660 "esami/esercizi/soluzione_prof/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 86 2078 2098 "esami/esercizi/soluzione_prof/gruppo11.ml" 86 2078 2099
+type(
+  '_weak1
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 94 2442 2444 "esami/esercizi/soluzione_prof/gruppo11.ml" 98 2592 2613
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 94 2442 2452 "esami/esercizi/soluzione_prof/gruppo11.ml" 94 2442 2455
+type(
+  form list -> bool
+)
+ident(
+  def aux "esami/esercizi/soluzione_prof/gruppo11.ml" 94 2442 2444 "esami/esercizi/soluzione_prof/gruppo11.ml" 98 2592 2613
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 95 2467 2473 "esami/esercizi/soluzione_prof/gruppo11.ml" 95 2467 2475
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 95 2467 2479 "esami/esercizi/soluzione_prof/gruppo11.ml" 95 2467 2483
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2490 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2495
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2497 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2498
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2490 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2498
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2506 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2510
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2501 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2511
+type(
+  form
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2513 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2514
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2501 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2514
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2490 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2514
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2519 "esami/esercizi/soluzione_prof/gruppo11.ml" 96 2484 2524
+type(
+  bool
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2531 "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2532
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2542 "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2591
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2534 "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2538
+type(
+  form list
+)
+ident(
+  def rest "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2542 "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2591
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2531 "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2538
+type(
+  form list
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2542 "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2545
+type(
+  bool -> bool
+)
+ident(
+  int_ref Stdlib.not "stdlib.mli" 211 8889 8889 "stdlib.mli" 211 8889 8929
+)
+"esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2580 "esami/esercizi/soluzione_prof/gruppo11.ml" 97 2525 2582
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)

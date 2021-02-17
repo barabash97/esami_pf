@@ -13,3 +13,32 @@ let rec discendenti x = function
 	| Tr(y, t1,t2) -> if x = y then (labels (Tr(y,t1,t2))) else ((discendenti x t1) @ (discendenti x t2));;
 
 discendenti 5 albero;;
+
+
+let superset = [1;2;3;4;5;6];;
+let set = [2;4;6];;
+
+exception NotFound;;
+let rec check superset = function
+	| [] -> true
+	| x::rest -> if List.mem x superset then check superset rest else raise NotFound;;
+
+
+let rec remove x = function 
+	| [] -> []
+	| y::rest -> if x = y then remove x rest else y::remove x rest;;
+
+
+let complemento superset set =
+	let rec aux result = function 
+		| [] -> result
+		| x::rest -> if check superset [x] then aux (remove x result) rest else raise NotFound
+
+	in aux superset set;;
+
+let rec complemento_b superset = function 
+	 [] -> superset
+	| x::rest -> if check superset [x] then complemento_b (remove x superset) rest else raise NotFound;;
+	
+
+complemento_b superset set;;

@@ -394,3 +394,101 @@ ident(
 type(
   int list
 )
+"esami/tmp2/settembre2019.ml" 18 487 491 "esami/tmp2/settembre2019.ml" 18 487 499
+type(
+  int list
+)
+ident(
+  def superset "esami/tmp2/settembre2019.ml" 19 518 518 "esami/tmp2/settembre2019.ml" 0 0 -1
+)
+"esami/tmp2/settembre2019.ml" 18 487 503 "esami/tmp2/settembre2019.ml" 18 487 504
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 18 487 505 "esami/tmp2/settembre2019.ml" 18 487 506
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 18 487 507 "esami/tmp2/settembre2019.ml" 18 487 508
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 18 487 509 "esami/tmp2/settembre2019.ml" 18 487 510
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 18 487 511 "esami/tmp2/settembre2019.ml" 18 487 512
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 18 487 513 "esami/tmp2/settembre2019.ml" 18 487 514
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 18 487 502 "esami/tmp2/settembre2019.ml" 18 487 515
+type(
+  int list
+)
+"esami/tmp2/settembre2019.ml" 19 518 522 "esami/tmp2/settembre2019.ml" 19 518 525
+type(
+  int list
+)
+ident(
+  def set "esami/tmp2/settembre2019.ml" 21 539 539 "esami/tmp2/settembre2019.ml" 0 0 -1
+)
+"esami/tmp2/settembre2019.ml" 19 518 529 "esami/tmp2/settembre2019.ml" 19 518 530
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 19 518 531 "esami/tmp2/settembre2019.ml" 19 518 532
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 19 518 533 "esami/tmp2/settembre2019.ml" 19 518 534
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 19 518 528 "esami/tmp2/settembre2019.ml" 19 518 535
+type(
+  int list
+)
+"esami/tmp2/settembre2019.ml" 22 560 568 "esami/tmp2/settembre2019.ml" 22 560 573
+type(
+  '_weak1 -> '_weak2 list -> bool
+)
+ident(
+  def check "esami/tmp2/settembre2019.ml" 22 560 560 "esami/tmp2/settembre2019.ml" 0 0 -1
+)
+"esami/tmp2/settembre2019.ml" 22 560 574 "esami/tmp2/settembre2019.ml" 22 560 582
+type(
+  '_weak1
+)
+ident(
+  def superset "esami/tmp2/settembre2019.ml" 22 560 585 "esami/tmp2/settembre2019.ml" 24 608 689
+)
+"esami/tmp2/settembre2019.ml" 23 594 597 "esami/tmp2/settembre2019.ml" 23 594 599
+type(
+  '_weak2 list
+)
+"esami/tmp2/settembre2019.ml" 23 594 603 "esami/tmp2/settembre2019.ml" 23 594 607
+type(
+  bool
+)
+"esami/tmp2/settembre2019.ml" 24 608 611 "esami/tmp2/settembre2019.ml" 24 608 612
+type(
+  '_weak2
+)
+ident(
+  def x "esami/tmp2/settembre2019.ml" 24 608 622 "esami/tmp2/settembre2019.ml" 24 608 689
+)
+"esami/tmp2/settembre2019.ml" 24 608 614 "esami/tmp2/settembre2019.ml" 24 608 618
+type(
+  '_weak2 list
+)
+ident(
+  def rest "esami/tmp2/settembre2019.ml" 24 608 622 "esami/tmp2/settembre2019.ml" 24 608 689
+)
+"esami/tmp2/settembre2019.ml" 24 608 611 "esami/tmp2/settembre2019.ml" 24 608 618
+type(
+  '_weak2 list
+)
