@@ -93,1016 +93,1077 @@ type(
 type(
   int tree_bin
 )
-"esami/luglio2019.ml" 5 185 189 "esami/luglio2019.ml" 5 185 205
-type(
-  int tree_bin -> int
-)
-ident(
-  def somma_albero_bin "esami/luglio2019.ml" 12 327 327 "esami/luglio2019.ml" 0 0 -1
-)
-"esami/luglio2019.ml" 6 209 218 "esami/luglio2019.ml" 6 209 221
-type(
-  int -> int tree_bin -> int
-)
-ident(
-  def aux "esami/luglio2019.ml" 6 209 210 "esami/luglio2019.ml" 9 312 321
-)
-"esami/luglio2019.ml" 6 209 222 "esami/luglio2019.ml" 6 209 227
-type(
-  int
-)
-ident(
-  def somma "esami/luglio2019.ml" 6 209 230 "esami/luglio2019.ml" 8 257 311
-)
-"esami/luglio2019.ml" 7 240 242 "esami/luglio2019.ml" 7 240 247
-type(
-  int tree_bin
-)
-"esami/luglio2019.ml" 7 240 251 "esami/luglio2019.ml" 7 240 256
-type(
-  int
-)
-ident(
-  int_ref somma "esami/luglio2019.ml" 6 209 222 "esami/luglio2019.ml" 6 209 227
-)
-"esami/luglio2019.ml" 8 257 264 "esami/luglio2019.ml" 8 257 265
-type(
-  int
-)
-ident(
-  def x "esami/luglio2019.ml" 8 257 276 "esami/luglio2019.ml" 8 257 311
-)
-"esami/luglio2019.ml" 8 257 266 "esami/luglio2019.ml" 8 257 268
-type(
-  int tree_bin
-)
-ident(
-  def t1 "esami/luglio2019.ml" 8 257 276 "esami/luglio2019.ml" 8 257 311
-)
-"esami/luglio2019.ml" 8 257 269 "esami/luglio2019.ml" 8 257 271
-type(
-  int tree_bin
-)
-ident(
-  def t2 "esami/luglio2019.ml" 8 257 276 "esami/luglio2019.ml" 8 257 311
-)
-"esami/luglio2019.ml" 8 257 261 "esami/luglio2019.ml" 8 257 272
-type(
-  int tree_bin
-)
-"esami/luglio2019.ml" 8 257 276 "esami/luglio2019.ml" 8 257 277
-type(
-  int
-)
-ident(
-  int_ref x "esami/luglio2019.ml" 8 257 264 "esami/luglio2019.ml" 8 257 265
-)
-"esami/luglio2019.ml" 8 257 278 "esami/luglio2019.ml" 8 257 279
-type(
-  int -> int -> int
-)
-ident(
-  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
-)
-"esami/luglio2019.ml" 8 257 281 "esami/luglio2019.ml" 8 257 284
-type(
-  int -> int tree_bin -> int
-)
-ident(
-  int_ref aux "esami/luglio2019.ml" 6 209 218 "esami/luglio2019.ml" 6 209 221
-)
-"esami/luglio2019.ml" 8 257 285 "esami/luglio2019.ml" 8 257 290
-type(
-  int
-)
-ident(
-  int_ref somma "esami/luglio2019.ml" 6 209 222 "esami/luglio2019.ml" 6 209 227
-)
-"esami/luglio2019.ml" 8 257 291 "esami/luglio2019.ml" 8 257 293
-type(
-  int tree_bin
-)
-ident(
-  int_ref t1 "esami/luglio2019.ml" 8 257 266 "esami/luglio2019.ml" 8 257 268
-)
-"esami/luglio2019.ml" 8 257 280 "esami/luglio2019.ml" 8 257 294
-type(
-  int
-)
-"esami/luglio2019.ml" 8 257 276 "esami/luglio2019.ml" 8 257 294
-type(
-  int
-)
-"esami/luglio2019.ml" 8 257 295 "esami/luglio2019.ml" 8 257 296
-type(
-  int -> int -> int
-)
-ident(
-  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
-)
-"esami/luglio2019.ml" 8 257 298 "esami/luglio2019.ml" 8 257 301
-type(
-  int -> int tree_bin -> int
-)
-ident(
-  int_ref aux "esami/luglio2019.ml" 6 209 218 "esami/luglio2019.ml" 6 209 221
-)
-"esami/luglio2019.ml" 8 257 302 "esami/luglio2019.ml" 8 257 307
-type(
-  int
-)
-ident(
-  int_ref somma "esami/luglio2019.ml" 6 209 222 "esami/luglio2019.ml" 6 209 227
-)
-"esami/luglio2019.ml" 8 257 308 "esami/luglio2019.ml" 8 257 310
-type(
-  int tree_bin
-)
-ident(
-  int_ref t2 "esami/luglio2019.ml" 8 257 269 "esami/luglio2019.ml" 8 257 271
-)
-"esami/luglio2019.ml" 8 257 297 "esami/luglio2019.ml" 8 257 311
-type(
-  int
-)
-"esami/luglio2019.ml" 8 257 276 "esami/luglio2019.ml" 8 257 311
-type(
-  int
-)
-"esami/luglio2019.ml" 6 209 230 "esami/luglio2019.ml" 8 257 311
-type(
-  int tree_bin -> int
-)
-"esami/luglio2019.ml" 9 312 316 "esami/luglio2019.ml" 9 312 319
-type(
-  int -> int tree_bin -> int
-)
-ident(
-  int_ref aux "esami/luglio2019.ml" 6 209 218 "esami/luglio2019.ml" 6 209 221
-)
-"esami/luglio2019.ml" 9 312 320 "esami/luglio2019.ml" 9 312 321
-type(
-  int
-)
-"esami/luglio2019.ml" 9 312 316 "esami/luglio2019.ml" 9 312 321
-type(
-  int tree_bin -> int
-)
-"esami/luglio2019.ml" 6 209 210 "esami/luglio2019.ml" 9 312 321
-type(
-  int tree_bin -> int
-)
-"esami/luglio2019.ml" 12 327 331 "esami/luglio2019.ml" 12 327 340
-type(
-  'a list tree_bin -> 'a list
-)
-ident(
-  def root_tree "esami/luglio2019.ml" 16 385 385 "esami/luglio2019.ml" 0 0 -1
-)
-"esami/luglio2019.ml" 13 352 353 "esami/luglio2019.ml" 13 352 358
-type(
-  'a list tree_bin
-)
-"esami/luglio2019.ml" 13 352 362 "esami/luglio2019.ml" 13 352 364
-type(
-  'a list
-)
-"esami/luglio2019.ml" 14 365 370 "esami/luglio2019.ml" 14 365 371
-type(
-  'a list
-)
-ident(
-  def x "esami/luglio2019.ml" 14 365 380 "esami/luglio2019.ml" 14 365 381
-)
-"esami/luglio2019.ml" 14 365 372 "esami/luglio2019.ml" 14 365 373
-type(
-  'a list tree_bin
-)
-"esami/luglio2019.ml" 14 365 374 "esami/luglio2019.ml" 14 365 375
-type(
-  'a list tree_bin
-)
-"esami/luglio2019.ml" 14 365 367 "esami/luglio2019.ml" 14 365 376
-type(
-  'a list tree_bin
-)
-"esami/luglio2019.ml" 14 365 380 "esami/luglio2019.ml" 14 365 381
-type(
-  'a list
-)
-ident(
-  int_ref x "esami/luglio2019.ml" 14 365 370 "esami/luglio2019.ml" 14 365 371
-)
-"esami/luglio2019.ml" 12 327 343 "esami/luglio2019.ml" 14 365 381
-type(
-  'a list tree_bin -> 'a list
-)
-"esami/luglio2019.ml" 20 458 466 "esami/luglio2019.ml" 20 458 476
+"esami/luglio2019.ml" 9 255 259 "esami/luglio2019.ml" 9 255 269
 type(
   int -> int tree_bin -> int list
 )
 ident(
-  def n_ramo_bin "esami/luglio2019.ml" 20 458 458 "esami/luglio2019.ml" 0 0 -1
+  def n_ramo_bin "esami/luglio2019.ml" 18 645 645 "esami/luglio2019.ml" 0 0 -1
 )
-"esami/luglio2019.ml" 20 458 477 "esami/luglio2019.ml" 20 458 478
+"esami/luglio2019.ml" 9 255 270 "esami/luglio2019.ml" 9 255 271
 type(
   int
 )
 ident(
-  def n "esami/luglio2019.ml" 20 458 481 "esami/luglio2019.ml" 28 732 738
+  def n "esami/luglio2019.ml" 9 255 272 "esami/luglio2019.ml" 16 621 639
 )
-"esami/luglio2019.ml" 21 490 491 "esami/luglio2019.ml" 21 490 496
+"esami/luglio2019.ml" 9 255 272 "esami/luglio2019.ml" 9 255 276
 type(
   int tree_bin
 )
-"esami/luglio2019.ml" 21 490 500 "esami/luglio2019.ml" 21 490 508
+ident(
+  def tree "esami/luglio2019.ml" 10 280 281 "esami/luglio2019.ml" 16 621 639
+)
+"esami/luglio2019.ml" 10 280 289 "esami/luglio2019.ml" 10 280 292
 type(
-  string -> int list
+  int list -> int -> int tree_bin -> int list
 )
 ident(
-  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+  def aux "esami/luglio2019.ml" 10 280 281 "esami/luglio2019.ml" 16 621 639
 )
-"esami/luglio2019.ml" 21 490 509 "esami/luglio2019.ml" 21 490 521
-type(
-  string
-)
-"esami/luglio2019.ml" 21 490 500 "esami/luglio2019.ml" 21 490 521
+"esami/luglio2019.ml" 10 280 293 "esami/luglio2019.ml" 10 280 299
 type(
   int list
 )
-"esami/luglio2019.ml" 22 522 527 "esami/luglio2019.ml" 22 522 528
+ident(
+  def result "esami/luglio2019.ml" 10 280 300 "esami/luglio2019.ml" 15 599 620
+)
+"esami/luglio2019.ml" 10 280 300 "esami/luglio2019.ml" 10 280 305
 type(
   int
 )
 ident(
-  def x "esami/luglio2019.ml" 22 522 547 "esami/luglio2019.ml" 22 522 591
+  def somma "esami/luglio2019.ml" 10 280 308 "esami/luglio2019.ml" 15 599 620
 )
-"esami/luglio2019.ml" 22 522 530 "esami/luglio2019.ml" 22 522 535
+"esami/luglio2019.ml" 11 317 321 "esami/luglio2019.ml" 11 317 326
 type(
   int tree_bin
 )
-"esami/luglio2019.ml" 22 522 537 "esami/luglio2019.ml" 22 522 542
+"esami/luglio2019.ml" 11 317 330 "esami/luglio2019.ml" 11 317 336
 type(
-  int tree_bin
+  int list
 )
-"esami/luglio2019.ml" 22 522 524 "esami/luglio2019.ml" 22 522 543
-type(
-  int tree_bin
+ident(
+  int_ref result "esami/luglio2019.ml" 10 280 293 "esami/luglio2019.ml" 10 280 299
 )
-"esami/luglio2019.ml" 22 522 550 "esami/luglio2019.ml" 22 522 551
+"esami/luglio2019.ml" 12 337 344 "esami/luglio2019.ml" 12 337 345
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 22 522 527 "esami/luglio2019.ml" 22 522 528
+  def t "esami/luglio2019.ml" 12 337 364 "esami/luglio2019.ml" 12 337 444
 )
-"esami/luglio2019.ml" 22 522 552 "esami/luglio2019.ml" 22 522 553
+"esami/luglio2019.ml" 12 337 347 "esami/luglio2019.ml" 12 337 352
+type(
+  int tree_bin
+)
+"esami/luglio2019.ml" 12 337 354 "esami/luglio2019.ml" 12 337 359
+type(
+  int tree_bin
+)
+"esami/luglio2019.ml" 12 337 341 "esami/luglio2019.ml" 12 337 360
+type(
+  int tree_bin
+)
+"esami/luglio2019.ml" 12 337 368 "esami/luglio2019.ml" 12 337 377
+type(
+  int
+)
+ident(
+  def new_somma "esami/luglio2019.ml" 12 337 393 "esami/luglio2019.ml" 12 337 444
+)
+"esami/luglio2019.ml" 12 337 380 "esami/luglio2019.ml" 12 337 385
+type(
+  int
+)
+ident(
+  int_ref somma "esami/luglio2019.ml" 10 280 300 "esami/luglio2019.ml" 10 280 305
+)
+"esami/luglio2019.ml" 12 337 386 "esami/luglio2019.ml" 12 337 387
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/luglio2019.ml" 12 337 388 "esami/luglio2019.ml" 12 337 389
+type(
+  int
+)
+ident(
+  int_ref t "esami/luglio2019.ml" 12 337 344 "esami/luglio2019.ml" 12 337 345
+)
+"esami/luglio2019.ml" 12 337 380 "esami/luglio2019.ml" 12 337 389
+type(
+  int
+)
+"esami/luglio2019.ml" 12 337 396 "esami/luglio2019.ml" 12 337 405
+type(
+  int
+)
+ident(
+  int_ref new_somma "esami/luglio2019.ml" 12 337 368 "esami/luglio2019.ml" 12 337 377
+)
+"esami/luglio2019.ml" 12 337 406 "esami/luglio2019.ml" 12 337 407
 type(
   int -> int -> bool
 )
 ident(
   int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
 )
-"esami/luglio2019.ml" 22 522 554 "esami/luglio2019.ml" 22 522 555
+"esami/luglio2019.ml" 12 337 408 "esami/luglio2019.ml" 12 337 409
 type(
   int
 )
 ident(
-  int_ref n "esami/luglio2019.ml" 20 458 477 "esami/luglio2019.ml" 20 458 478
+  int_ref n "esami/luglio2019.ml" 9 255 270 "esami/luglio2019.ml" 9 255 271
 )
-"esami/luglio2019.ml" 22 522 550 "esami/luglio2019.ml" 22 522 555
+"esami/luglio2019.ml" 12 337 396 "esami/luglio2019.ml" 12 337 409
 type(
   bool
 )
-"esami/luglio2019.ml" 22 522 562 "esami/luglio2019.ml" 22 522 563
+"esami/luglio2019.ml" 12 337 415 "esami/luglio2019.ml" 12 337 416
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 22 522 527 "esami/luglio2019.ml" 22 522 528
+  int_ref t "esami/luglio2019.ml" 12 337 344 "esami/luglio2019.ml" 12 337 345
 )
-"esami/luglio2019.ml" 22 522 561 "esami/luglio2019.ml" 22 522 564
+"esami/luglio2019.ml" 12 337 418 "esami/luglio2019.ml" 12 337 424
 type(
   int list
-)
-"esami/luglio2019.ml" 22 522 570 "esami/luglio2019.ml" 22 522 578
-type(
-  string -> int list
 )
 ident(
-  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+  int_ref result "esami/luglio2019.ml" 10 280 293 "esami/luglio2019.ml" 10 280 299
 )
-"esami/luglio2019.ml" 22 522 579 "esami/luglio2019.ml" 22 522 591
-type(
-  string
-)
-"esami/luglio2019.ml" 22 522 570 "esami/luglio2019.ml" 22 522 591
+"esami/luglio2019.ml" 12 337 415 "esami/luglio2019.ml" 12 337 424
 type(
   int list
 )
-"esami/luglio2019.ml" 22 522 547 "esami/luglio2019.ml" 22 522 591
+"esami/luglio2019.ml" 12 337 430 "esami/luglio2019.ml" 12 337 435
+type(
+  exn -> int list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/luglio2019.ml" 12 337 436 "esami/luglio2019.ml" 12 337 444
+type(
+  exn
+)
+"esami/luglio2019.ml" 12 337 430 "esami/luglio2019.ml" 12 337 444
 type(
   int list
 )
-"esami/luglio2019.ml" 23 592 597 "esami/luglio2019.ml" 23 592 598
+"esami/luglio2019.ml" 12 337 393 "esami/luglio2019.ml" 12 337 444
+type(
+  int list
+)
+"esami/luglio2019.ml" 12 337 364 "esami/luglio2019.ml" 12 337 444
+type(
+  int list
+)
+"esami/luglio2019.ml" 13 446 453 "esami/luglio2019.ml" 13 446 454
 type(
   int
 )
 ident(
-  def x "esami/luglio2019.ml" 23 592 609 "esami/luglio2019.ml" 28 732 738
+  def t "esami/luglio2019.ml" 13 446 465 "esami/luglio2019.ml" 15 599 620
 )
-"esami/luglio2019.ml" 23 592 599 "esami/luglio2019.ml" 23 592 601
+"esami/luglio2019.ml" 13 446 456 "esami/luglio2019.ml" 13 446 457
 type(
   int tree_bin
 )
 ident(
-  def t1 "esami/luglio2019.ml" 23 592 609 "esami/luglio2019.ml" 28 732 738
+  def l "esami/luglio2019.ml" 13 446 465 "esami/luglio2019.ml" 15 599 620
 )
-"esami/luglio2019.ml" 23 592 602 "esami/luglio2019.ml" 23 592 604
+"esami/luglio2019.ml" 13 446 459 "esami/luglio2019.ml" 13 446 460
 type(
   int tree_bin
 )
 ident(
-  def t2 "esami/luglio2019.ml" 23 592 609 "esami/luglio2019.ml" 28 732 738
+  def r "esami/luglio2019.ml" 13 446 465 "esami/luglio2019.ml" 15 599 620
 )
-"esami/luglio2019.ml" 23 592 594 "esami/luglio2019.ml" 23 592 605
+"esami/luglio2019.ml" 13 446 450 "esami/luglio2019.ml" 13 446 461
 type(
   int tree_bin
 )
-"esami/luglio2019.ml" 23 592 612 "esami/luglio2019.ml" 23 592 613
+"esami/luglio2019.ml" 13 446 469 "esami/luglio2019.ml" 13 446 478
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 23 592 597 "esami/luglio2019.ml" 23 592 598
+  def new_somma "esami/luglio2019.ml" 14 495 497 "esami/luglio2019.ml" 15 599 620
 )
-"esami/luglio2019.ml" 23 592 614 "esami/luglio2019.ml" 23 592 615
+"esami/luglio2019.ml" 13 446 481 "esami/luglio2019.ml" 13 446 486
+type(
+  int
+)
+ident(
+  int_ref somma "esami/luglio2019.ml" 10 280 300 "esami/luglio2019.ml" 10 280 305
+)
+"esami/luglio2019.ml" 13 446 487 "esami/luglio2019.ml" 13 446 488
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/luglio2019.ml" 13 446 489 "esami/luglio2019.ml" 13 446 490
+type(
+  int
+)
+ident(
+  int_ref t "esami/luglio2019.ml" 13 446 453 "esami/luglio2019.ml" 13 446 454
+)
+"esami/luglio2019.ml" 13 446 481 "esami/luglio2019.ml" 13 446 490
+type(
+  int
+)
+"esami/luglio2019.ml" 14 495 500 "esami/luglio2019.ml" 14 495 509
+type(
+  int
+)
+ident(
+  int_ref new_somma "esami/luglio2019.ml" 13 446 469 "esami/luglio2019.ml" 13 446 478
+)
+"esami/luglio2019.ml" 14 495 510 "esami/luglio2019.ml" 14 495 511
 type(
   int -> int -> bool
 )
 ident(
-  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
 )
-"esami/luglio2019.ml" 23 592 616 "esami/luglio2019.ml" 23 592 617
+"esami/luglio2019.ml" 14 495 512 "esami/luglio2019.ml" 14 495 513
 type(
   int
 )
 ident(
-  int_ref n "esami/luglio2019.ml" 20 458 477 "esami/luglio2019.ml" 20 458 478
+  int_ref n "esami/luglio2019.ml" 9 255 270 "esami/luglio2019.ml" 9 255 271
 )
-"esami/luglio2019.ml" 23 592 612 "esami/luglio2019.ml" 23 592 617
+"esami/luglio2019.ml" 14 495 500 "esami/luglio2019.ml" 14 495 513
 type(
   bool
 )
-"esami/luglio2019.ml" 23 592 623 "esami/luglio2019.ml" 23 592 631
+"esami/luglio2019.ml" 14 495 524 "esami/luglio2019.ml" 14 495 527
 type(
-  string -> int list
+  int list -> int -> int tree_bin -> int list
 )
 ident(
-  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+  int_ref aux "esami/luglio2019.ml" 10 280 289 "esami/luglio2019.ml" 10 280 292
 )
-"esami/luglio2019.ml" 23 592 632 "esami/luglio2019.ml" 23 592 644
+"esami/luglio2019.ml" 14 495 529 "esami/luglio2019.ml" 14 495 530
 type(
-  string
+  int
 )
-"esami/luglio2019.ml" 23 592 623 "esami/luglio2019.ml" 23 592 644
+ident(
+  int_ref t "esami/luglio2019.ml" 13 446 453 "esami/luglio2019.ml" 13 446 454
+)
+"esami/luglio2019.ml" 14 495 532 "esami/luglio2019.ml" 14 495 538
 type(
   int list
 )
-"esami/luglio2019.ml" 24 651 655 "esami/luglio2019.ml" 24 651 656
+ident(
+  int_ref result "esami/luglio2019.ml" 10 280 293 "esami/luglio2019.ml" 10 280 299
+)
+"esami/luglio2019.ml" 14 495 528 "esami/luglio2019.ml" 14 495 539
+type(
+  int list
+)
+"esami/luglio2019.ml" 14 495 540 "esami/luglio2019.ml" 14 495 549
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 23 592 597 "esami/luglio2019.ml" 23 592 598
+  int_ref new_somma "esami/luglio2019.ml" 13 446 469 "esami/luglio2019.ml" 13 446 478
 )
-"esami/luglio2019.ml" 26 670 676 "esami/luglio2019.ml" 26 670 686
-type(
-  int -> int tree_bin -> int list
-)
-ident(
-  int_ref n_ramo_bin "esami/luglio2019.ml" 20 458 466 "esami/luglio2019.ml" 20 458 476
-)
-"esami/luglio2019.ml" 26 670 688 "esami/luglio2019.ml" 26 670 689
-type(
-  int
-)
-ident(
-  int_ref n "esami/luglio2019.ml" 20 458 477 "esami/luglio2019.ml" 20 458 478
-)
-"esami/luglio2019.ml" 26 670 689 "esami/luglio2019.ml" 26 670 690
-type(
-  int -> int -> int
-)
-ident(
-  int_ref Stdlib.( - ) "stdlib.mli" 346 13584 13584 "stdlib.mli" 346 13584 13630
-)
-"esami/luglio2019.ml" 26 670 690 "esami/luglio2019.ml" 26 670 691
-type(
-  int
-)
-ident(
-  int_ref x "esami/luglio2019.ml" 23 592 597 "esami/luglio2019.ml" 23 592 598
-)
-"esami/luglio2019.ml" 26 670 687 "esami/luglio2019.ml" 26 670 692
-type(
-  int
-)
-"esami/luglio2019.ml" 26 670 693 "esami/luglio2019.ml" 26 670 695
+"esami/luglio2019.ml" 14 495 550 "esami/luglio2019.ml" 14 495 551
 type(
   int tree_bin
 )
 ident(
-  int_ref t1 "esami/luglio2019.ml" 23 592 599 "esami/luglio2019.ml" 23 592 601
+  int_ref l "esami/luglio2019.ml" 13 446 456 "esami/luglio2019.ml" 13 446 457
 )
-"esami/luglio2019.ml" 26 670 676 "esami/luglio2019.ml" 26 670 695
+"esami/luglio2019.ml" 14 495 524 "esami/luglio2019.ml" 14 495 551
 type(
   int list
 )
-"esami/luglio2019.ml" 27 696 707 "esami/luglio2019.ml" 27 696 708
+"esami/luglio2019.ml" 14 495 557 "esami/luglio2019.ml" 14 495 565
 type(
   exn
 )
-"esami/luglio2019.ml" 27 696 712 "esami/luglio2019.ml" 27 696 722
+"esami/luglio2019.ml" 14 495 569 "esami/luglio2019.ml" 14 495 572
 type(
-  int -> int tree_bin -> int list
+  int list -> int -> int tree_bin -> int list
 )
 ident(
-  int_ref n_ramo_bin "esami/luglio2019.ml" 20 458 466 "esami/luglio2019.ml" 20 458 476
+  int_ref aux "esami/luglio2019.ml" 10 280 289 "esami/luglio2019.ml" 10 280 292
 )
-"esami/luglio2019.ml" 27 696 724 "esami/luglio2019.ml" 27 696 725
+"esami/luglio2019.ml" 14 495 574 "esami/luglio2019.ml" 14 495 575
 type(
   int
 )
 ident(
-  int_ref n "esami/luglio2019.ml" 20 458 477 "esami/luglio2019.ml" 20 458 478
+  int_ref t "esami/luglio2019.ml" 13 446 453 "esami/luglio2019.ml" 13 446 454
 )
-"esami/luglio2019.ml" 27 696 725 "esami/luglio2019.ml" 27 696 726
+"esami/luglio2019.ml" 14 495 577 "esami/luglio2019.ml" 14 495 583
 type(
-  int -> int -> int
+  int list
 )
 ident(
-  int_ref Stdlib.( - ) "stdlib.mli" 346 13584 13584 "stdlib.mli" 346 13584 13630
+  int_ref result "esami/luglio2019.ml" 10 280 293 "esami/luglio2019.ml" 10 280 299
 )
-"esami/luglio2019.ml" 27 696 726 "esami/luglio2019.ml" 27 696 727
+"esami/luglio2019.ml" 14 495 573 "esami/luglio2019.ml" 14 495 584
+type(
+  int list
+)
+"esami/luglio2019.ml" 14 495 585 "esami/luglio2019.ml" 14 495 594
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 23 592 597 "esami/luglio2019.ml" 23 592 598
+  int_ref new_somma "esami/luglio2019.ml" 13 446 469 "esami/luglio2019.ml" 13 446 478
 )
-"esami/luglio2019.ml" 27 696 723 "esami/luglio2019.ml" 27 696 728
-type(
-  int
-)
-"esami/luglio2019.ml" 27 696 729 "esami/luglio2019.ml" 27 696 731
+"esami/luglio2019.ml" 14 495 595 "esami/luglio2019.ml" 14 495 596
 type(
   int tree_bin
 )
 ident(
-  int_ref t2 "esami/luglio2019.ml" 23 592 602 "esami/luglio2019.ml" 23 592 604
+  int_ref r "esami/luglio2019.ml" 13 446 459 "esami/luglio2019.ml" 13 446 460
 )
-"esami/luglio2019.ml" 27 696 712 "esami/luglio2019.ml" 27 696 731
+"esami/luglio2019.ml" 14 495 569 "esami/luglio2019.ml" 14 495 596
 type(
   int list
 )
-"esami/luglio2019.ml" 24 651 658 "esami/luglio2019.ml" 28 732 738
+"esami/luglio2019.ml" 14 495 519 "esami/luglio2019.ml" 14 495 597
 type(
   int list
 )
-"esami/luglio2019.ml" 24 651 655 "esami/luglio2019.ml" 28 732 738
+"esami/luglio2019.ml" 15 599 606 "esami/luglio2019.ml" 15 599 611
+type(
+  exn -> int list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/luglio2019.ml" 15 599 612 "esami/luglio2019.ml" 15 599 620
+type(
+  exn
+)
+"esami/luglio2019.ml" 15 599 606 "esami/luglio2019.ml" 15 599 620
 type(
   int list
 )
-"esami/luglio2019.ml" 23 592 609 "esami/luglio2019.ml" 28 732 738
+"esami/luglio2019.ml" 14 495 497 "esami/luglio2019.ml" 15 599 620
 type(
   int list
 )
-"esami/luglio2019.ml" 20 458 481 "esami/luglio2019.ml" 28 732 738
+"esami/luglio2019.ml" 13 446 465 "esami/luglio2019.ml" 15 599 620
+type(
+  int list
+)
+"esami/luglio2019.ml" 10 280 308 "esami/luglio2019.ml" 15 599 620
 type(
   int tree_bin -> int list
 )
-"esami/luglio2019.ml" 30 742 742 "esami/luglio2019.ml" 30 742 752
+"esami/luglio2019.ml" 16 621 626 "esami/luglio2019.ml" 16 621 629
+type(
+  int list -> int -> int tree_bin -> int list
+)
+ident(
+  int_ref aux "esami/luglio2019.ml" 10 280 289 "esami/luglio2019.ml" 10 280 292
+)
+"esami/luglio2019.ml" 16 621 630 "esami/luglio2019.ml" 16 621 632
+type(
+  int list
+)
+"esami/luglio2019.ml" 16 621 633 "esami/luglio2019.ml" 16 621 634
+type(
+  int
+)
+"esami/luglio2019.ml" 16 621 635 "esami/luglio2019.ml" 16 621 639
+type(
+  int tree_bin
+)
+ident(
+  int_ref tree "esami/luglio2019.ml" 9 255 272 "esami/luglio2019.ml" 9 255 276
+)
+"esami/luglio2019.ml" 16 621 626 "esami/luglio2019.ml" 16 621 639
+type(
+  int list
+)
+"esami/luglio2019.ml" 10 280 281 "esami/luglio2019.ml" 16 621 639
+type(
+  int list
+)
+"esami/luglio2019.ml" 18 645 645 "esami/luglio2019.ml" 18 645 655
 type(
   int -> int tree_bin -> int list
 )
 ident(
-  int_ref n_ramo_bin "esami/luglio2019.ml" 20 458 466 "esami/luglio2019.ml" 20 458 476
+  int_ref n_ramo_bin "esami/luglio2019.ml" 9 255 259 "esami/luglio2019.ml" 9 255 269
 )
-"esami/luglio2019.ml" 30 742 753 "esami/luglio2019.ml" 30 742 755
+"esami/luglio2019.ml" 18 645 656 "esami/luglio2019.ml" 18 645 658
 type(
   int
 )
-"esami/luglio2019.ml" 30 742 756 "esami/luglio2019.ml" 30 742 766
+"esami/luglio2019.ml" 18 645 659 "esami/luglio2019.ml" 18 645 669
 type(
   int tree_bin
 )
 ident(
   int_ref albero_bin "esami/luglio2019.ml" 3 67 71 "esami/luglio2019.ml" 3 67 81
 )
-"esami/luglio2019.ml" 30 742 742 "esami/luglio2019.ml" 30 742 766
+"esami/luglio2019.ml" 18 645 645 "esami/luglio2019.ml" 18 645 669
 type(
   int list
 )
-"esami/luglio2019.ml" 34 814 818 "esami/luglio2019.ml" 34 814 826
+"esami/luglio2019.ml" 22 717 721 "esami/luglio2019.ml" 22 717 726
 type(
   int ntree
 )
 ident(
-  def albero_n "esami/luglio2019.ml" 38 967 967 "esami/luglio2019.ml" 0 0 -1
+  def ntree "esami/luglio2019.ml" 27 907 907 "esami/luglio2019.ml" 0 0 -1
 )
-"esami/luglio2019.ml" 34 814 832 "esami/luglio2019.ml" 34 814 833
+"esami/luglio2019.ml" 22 717 732 "esami/luglio2019.ml" 22 717 733
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 841 "esami/luglio2019.ml" 35 837 842
+"esami/luglio2019.ml" 23 737 741 "esami/luglio2019.ml" 23 737 742
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 848 "esami/luglio2019.ml" 35 837 849
+"esami/luglio2019.ml" 23 737 748 "esami/luglio2019.ml" 23 737 749
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 850 "esami/luglio2019.ml" 35 837 852
+"esami/luglio2019.ml" 23 737 750 "esami/luglio2019.ml" 23 737 752
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 845 "esami/luglio2019.ml" 35 837 853
+"esami/luglio2019.ml" 23 737 745 "esami/luglio2019.ml" 23 737 753
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 858 "esami/luglio2019.ml" 35 837 859
+"esami/luglio2019.ml" 23 737 758 "esami/luglio2019.ml" 23 737 759
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 860 "esami/luglio2019.ml" 35 837 862
+"esami/luglio2019.ml" 23 737 760 "esami/luglio2019.ml" 23 737 762
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 855 "esami/luglio2019.ml" 35 837 863
+"esami/luglio2019.ml" 23 737 755 "esami/luglio2019.ml" 23 737 763
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 868 "esami/luglio2019.ml" 35 837 870
+"esami/luglio2019.ml" 23 737 768 "esami/luglio2019.ml" 23 737 770
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 872 "esami/luglio2019.ml" 35 837 874
+"esami/luglio2019.ml" 23 737 772 "esami/luglio2019.ml" 23 737 774
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 865 "esami/luglio2019.ml" 35 837 875
+"esami/luglio2019.ml" 23 737 765 "esami/luglio2019.ml" 23 737 775
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 844 "esami/luglio2019.ml" 35 837 876
+"esami/luglio2019.ml" 23 737 744 "esami/luglio2019.ml" 23 737 776
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 838 "esami/luglio2019.ml" 35 837 877
+"esami/luglio2019.ml" 23 737 738 "esami/luglio2019.ml" 23 737 777
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 882 "esami/luglio2019.ml" 35 837 883
+"esami/luglio2019.ml" 23 737 782 "esami/luglio2019.ml" 23 737 783
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 889 "esami/luglio2019.ml" 35 837 890
+"esami/luglio2019.ml" 23 737 789 "esami/luglio2019.ml" 23 737 790
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 891 "esami/luglio2019.ml" 35 837 893
+"esami/luglio2019.ml" 23 737 791 "esami/luglio2019.ml" 23 737 793
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 886 "esami/luglio2019.ml" 35 837 894
+"esami/luglio2019.ml" 23 737 786 "esami/luglio2019.ml" 23 737 794
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 899 "esami/luglio2019.ml" 35 837 900
+"esami/luglio2019.ml" 23 737 799 "esami/luglio2019.ml" 23 737 800
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 902 "esami/luglio2019.ml" 35 837 904
+"esami/luglio2019.ml" 23 737 802 "esami/luglio2019.ml" 23 737 804
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 896 "esami/luglio2019.ml" 35 837 905
+"esami/luglio2019.ml" 23 737 796 "esami/luglio2019.ml" 23 737 805
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 910 "esami/luglio2019.ml" 35 837 912
+"esami/luglio2019.ml" 23 737 810 "esami/luglio2019.ml" 23 737 812
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 913 "esami/luglio2019.ml" 35 837 915
+"esami/luglio2019.ml" 23 737 813 "esami/luglio2019.ml" 23 737 815
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 907 "esami/luglio2019.ml" 35 837 916
+"esami/luglio2019.ml" 23 737 807 "esami/luglio2019.ml" 23 737 816
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 885 "esami/luglio2019.ml" 35 837 917
+"esami/luglio2019.ml" 23 737 785 "esami/luglio2019.ml" 23 737 817
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 879 "esami/luglio2019.ml" 35 837 918
+"esami/luglio2019.ml" 23 737 779 "esami/luglio2019.ml" 23 737 818
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 923 "esami/luglio2019.ml" 35 837 924
+"esami/luglio2019.ml" 23 737 823 "esami/luglio2019.ml" 23 737 824
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 929 "esami/luglio2019.ml" 35 837 930
+"esami/luglio2019.ml" 23 737 829 "esami/luglio2019.ml" 23 737 830
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 931 "esami/luglio2019.ml" 35 837 933
+"esami/luglio2019.ml" 23 737 831 "esami/luglio2019.ml" 23 737 833
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 926 "esami/luglio2019.ml" 35 837 934
+"esami/luglio2019.ml" 23 737 826 "esami/luglio2019.ml" 23 737 834
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 939 "esami/luglio2019.ml" 35 837 940
+"esami/luglio2019.ml" 23 737 839 "esami/luglio2019.ml" 23 737 840
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 942 "esami/luglio2019.ml" 35 837 944
+"esami/luglio2019.ml" 23 737 842 "esami/luglio2019.ml" 23 737 844
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 936 "esami/luglio2019.ml" 35 837 945
+"esami/luglio2019.ml" 23 737 836 "esami/luglio2019.ml" 23 737 845
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 950 "esami/luglio2019.ml" 35 837 952
+"esami/luglio2019.ml" 23 737 850 "esami/luglio2019.ml" 23 737 852
 type(
   int
 )
-"esami/luglio2019.ml" 35 837 954 "esami/luglio2019.ml" 35 837 956
+"esami/luglio2019.ml" 23 737 854 "esami/luglio2019.ml" 23 737 856
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 947 "esami/luglio2019.ml" 35 837 957
+"esami/luglio2019.ml" 23 737 847 "esami/luglio2019.ml" 23 737 857
 type(
   int ntree
 )
-"esami/luglio2019.ml" 35 837 925 "esami/luglio2019.ml" 35 837 958
+"esami/luglio2019.ml" 23 737 825 "esami/luglio2019.ml" 23 737 858
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 35 837 920 "esami/luglio2019.ml" 35 837 959
+"esami/luglio2019.ml" 23 737 820 "esami/luglio2019.ml" 23 737 859
 type(
   int ntree
 )
-"esami/luglio2019.ml" 34 814 835 "esami/luglio2019.ml" 36 960 962
+"esami/luglio2019.ml" 22 717 735 "esami/luglio2019.ml" 24 860 862
 type(
   int ntree list
 )
-"esami/luglio2019.ml" 34 814 829 "esami/luglio2019.ml" 36 960 963
+"esami/luglio2019.ml" 22 717 729 "esami/luglio2019.ml" 24 860 863
 type(
   int ntree
 )
-"esami/luglio2019.ml" 38 967 975 "esami/luglio2019.ml" 38 967 981
+"esami/luglio2019.ml" 27 907 911 "esami/luglio2019.ml" 27 907 917
 type(
   int -> int ntree -> int list
 )
 ident(
-  def n_ramo "esami/luglio2019.ml" 38 967 967 "esami/luglio2019.ml" 0 0 -1
+  def n_ramo "esami/luglio2019.ml" 38 1360 1360 "esami/luglio2019.ml" 0 0 -1
 )
-"esami/luglio2019.ml" 38 967 982 "esami/luglio2019.ml" 38 967 983
+"esami/luglio2019.ml" 27 907 918 "esami/luglio2019.ml" 27 907 919
 type(
   int
 )
 ident(
-  def n "esami/luglio2019.ml" 38 967 986 "esami/luglio2019.ml" 40 1051 1132
+  def n "esami/luglio2019.ml" 27 907 920 "esami/luglio2019.ml" 36 1339 1356
 )
-"esami/luglio2019.ml" 39 996 1000 "esami/luglio2019.ml" 39 996 1001
-type(
-  int
-)
-ident(
-  def x "esami/luglio2019.ml" 39 996 1010 "esami/luglio2019.ml" 39 996 1050
-)
-"esami/luglio2019.ml" 39 996 1003 "esami/luglio2019.ml" 39 996 1005
-type(
-  int ntree list
-)
-"esami/luglio2019.ml" 39 996 997 "esami/luglio2019.ml" 39 996 1006
+"esami/luglio2019.ml" 27 907 920 "esami/luglio2019.ml" 27 907 925
 type(
   int ntree
 )
-"esami/luglio2019.ml" 39 996 1013 "esami/luglio2019.ml" 39 996 1014
+ident(
+  def ntree "esami/luglio2019.ml" 28 929 930 "esami/luglio2019.ml" 36 1339 1356
+)
+"esami/luglio2019.ml" 28 929 938 "esami/luglio2019.ml" 28 929 941
+type(
+  int list -> int -> int ntree -> int list
+)
+ident(
+  def aux "esami/luglio2019.ml" 28 929 930 "esami/luglio2019.ml" 36 1339 1356
+)
+"esami/luglio2019.ml" 28 929 942 "esami/luglio2019.ml" 28 929 948
+type(
+  int list
+)
+ident(
+  def result "esami/luglio2019.ml" 28 929 949 "esami/luglio2019.ml" 30 1066 1194
+)
+"esami/luglio2019.ml" 28 929 949 "esami/luglio2019.ml" 28 929 954
 type(
   int
 )
 ident(
-  int_ref n "esami/luglio2019.ml" 38 967 982 "esami/luglio2019.ml" 38 967 983
+  def somma "esami/luglio2019.ml" 28 929 957 "esami/luglio2019.ml" 30 1066 1194
 )
-"esami/luglio2019.ml" 39 996 1015 "esami/luglio2019.ml" 39 996 1016
+"esami/luglio2019.ml" 29 967 974 "esami/luglio2019.ml" 29 967 975
+type(
+  int
+)
+ident(
+  def t "esami/luglio2019.ml" 29 967 984 "esami/luglio2019.ml" 29 967 1064
+)
+"esami/luglio2019.ml" 29 967 977 "esami/luglio2019.ml" 29 967 979
+type(
+  int ntree list
+)
+"esami/luglio2019.ml" 29 967 971 "esami/luglio2019.ml" 29 967 980
+type(
+  int ntree
+)
+"esami/luglio2019.ml" 29 967 988 "esami/luglio2019.ml" 29 967 997
+type(
+  int
+)
+ident(
+  def new_somma "esami/luglio2019.ml" 29 967 1013 "esami/luglio2019.ml" 29 967 1064
+)
+"esami/luglio2019.ml" 29 967 1000 "esami/luglio2019.ml" 29 967 1005
+type(
+  int
+)
+ident(
+  int_ref somma "esami/luglio2019.ml" 28 929 949 "esami/luglio2019.ml" 28 929 954
+)
+"esami/luglio2019.ml" 29 967 1006 "esami/luglio2019.ml" 29 967 1007
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/luglio2019.ml" 29 967 1008 "esami/luglio2019.ml" 29 967 1009
+type(
+  int
+)
+ident(
+  int_ref t "esami/luglio2019.ml" 29 967 974 "esami/luglio2019.ml" 29 967 975
+)
+"esami/luglio2019.ml" 29 967 1000 "esami/luglio2019.ml" 29 967 1009
+type(
+  int
+)
+"esami/luglio2019.ml" 29 967 1016 "esami/luglio2019.ml" 29 967 1025
+type(
+  int
+)
+ident(
+  int_ref new_somma "esami/luglio2019.ml" 29 967 988 "esami/luglio2019.ml" 29 967 997
+)
+"esami/luglio2019.ml" 29 967 1026 "esami/luglio2019.ml" 29 967 1027
 type(
   int -> int -> bool
 )
 ident(
   int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
 )
-"esami/luglio2019.ml" 39 996 1017 "esami/luglio2019.ml" 39 996 1018
+"esami/luglio2019.ml" 29 967 1028 "esami/luglio2019.ml" 29 967 1029
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 39 996 1000 "esami/luglio2019.ml" 39 996 1001
+  int_ref n "esami/luglio2019.ml" 27 907 918 "esami/luglio2019.ml" 27 907 919
 )
-"esami/luglio2019.ml" 39 996 1013 "esami/luglio2019.ml" 39 996 1018
+"esami/luglio2019.ml" 29 967 1016 "esami/luglio2019.ml" 29 967 1029
 type(
   bool
 )
-"esami/luglio2019.ml" 39 996 1025 "esami/luglio2019.ml" 39 996 1026
+"esami/luglio2019.ml" 29 967 1035 "esami/luglio2019.ml" 29 967 1036
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 39 996 1000 "esami/luglio2019.ml" 39 996 1001
+  int_ref t "esami/luglio2019.ml" 29 967 974 "esami/luglio2019.ml" 29 967 975
 )
-"esami/luglio2019.ml" 39 996 1024 "esami/luglio2019.ml" 39 996 1027
+"esami/luglio2019.ml" 29 967 1038 "esami/luglio2019.ml" 29 967 1044
 type(
   int list
-)
-"esami/luglio2019.ml" 39 996 1033 "esami/luglio2019.ml" 39 996 1041
-type(
-  string -> int list
 )
 ident(
-  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+  int_ref result "esami/luglio2019.ml" 28 929 942 "esami/luglio2019.ml" 28 929 948
 )
-"esami/luglio2019.ml" 39 996 1042 "esami/luglio2019.ml" 39 996 1050
-type(
-  string
-)
-"esami/luglio2019.ml" 39 996 1033 "esami/luglio2019.ml" 39 996 1050
+"esami/luglio2019.ml" 29 967 1035 "esami/luglio2019.ml" 29 967 1044
 type(
   int list
 )
-"esami/luglio2019.ml" 39 996 1010 "esami/luglio2019.ml" 39 996 1050
+"esami/luglio2019.ml" 29 967 1050 "esami/luglio2019.ml" 29 967 1055
+type(
+  exn -> int list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/luglio2019.ml" 29 967 1056 "esami/luglio2019.ml" 29 967 1064
+type(
+  exn
+)
+"esami/luglio2019.ml" 29 967 1050 "esami/luglio2019.ml" 29 967 1064
 type(
   int list
 )
-"esami/luglio2019.ml" 40 1051 1056 "esami/luglio2019.ml" 40 1051 1057
+"esami/luglio2019.ml" 29 967 1013 "esami/luglio2019.ml" 29 967 1064
+type(
+  int list
+)
+"esami/luglio2019.ml" 29 967 984 "esami/luglio2019.ml" 29 967 1064
+type(
+  int list
+)
+"esami/luglio2019.ml" 30 1066 1073 "esami/luglio2019.ml" 30 1066 1074
 type(
   int
 )
 ident(
-  def x "esami/luglio2019.ml" 40 1051 1069 "esami/luglio2019.ml" 40 1051 1132
+  def t "esami/luglio2019.ml" 30 1066 1086 "esami/luglio2019.ml" 30 1066 1194
 )
-"esami/luglio2019.ml" 40 1051 1059 "esami/luglio2019.ml" 40 1051 1064
+"esami/luglio2019.ml" 30 1066 1076 "esami/luglio2019.ml" 30 1066 1081
 type(
   int ntree list
 )
 ident(
-  def tlist "esami/luglio2019.ml" 40 1051 1069 "esami/luglio2019.ml" 40 1051 1132
+  def tlist "esami/luglio2019.ml" 30 1066 1086 "esami/luglio2019.ml" 30 1066 1194
 )
-"esami/luglio2019.ml" 40 1051 1053 "esami/luglio2019.ml" 40 1051 1065
+"esami/luglio2019.ml" 30 1066 1070 "esami/luglio2019.ml" 30 1066 1082
 type(
   int ntree
 )
-"esami/luglio2019.ml" 40 1051 1072 "esami/luglio2019.ml" 40 1051 1073
+"esami/luglio2019.ml" 30 1066 1090 "esami/luglio2019.ml" 30 1066 1099
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 40 1051 1056 "esami/luglio2019.ml" 40 1051 1057
+  def new_somma "esami/luglio2019.ml" 30 1066 1115 "esami/luglio2019.ml" 30 1066 1194
 )
-"esami/luglio2019.ml" 40 1051 1074 "esami/luglio2019.ml" 40 1051 1075
-type(
-  int -> int -> bool
-)
-ident(
-  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
-)
-"esami/luglio2019.ml" 40 1051 1076 "esami/luglio2019.ml" 40 1051 1077
+"esami/luglio2019.ml" 30 1066 1102 "esami/luglio2019.ml" 30 1066 1107
 type(
   int
 )
 ident(
-  int_ref n "esami/luglio2019.ml" 38 967 982 "esami/luglio2019.ml" 38 967 983
+  int_ref somma "esami/luglio2019.ml" 28 929 949 "esami/luglio2019.ml" 28 929 954
 )
-"esami/luglio2019.ml" 40 1051 1072 "esami/luglio2019.ml" 40 1051 1077
-type(
-  bool
-)
-"esami/luglio2019.ml" 40 1051 1083 "esami/luglio2019.ml" 40 1051 1091
-type(
-  string -> int list
-)
-ident(
-  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
-)
-"esami/luglio2019.ml" 40 1051 1092 "esami/luglio2019.ml" 40 1051 1100
-type(
-  string
-)
-"esami/luglio2019.ml" 40 1051 1083 "esami/luglio2019.ml" 40 1051 1100
-type(
-  int list
-)
-"esami/luglio2019.ml" 40 1051 1106 "esami/luglio2019.ml" 40 1051 1107
-type(
-  int
-)
-ident(
-  int_ref x "esami/luglio2019.ml" 40 1051 1056 "esami/luglio2019.ml" 40 1051 1057
-)
-"esami/luglio2019.ml" 40 1051 1109 "esami/luglio2019.ml" 40 1051 1120
-type(
-  int -> int ntree list -> int list
-)
-ident(
-  int_ref n_ramo_list "esami/luglio2019.ml" 42 1135 1140 "esami/luglio2019.ml" 42 1135 1151
-)
-"esami/luglio2019.ml" 40 1051 1122 "esami/luglio2019.ml" 40 1051 1123
-type(
-  int
-)
-ident(
-  int_ref n "esami/luglio2019.ml" 38 967 982 "esami/luglio2019.ml" 38 967 983
-)
-"esami/luglio2019.ml" 40 1051 1123 "esami/luglio2019.ml" 40 1051 1124
+"esami/luglio2019.ml" 30 1066 1108 "esami/luglio2019.ml" 30 1066 1109
 type(
   int -> int -> int
 )
 ident(
-  int_ref Stdlib.( - ) "stdlib.mli" 346 13584 13584 "stdlib.mli" 346 13584 13630
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
 )
-"esami/luglio2019.ml" 40 1051 1124 "esami/luglio2019.ml" 40 1051 1125
+"esami/luglio2019.ml" 30 1066 1110 "esami/luglio2019.ml" 30 1066 1111
 type(
   int
 )
 ident(
-  int_ref x "esami/luglio2019.ml" 40 1051 1056 "esami/luglio2019.ml" 40 1051 1057
+  int_ref t "esami/luglio2019.ml" 30 1066 1073 "esami/luglio2019.ml" 30 1066 1074
 )
-"esami/luglio2019.ml" 40 1051 1121 "esami/luglio2019.ml" 40 1051 1126
+"esami/luglio2019.ml" 30 1066 1102 "esami/luglio2019.ml" 30 1066 1111
 type(
   int
 )
-"esami/luglio2019.ml" 40 1051 1127 "esami/luglio2019.ml" 40 1051 1132
-type(
-  int ntree list
-)
-ident(
-  int_ref tlist "esami/luglio2019.ml" 40 1051 1059 "esami/luglio2019.ml" 40 1051 1064
-)
-"esami/luglio2019.ml" 40 1051 1109 "esami/luglio2019.ml" 40 1051 1132
-type(
-  int list
-)
-"esami/luglio2019.ml" 40 1051 1106 "esami/luglio2019.ml" 40 1051 1132
-type(
-  int list
-)
-"esami/luglio2019.ml" 40 1051 1069 "esami/luglio2019.ml" 40 1051 1132
-type(
-  int list
-)
-"esami/luglio2019.ml" 38 967 986 "esami/luglio2019.ml" 40 1051 1132
-type(
-  int ntree -> int list
-)
-"esami/luglio2019.ml" 42 1135 1140 "esami/luglio2019.ml" 42 1135 1151
-type(
-  int -> int ntree list -> int list
-)
-ident(
-  def n_ramo_list "esami/luglio2019.ml" 38 967 967 "esami/luglio2019.ml" 0 0 -1
-)
-"esami/luglio2019.ml" 42 1135 1152 "esami/luglio2019.ml" 42 1135 1153
+"esami/luglio2019.ml" 30 1066 1118 "esami/luglio2019.ml" 30 1066 1127
 type(
   int
 )
 ident(
-  def n "esami/luglio2019.ml" 42 1135 1156 "esami/luglio2019.ml" 44 1197 1255
+  int_ref new_somma "esami/luglio2019.ml" 30 1066 1090 "esami/luglio2019.ml" 30 1066 1099
 )
-"esami/luglio2019.ml" 43 1166 1168 "esami/luglio2019.ml" 43 1166 1170
+"esami/luglio2019.ml" 30 1066 1128 "esami/luglio2019.ml" 30 1066 1129
 type(
-  int ntree list
-)
-"esami/luglio2019.ml" 43 1166 1174 "esami/luglio2019.ml" 43 1166 1182
-type(
-  string -> int list
+  int -> int -> bool
 )
 ident(
-  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
 )
-"esami/luglio2019.ml" 43 1166 1183 "esami/luglio2019.ml" 43 1166 1196
-type(
-  string
-)
-"esami/luglio2019.ml" 43 1166 1174 "esami/luglio2019.ml" 43 1166 1196
-type(
-  int list
-)
-"esami/luglio2019.ml" 44 1197 1201 "esami/luglio2019.ml" 44 1197 1202
-type(
-  int ntree
-)
-ident(
-  def t "esami/luglio2019.ml" 44 1197 1212 "esami/luglio2019.ml" 44 1197 1255
-)
-"esami/luglio2019.ml" 44 1197 1204 "esami/luglio2019.ml" 44 1197 1208
-type(
-  int ntree list
-)
-ident(
-  def rest "esami/luglio2019.ml" 44 1197 1212 "esami/luglio2019.ml" 44 1197 1255
-)
-"esami/luglio2019.ml" 44 1197 1201 "esami/luglio2019.ml" 44 1197 1208
-type(
-  int ntree list
-)
-"esami/luglio2019.ml" 44 1197 1216 "esami/luglio2019.ml" 44 1197 1222
-type(
-  int -> int ntree -> int list
-)
-ident(
-  int_ref n_ramo "esami/luglio2019.ml" 38 967 975 "esami/luglio2019.ml" 38 967 981
-)
-"esami/luglio2019.ml" 44 1197 1223 "esami/luglio2019.ml" 44 1197 1224
+"esami/luglio2019.ml" 30 1066 1130 "esami/luglio2019.ml" 30 1066 1131
 type(
   int
 )
 ident(
-  int_ref n "esami/luglio2019.ml" 42 1135 1152 "esami/luglio2019.ml" 42 1135 1153
+  int_ref n "esami/luglio2019.ml" 27 907 918 "esami/luglio2019.ml" 27 907 919
 )
-"esami/luglio2019.ml" 44 1197 1225 "esami/luglio2019.ml" 44 1197 1226
+"esami/luglio2019.ml" 30 1066 1118 "esami/luglio2019.ml" 30 1066 1131
 type(
-  int ntree
+  bool
+)
+"esami/luglio2019.ml" 30 1066 1137 "esami/luglio2019.ml" 30 1066 1146
+type(
+  int list -> int -> int ntree list -> int list
 )
 ident(
-  int_ref t "esami/luglio2019.ml" 44 1197 1201 "esami/luglio2019.ml" 44 1197 1202
+  int_ref from_list "esami/luglio2019.ml" 32 1197 1201 "esami/luglio2019.ml" 32 1197 1210
 )
-"esami/luglio2019.ml" 44 1197 1216 "esami/luglio2019.ml" 44 1197 1226
+"esami/luglio2019.ml" 30 1066 1148 "esami/luglio2019.ml" 30 1066 1149
+type(
+  int
+)
+ident(
+  int_ref t "esami/luglio2019.ml" 30 1066 1073 "esami/luglio2019.ml" 30 1066 1074
+)
+"esami/luglio2019.ml" 30 1066 1151 "esami/luglio2019.ml" 30 1066 1157
 type(
   int list
 )
-"esami/luglio2019.ml" 44 1197 1232 "esami/luglio2019.ml" 44 1197 1233
+ident(
+  int_ref result "esami/luglio2019.ml" 28 929 942 "esami/luglio2019.ml" 28 929 948
+)
+"esami/luglio2019.ml" 30 1066 1147 "esami/luglio2019.ml" 30 1066 1158
+type(
+  int list
+)
+"esami/luglio2019.ml" 30 1066 1159 "esami/luglio2019.ml" 30 1066 1168
+type(
+  int
+)
+ident(
+  int_ref new_somma "esami/luglio2019.ml" 30 1066 1090 "esami/luglio2019.ml" 30 1066 1099
+)
+"esami/luglio2019.ml" 30 1066 1169 "esami/luglio2019.ml" 30 1066 1174
+type(
+  int ntree list
+)
+ident(
+  int_ref tlist "esami/luglio2019.ml" 30 1066 1076 "esami/luglio2019.ml" 30 1066 1081
+)
+"esami/luglio2019.ml" 30 1066 1137 "esami/luglio2019.ml" 30 1066 1174
+type(
+  int list
+)
+"esami/luglio2019.ml" 30 1066 1180 "esami/luglio2019.ml" 30 1066 1185
+type(
+  exn -> int list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/luglio2019.ml" 30 1066 1186 "esami/luglio2019.ml" 30 1066 1194
 type(
   exn
 )
-"esami/luglio2019.ml" 44 1197 1237 "esami/luglio2019.ml" 44 1197 1248
+"esami/luglio2019.ml" 30 1066 1180 "esami/luglio2019.ml" 30 1066 1194
 type(
-  int -> int ntree list -> int list
+  int list
+)
+"esami/luglio2019.ml" 30 1066 1115 "esami/luglio2019.ml" 30 1066 1194
+type(
+  int list
+)
+"esami/luglio2019.ml" 30 1066 1086 "esami/luglio2019.ml" 30 1066 1194
+type(
+  int list
+)
+"esami/luglio2019.ml" 28 929 957 "esami/luglio2019.ml" 30 1066 1194
+type(
+  int ntree -> int list
+)
+"esami/luglio2019.ml" 32 1197 1201 "esami/luglio2019.ml" 32 1197 1210
+type(
+  int list -> int -> int ntree list -> int list
 )
 ident(
-  int_ref n_ramo_list "esami/luglio2019.ml" 42 1135 1140 "esami/luglio2019.ml" 42 1135 1151
+  def from_list "esami/luglio2019.ml" 28 929 930 "esami/luglio2019.ml" 36 1339 1356
 )
-"esami/luglio2019.ml" 44 1197 1249 "esami/luglio2019.ml" 44 1197 1250
+"esami/luglio2019.ml" 32 1197 1211 "esami/luglio2019.ml" 32 1197 1217
+type(
+  int list
+)
+ident(
+  def result "esami/luglio2019.ml" 32 1197 1218 "esami/luglio2019.ml" 34 1260 1337
+)
+"esami/luglio2019.ml" 32 1197 1218 "esami/luglio2019.ml" 32 1197 1223
 type(
   int
 )
 ident(
-  int_ref n "esami/luglio2019.ml" 42 1135 1152 "esami/luglio2019.ml" 42 1135 1153
+  def somma "esami/luglio2019.ml" 32 1197 1226 "esami/luglio2019.ml" 34 1260 1337
 )
-"esami/luglio2019.ml" 44 1197 1251 "esami/luglio2019.ml" 44 1197 1255
+"esami/luglio2019.ml" 33 1236 1239 "esami/luglio2019.ml" 33 1236 1241
 type(
   int ntree list
 )
-ident(
-  int_ref rest "esami/luglio2019.ml" 44 1197 1204 "esami/luglio2019.ml" 44 1197 1208
+"esami/luglio2019.ml" 33 1236 1245 "esami/luglio2019.ml" 33 1236 1250
+type(
+  exn -> int list
 )
-"esami/luglio2019.ml" 44 1197 1237 "esami/luglio2019.ml" 44 1197 1255
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/luglio2019.ml" 33 1236 1251 "esami/luglio2019.ml" 33 1236 1259
+type(
+  exn
+)
+"esami/luglio2019.ml" 33 1236 1245 "esami/luglio2019.ml" 33 1236 1259
 type(
   int list
 )
-"esami/luglio2019.ml" 44 1197 1212 "esami/luglio2019.ml" 44 1197 1255
-type(
-  int list
-)
-"esami/luglio2019.ml" 42 1135 1156 "esami/luglio2019.ml" 44 1197 1255
-type(
-  int ntree list -> int list
-)
-"esami/luglio2019.ml" 46 1266 1266 "esami/luglio2019.ml" 46 1266 1272
-type(
-  int -> int ntree -> int list
-)
-ident(
-  int_ref n_ramo "esami/luglio2019.ml" 38 967 975 "esami/luglio2019.ml" 38 967 981
-)
-"esami/luglio2019.ml" 46 1266 1273 "esami/luglio2019.ml" 46 1266 1275
-type(
-  int
-)
-"esami/luglio2019.ml" 46 1266 1276 "esami/luglio2019.ml" 46 1266 1284
+"esami/luglio2019.ml" 34 1260 1263 "esami/luglio2019.ml" 34 1260 1264
 type(
   int ntree
 )
 ident(
-  int_ref albero_n "esami/luglio2019.ml" 34 814 818 "esami/luglio2019.ml" 34 814 826
+  def t "esami/luglio2019.ml" 34 1260 1272 "esami/luglio2019.ml" 34 1260 1337
 )
-"esami/luglio2019.ml" 46 1266 1266 "esami/luglio2019.ml" 46 1266 1284
+"esami/luglio2019.ml" 34 1260 1266 "esami/luglio2019.ml" 34 1260 1268
+type(
+  int ntree list
+)
+ident(
+  def ts "esami/luglio2019.ml" 34 1260 1272 "esami/luglio2019.ml" 34 1260 1337
+)
+"esami/luglio2019.ml" 34 1260 1263 "esami/luglio2019.ml" 34 1260 1268
+type(
+  int ntree list
+)
+"esami/luglio2019.ml" 34 1260 1276 "esami/luglio2019.ml" 34 1260 1279
+type(
+  int list -> int -> int ntree -> int list
+)
+ident(
+  int_ref aux "esami/luglio2019.ml" 28 929 938 "esami/luglio2019.ml" 28 929 941
+)
+"esami/luglio2019.ml" 34 1260 1280 "esami/luglio2019.ml" 34 1260 1286
+type(
+  int list
+)
+ident(
+  int_ref result "esami/luglio2019.ml" 32 1197 1211 "esami/luglio2019.ml" 32 1197 1217
+)
+"esami/luglio2019.ml" 34 1260 1287 "esami/luglio2019.ml" 34 1260 1292
+type(
+  int
+)
+ident(
+  int_ref somma "esami/luglio2019.ml" 32 1197 1218 "esami/luglio2019.ml" 32 1197 1223
+)
+"esami/luglio2019.ml" 34 1260 1293 "esami/luglio2019.ml" 34 1260 1294
+type(
+  int ntree
+)
+ident(
+  int_ref t "esami/luglio2019.ml" 34 1260 1263 "esami/luglio2019.ml" 34 1260 1264
+)
+"esami/luglio2019.ml" 34 1260 1276 "esami/luglio2019.ml" 34 1260 1294
+type(
+  int list
+)
+"esami/luglio2019.ml" 34 1260 1300 "esami/luglio2019.ml" 34 1260 1308
+type(
+  exn
+)
+"esami/luglio2019.ml" 34 1260 1312 "esami/luglio2019.ml" 34 1260 1321
+type(
+  int list -> int -> int ntree list -> int list
+)
+ident(
+  int_ref from_list "esami/luglio2019.ml" 32 1197 1201 "esami/luglio2019.ml" 32 1197 1210
+)
+"esami/luglio2019.ml" 34 1260 1322 "esami/luglio2019.ml" 34 1260 1328
+type(
+  int list
+)
+ident(
+  int_ref result "esami/luglio2019.ml" 32 1197 1211 "esami/luglio2019.ml" 32 1197 1217
+)
+"esami/luglio2019.ml" 34 1260 1329 "esami/luglio2019.ml" 34 1260 1334
+type(
+  int
+)
+ident(
+  int_ref somma "esami/luglio2019.ml" 32 1197 1218 "esami/luglio2019.ml" 32 1197 1223
+)
+"esami/luglio2019.ml" 34 1260 1335 "esami/luglio2019.ml" 34 1260 1337
+type(
+  int ntree list
+)
+ident(
+  int_ref ts "esami/luglio2019.ml" 34 1260 1266 "esami/luglio2019.ml" 34 1260 1268
+)
+"esami/luglio2019.ml" 34 1260 1312 "esami/luglio2019.ml" 34 1260 1337
+type(
+  int list
+)
+"esami/luglio2019.ml" 34 1260 1272 "esami/luglio2019.ml" 34 1260 1337
+type(
+  int list
+)
+"esami/luglio2019.ml" 32 1197 1226 "esami/luglio2019.ml" 34 1260 1337
+type(
+  int ntree list -> int list
+)
+"esami/luglio2019.ml" 36 1339 1342 "esami/luglio2019.ml" 36 1339 1345
+type(
+  int list -> int -> int ntree -> int list
+)
+ident(
+  int_ref aux "esami/luglio2019.ml" 28 929 938 "esami/luglio2019.ml" 28 929 941
+)
+"esami/luglio2019.ml" 36 1339 1346 "esami/luglio2019.ml" 36 1339 1348
+type(
+  int list
+)
+"esami/luglio2019.ml" 36 1339 1349 "esami/luglio2019.ml" 36 1339 1350
+type(
+  int
+)
+"esami/luglio2019.ml" 36 1339 1351 "esami/luglio2019.ml" 36 1339 1356
+type(
+  int ntree
+)
+ident(
+  int_ref ntree "esami/luglio2019.ml" 27 907 920 "esami/luglio2019.ml" 27 907 925
+)
+"esami/luglio2019.ml" 36 1339 1342 "esami/luglio2019.ml" 36 1339 1356
+type(
+  int list
+)
+"esami/luglio2019.ml" 28 929 930 "esami/luglio2019.ml" 36 1339 1356
+type(
+  int list
+)
+"esami/luglio2019.ml" 38 1360 1360 "esami/luglio2019.ml" 38 1360 1366
+type(
+  int -> int ntree -> int list
+)
+ident(
+  int_ref n_ramo "esami/luglio2019.ml" 27 907 911 "esami/luglio2019.ml" 27 907 917
+)
+"esami/luglio2019.ml" 38 1360 1367 "esami/luglio2019.ml" 38 1360 1369
+type(
+  int
+)
+"esami/luglio2019.ml" 38 1360 1370 "esami/luglio2019.ml" 38 1360 1375
+type(
+  int ntree
+)
+ident(
+  int_ref ntree "esami/luglio2019.ml" 22 717 721 "esami/luglio2019.ml" 22 717 726
+)
+"esami/luglio2019.ml" 38 1360 1360 "esami/luglio2019.ml" 38 1360 1375
 type(
   int list
 )

@@ -1,0 +1,199 @@
+"esami/tmp2/febbraio2018.ml" 4 68 72 "esami/tmp2/febbraio2018.ml" 4 68 77
+type(
+  (char * char) list
+)
+ident(
+  def grafo "esami/tmp2/febbraio2018.ml" 6 187 187 "esami/tmp2/febbraio2018.ml" 0 0 -1
+)
+"esami/tmp2/febbraio2018.ml" 4 68 82 "esami/tmp2/febbraio2018.ml" 4 68 85
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 86 "esami/tmp2/febbraio2018.ml" 4 68 89
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 81 "esami/tmp2/febbraio2018.ml" 4 68 90
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 93 "esami/tmp2/febbraio2018.ml" 4 68 96
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 98 "esami/tmp2/febbraio2018.ml" 4 68 101
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 92 "esami/tmp2/febbraio2018.ml" 4 68 102
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 105 "esami/tmp2/febbraio2018.ml" 4 68 108
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 110 "esami/tmp2/febbraio2018.ml" 4 68 113
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 104 "esami/tmp2/febbraio2018.ml" 4 68 114
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 117 "esami/tmp2/febbraio2018.ml" 4 68 120
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 122 "esami/tmp2/febbraio2018.ml" 4 68 125
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 116 "esami/tmp2/febbraio2018.ml" 4 68 126
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 129 "esami/tmp2/febbraio2018.ml" 4 68 132
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 133 "esami/tmp2/febbraio2018.ml" 4 68 136
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 128 "esami/tmp2/febbraio2018.ml" 4 68 137
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 140 "esami/tmp2/febbraio2018.ml" 4 68 143
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 144 "esami/tmp2/febbraio2018.ml" 4 68 147
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 139 "esami/tmp2/febbraio2018.ml" 4 68 148
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 151 "esami/tmp2/febbraio2018.ml" 4 68 154
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 155 "esami/tmp2/febbraio2018.ml" 4 68 158
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 150 "esami/tmp2/febbraio2018.ml" 4 68 159
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 162 "esami/tmp2/febbraio2018.ml" 4 68 165
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 166 "esami/tmp2/febbraio2018.ml" 4 68 169
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 161 "esami/tmp2/febbraio2018.ml" 4 68 170
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 173 "esami/tmp2/febbraio2018.ml" 4 68 176
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 178 "esami/tmp2/febbraio2018.ml" 4 68 181
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 172 "esami/tmp2/febbraio2018.ml" 4 68 182
+type(
+  char * char
+)
+"esami/tmp2/febbraio2018.ml" 4 68 80 "esami/tmp2/febbraio2018.ml" 4 68 183
+type(
+  (char * char) list
+)
+"esami/tmp2/febbraio2018.ml" 6 187 191 "esami/tmp2/febbraio2018.ml" 6 187 197
+type(
+  (char * int) list
+)
+ident(
+  def wallet "esami/tmp2/febbraio2018.ml" 10 284 284 "esami/tmp2/febbraio2018.ml" 0 0 -1
+)
+"esami/tmp2/febbraio2018.ml" 7 200 202 "esami/tmp2/febbraio2018.ml" 7 200 205
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 7 200 206 "esami/tmp2/febbraio2018.ml" 7 200 208
+type(
+  int
+)
+"esami/tmp2/febbraio2018.ml" 7 200 201 "esami/tmp2/febbraio2018.ml" 7 200 209
+type(
+  char * int
+)
+"esami/tmp2/febbraio2018.ml" 7 200 211 "esami/tmp2/febbraio2018.ml" 7 200 214
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 7 200 215 "esami/tmp2/febbraio2018.ml" 7 200 218
+type(
+  int
+)
+"esami/tmp2/febbraio2018.ml" 7 200 210 "esami/tmp2/febbraio2018.ml" 7 200 219
+type(
+  char * int
+)
+"esami/tmp2/febbraio2018.ml" 7 200 221 "esami/tmp2/febbraio2018.ml" 7 200 224
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 7 200 225 "esami/tmp2/febbraio2018.ml" 7 200 226
+type(
+  int
+)
+"esami/tmp2/febbraio2018.ml" 7 200 220 "esami/tmp2/febbraio2018.ml" 7 200 227
+type(
+  char * int
+)
+"esami/tmp2/febbraio2018.ml" 7 200 229 "esami/tmp2/febbraio2018.ml" 7 200 232
+type(
+  char
+)
+"esami/tmp2/febbraio2018.ml" 7 200 233 "esami/tmp2/febbraio2018.ml" 7 200 235
+type(
+  int
+)
+"esami/tmp2/febbraio2018.ml" 7 200 228 "esami/tmp2/febbraio2018.ml" 7 200 236
+type(
+  char * int
+)
+"esami/tmp2/febbraio2018.ml" 7 200 200 "esami/tmp2/febbraio2018.ml" 7 200 237
+type(
+  (char * int) list
+)
+"esami/tmp2/febbraio2018.ml" 10 284 288 "esami/tmp2/febbraio2018.ml" 10 284 300
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def getnodeprice "esami/tmp2/febbraio2018.ml" 14 406 406 "esami/tmp2/febbraio2018.ml" 0 0 -1
+)
+"esami/tmp2/febbraio2018.ml" 10 284 301 "esami/tmp2/febbraio2018.ml" 10 284 302
+type(
+  '_weak1
+)
+ident(
+  def n "esami/tmp2/febbraio2018.ml" 10 284 303 "esami/tmp2/febbraio2018.ml" 11 312 356
+)
+"esami/tmp2/febbraio2018.ml" 10 284 303 "esami/tmp2/febbraio2018.ml" 10 284 309
+type(
+  '_weak2
+)
+ident(
+  def wallet "esami/tmp2/febbraio2018.ml" 11 312 313 "esami/tmp2/febbraio2018.ml" 11 312 356
+)

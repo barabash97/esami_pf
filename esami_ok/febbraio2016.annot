@@ -3,7 +3,7 @@ type(
   (int * string * int) list
 )
 ident(
-  def grafo "esami/esami_ok/febbraio2016.ml" 9 261 261 "esami/esami_ok/febbraio2016.ml" 0 0 -1
+  def grafo "esami/esami_ok/febbraio2016.ml" 7 198 198 "esami/esami_ok/febbraio2016.ml" 0 0 -1
 )
 "esami/esami_ok/febbraio2016.ml" 3 50 64 "esami/esami_ok/febbraio2016.ml" 3 50 65
 type(
@@ -201,209 +201,209 @@ type(
 type(
   (int * string * int) list
 )
-"esami/esami_ok/febbraio2016.ml" 9 261 269 "esami/esami_ok/febbraio2016.ml" 9 261 279
+"esami/esami_ok/febbraio2016.ml" 7 198 206 "esami/esami_ok/febbraio2016.ml" 7 198 216
 type(
   'a -> ('a * 'b * 'c) list -> ('b * 'c) list
 )
 ident(
-  def successori "esami/esami_ok/febbraio2016.ml" 9 261 261 "esami/esami_ok/febbraio2016.ml" 0 0 -1
+  def successori "esami/esami_ok/febbraio2016.ml" 7 198 198 "esami/esami_ok/febbraio2016.ml" 0 0 -1
 )
-"esami/esami_ok/febbraio2016.ml" 9 261 280 "esami/esami_ok/febbraio2016.ml" 9 261 281
+"esami/esami_ok/febbraio2016.ml" 7 198 217 "esami/esami_ok/febbraio2016.ml" 7 198 218
 type(
   'a
 )
 ident(
-  def x "esami/esami_ok/febbraio2016.ml" 9 261 284 "esami/esami_ok/febbraio2016.ml" 12 363 395
+  def x "esami/esami_ok/febbraio2016.ml" 7 198 221 "esami/esami_ok/febbraio2016.ml" 11 313 346
 )
-"esami/esami_ok/febbraio2016.ml" 10 294 295 "esami/esami_ok/febbraio2016.ml" 10 294 297
+"esami/esami_ok/febbraio2016.ml" 8 230 233 "esami/esami_ok/febbraio2016.ml" 8 230 235
 type(
   ('a * 'b * 'c) list
 )
-"esami/esami_ok/febbraio2016.ml" 10 294 301 "esami/esami_ok/febbraio2016.ml" 10 294 303
+"esami/esami_ok/febbraio2016.ml" 8 230 239 "esami/esami_ok/febbraio2016.ml" 8 230 241
 type(
   ('b * 'c) list
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 308 "esami/esami_ok/febbraio2016.ml" 11 304 309
+"esami/esami_ok/febbraio2016.ml" 9 242 246 "esami/esami_ok/febbraio2016.ml" 9 242 247
 type(
   'a
 )
 ident(
-  def a "esami/esami_ok/febbraio2016.ml" 11 304 324 "esami/esami_ok/febbraio2016.ml" 12 363 395
+  def a "esami/esami_ok/febbraio2016.ml" 9 242 262 "esami/esami_ok/febbraio2016.ml" 11 313 346
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 310 "esami/esami_ok/febbraio2016.ml" 11 304 311
+"esami/esami_ok/febbraio2016.ml" 9 242 248 "esami/esami_ok/febbraio2016.ml" 9 242 249
 type(
   'b
 )
 ident(
-  def v "esami/esami_ok/febbraio2016.ml" 11 304 324 "esami/esami_ok/febbraio2016.ml" 12 363 395
+  def e "esami/esami_ok/febbraio2016.ml" 9 242 262 "esami/esami_ok/febbraio2016.ml" 11 313 346
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 312 "esami/esami_ok/febbraio2016.ml" 11 304 313
+"esami/esami_ok/febbraio2016.ml" 9 242 250 "esami/esami_ok/febbraio2016.ml" 9 242 251
 type(
   'c
 )
 ident(
-  def b "esami/esami_ok/febbraio2016.ml" 11 304 324 "esami/esami_ok/febbraio2016.ml" 12 363 395
+  def b "esami/esami_ok/febbraio2016.ml" 9 242 262 "esami/esami_ok/febbraio2016.ml" 11 313 346
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 307 "esami/esami_ok/febbraio2016.ml" 11 304 314
+"esami/esami_ok/febbraio2016.ml" 9 242 245 "esami/esami_ok/febbraio2016.ml" 9 242 252
 type(
   'a * 'b * 'c
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 316 "esami/esami_ok/febbraio2016.ml" 11 304 320
+"esami/esami_ok/febbraio2016.ml" 9 242 254 "esami/esami_ok/febbraio2016.ml" 9 242 258
 type(
   ('a * 'b * 'c) list
 )
 ident(
-  def rest "esami/esami_ok/febbraio2016.ml" 11 304 324 "esami/esami_ok/febbraio2016.ml" 12 363 395
+  def rest "esami/esami_ok/febbraio2016.ml" 9 242 262 "esami/esami_ok/febbraio2016.ml" 11 313 346
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 307 "esami/esami_ok/febbraio2016.ml" 11 304 320
+"esami/esami_ok/febbraio2016.ml" 9 242 245 "esami/esami_ok/febbraio2016.ml" 9 242 258
 type(
   ('a * 'b * 'c) list
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 327 "esami/esami_ok/febbraio2016.ml" 11 304 328
+"esami/esami_ok/febbraio2016.ml" 9 242 265 "esami/esami_ok/febbraio2016.ml" 9 242 266
 type(
   'a
 )
 ident(
-  int_ref a "esami/esami_ok/febbraio2016.ml" 11 304 308 "esami/esami_ok/febbraio2016.ml" 11 304 309
+  int_ref a "esami/esami_ok/febbraio2016.ml" 9 242 246 "esami/esami_ok/febbraio2016.ml" 9 242 247
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 329 "esami/esami_ok/febbraio2016.ml" 11 304 330
+"esami/esami_ok/febbraio2016.ml" 9 242 267 "esami/esami_ok/febbraio2016.ml" 9 242 268
 type(
   'a -> 'a -> bool
 )
 ident(
   int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 331 "esami/esami_ok/febbraio2016.ml" 11 304 332
+"esami/esami_ok/febbraio2016.ml" 9 242 269 "esami/esami_ok/febbraio2016.ml" 9 242 270
 type(
   'a
 )
 ident(
-  int_ref x "esami/esami_ok/febbraio2016.ml" 9 261 280 "esami/esami_ok/febbraio2016.ml" 9 261 281
+  int_ref x "esami/esami_ok/febbraio2016.ml" 7 198 217 "esami/esami_ok/febbraio2016.ml" 7 198 218
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 327 "esami/esami_ok/febbraio2016.ml" 11 304 332
+"esami/esami_ok/febbraio2016.ml" 9 242 265 "esami/esami_ok/febbraio2016.ml" 9 242 270
 type(
   bool
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 339 "esami/esami_ok/febbraio2016.ml" 11 304 340
+"esami/esami_ok/febbraio2016.ml" 9 242 277 "esami/esami_ok/febbraio2016.ml" 9 242 278
 type(
   'b
 )
 ident(
-  int_ref v "esami/esami_ok/febbraio2016.ml" 11 304 310 "esami/esami_ok/febbraio2016.ml" 11 304 311
+  int_ref e "esami/esami_ok/febbraio2016.ml" 9 242 248 "esami/esami_ok/febbraio2016.ml" 9 242 249
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 341 "esami/esami_ok/febbraio2016.ml" 11 304 342
+"esami/esami_ok/febbraio2016.ml" 9 242 279 "esami/esami_ok/febbraio2016.ml" 9 242 280
 type(
   'c
 )
 ident(
-  int_ref b "esami/esami_ok/febbraio2016.ml" 11 304 312 "esami/esami_ok/febbraio2016.ml" 11 304 313
+  int_ref b "esami/esami_ok/febbraio2016.ml" 9 242 250 "esami/esami_ok/febbraio2016.ml" 9 242 251
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 338 "esami/esami_ok/febbraio2016.ml" 11 304 343
+"esami/esami_ok/febbraio2016.ml" 9 242 276 "esami/esami_ok/febbraio2016.ml" 9 242 281
 type(
   'b * 'c
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 345 "esami/esami_ok/febbraio2016.ml" 11 304 355
+"esami/esami_ok/febbraio2016.ml" 9 242 283 "esami/esami_ok/febbraio2016.ml" 9 242 293
 type(
   'a -> ('a * 'b * 'c) list -> ('b * 'c) list
 )
 ident(
-  int_ref successori "esami/esami_ok/febbraio2016.ml" 9 261 269 "esami/esami_ok/febbraio2016.ml" 9 261 279
+  int_ref successori "esami/esami_ok/febbraio2016.ml" 7 198 206 "esami/esami_ok/febbraio2016.ml" 7 198 216
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 356 "esami/esami_ok/febbraio2016.ml" 11 304 357
+"esami/esami_ok/febbraio2016.ml" 9 242 294 "esami/esami_ok/febbraio2016.ml" 9 242 295
 type(
   'a
 )
 ident(
-  int_ref x "esami/esami_ok/febbraio2016.ml" 9 261 280 "esami/esami_ok/febbraio2016.ml" 9 261 281
+  int_ref x "esami/esami_ok/febbraio2016.ml" 7 198 217 "esami/esami_ok/febbraio2016.ml" 7 198 218
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 358 "esami/esami_ok/febbraio2016.ml" 11 304 362
+"esami/esami_ok/febbraio2016.ml" 9 242 296 "esami/esami_ok/febbraio2016.ml" 9 242 300
 type(
   ('a * 'b * 'c) list
 )
 ident(
-  int_ref rest "esami/esami_ok/febbraio2016.ml" 11 304 316 "esami/esami_ok/febbraio2016.ml" 11 304 320
+  int_ref rest "esami/esami_ok/febbraio2016.ml" 9 242 254 "esami/esami_ok/febbraio2016.ml" 9 242 258
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 345 "esami/esami_ok/febbraio2016.ml" 11 304 362
+"esami/esami_ok/febbraio2016.ml" 9 242 283 "esami/esami_ok/febbraio2016.ml" 9 242 300
 type(
   ('b * 'c) list
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 338 "esami/esami_ok/febbraio2016.ml" 11 304 362
+"esami/esami_ok/febbraio2016.ml" 9 242 276 "esami/esami_ok/febbraio2016.ml" 9 242 300
 type(
   ('b * 'c) list
 )
-"esami/esami_ok/febbraio2016.ml" 12 363 378 "esami/esami_ok/febbraio2016.ml" 12 363 388
+"esami/esami_ok/febbraio2016.ml" 11 313 329 "esami/esami_ok/febbraio2016.ml" 11 313 339
 type(
   'a -> ('a * 'b * 'c) list -> ('b * 'c) list
 )
 ident(
-  int_ref successori "esami/esami_ok/febbraio2016.ml" 9 261 269 "esami/esami_ok/febbraio2016.ml" 9 261 279
+  int_ref successori "esami/esami_ok/febbraio2016.ml" 7 198 206 "esami/esami_ok/febbraio2016.ml" 7 198 216
 )
-"esami/esami_ok/febbraio2016.ml" 12 363 389 "esami/esami_ok/febbraio2016.ml" 12 363 390
+"esami/esami_ok/febbraio2016.ml" 11 313 340 "esami/esami_ok/febbraio2016.ml" 11 313 341
 type(
   'a
 )
 ident(
-  int_ref x "esami/esami_ok/febbraio2016.ml" 9 261 280 "esami/esami_ok/febbraio2016.ml" 9 261 281
+  int_ref x "esami/esami_ok/febbraio2016.ml" 7 198 217 "esami/esami_ok/febbraio2016.ml" 7 198 218
 )
-"esami/esami_ok/febbraio2016.ml" 12 363 391 "esami/esami_ok/febbraio2016.ml" 12 363 395
+"esami/esami_ok/febbraio2016.ml" 11 313 342 "esami/esami_ok/febbraio2016.ml" 11 313 346
 type(
   ('a * 'b * 'c) list
 )
 ident(
-  int_ref rest "esami/esami_ok/febbraio2016.ml" 11 304 316 "esami/esami_ok/febbraio2016.ml" 11 304 320
+  int_ref rest "esami/esami_ok/febbraio2016.ml" 9 242 254 "esami/esami_ok/febbraio2016.ml" 9 242 258
 )
-"esami/esami_ok/febbraio2016.ml" 12 363 378 "esami/esami_ok/febbraio2016.ml" 12 363 395
+"esami/esami_ok/febbraio2016.ml" 11 313 329 "esami/esami_ok/febbraio2016.ml" 11 313 346
 type(
   ('b * 'c) list
 )
-"esami/esami_ok/febbraio2016.ml" 11 304 324 "esami/esami_ok/febbraio2016.ml" 12 363 395
+"esami/esami_ok/febbraio2016.ml" 9 242 262 "esami/esami_ok/febbraio2016.ml" 11 313 346
 type(
   ('b * 'c) list
 )
-"esami/esami_ok/febbraio2016.ml" 9 261 284 "esami/esami_ok/febbraio2016.ml" 12 363 395
+"esami/esami_ok/febbraio2016.ml" 7 198 221 "esami/esami_ok/febbraio2016.ml" 11 313 346
 type(
   ('a * 'b * 'c) list -> ('b * 'c) list
 )
-"esami/esami_ok/febbraio2016.ml" 14 399 399 "esami/esami_ok/febbraio2016.ml" 14 399 409
+"esami/esami_ok/febbraio2016.ml" 13 350 350 "esami/esami_ok/febbraio2016.ml" 13 350 360
 type(
   int -> (int * string * int) list -> (string * int) list
 )
 ident(
-  int_ref successori "esami/esami_ok/febbraio2016.ml" 9 261 269 "esami/esami_ok/febbraio2016.ml" 9 261 279
+  int_ref successori "esami/esami_ok/febbraio2016.ml" 7 198 206 "esami/esami_ok/febbraio2016.ml" 7 198 216
 )
-"esami/esami_ok/febbraio2016.ml" 14 399 410 "esami/esami_ok/febbraio2016.ml" 14 399 411
+"esami/esami_ok/febbraio2016.ml" 13 350 361 "esami/esami_ok/febbraio2016.ml" 13 350 362
 type(
   int
 )
-"esami/esami_ok/febbraio2016.ml" 14 399 412 "esami/esami_ok/febbraio2016.ml" 14 399 417
+"esami/esami_ok/febbraio2016.ml" 13 350 363 "esami/esami_ok/febbraio2016.ml" 13 350 368
 type(
   (int * string * int) list
 )
 ident(
   int_ref grafo "esami/esami_ok/febbraio2016.ml" 3 50 54 "esami/esami_ok/febbraio2016.ml" 3 50 59
 )
-"esami/esami_ok/febbraio2016.ml" 14 399 399 "esami/esami_ok/febbraio2016.ml" 14 399 417
+"esami/esami_ok/febbraio2016.ml" 13 350 350 "esami/esami_ok/febbraio2016.ml" 13 350 368
 type(
   (string * int) list
 )
-"esami/esami_ok/febbraio2016.ml" 17 460 468 "esami/esami_ok/febbraio2016.ml" 17 460 474
+"esami/esami_ok/febbraio2016.ml" 15 373 377 "esami/esami_ok/febbraio2016.ml" 15 373 383
 type(
   '_weak1 -> '_weak2 -> '_weak3
 )
 ident(
-  def addset "esami/esami_ok/febbraio2016.ml" 17 460 460 "esami/esami_ok/febbraio2016.ml" 0 0 -1
+  def addset "esami/esami_ok/febbraio2016.ml" 18 436 436 "esami/esami_ok/febbraio2016.ml" 0 0 -1
 )
-"esami/esami_ok/febbraio2016.ml" 17 460 475 "esami/esami_ok/febbraio2016.ml" 17 460 476
+"esami/esami_ok/febbraio2016.ml" 15 373 384 "esami/esami_ok/febbraio2016.ml" 15 373 385
 type(
   '_weak1
 )
 ident(
-  def x "esami/esami_ok/febbraio2016.ml" 17 460 477 "esami/esami_ok/febbraio2016.ml" 18 483 522
+  def x "esami/esami_ok/febbraio2016.ml" 15 373 386 "esami/esami_ok/febbraio2016.ml" 16 393 432
 )
-"esami/esami_ok/febbraio2016.ml" 17 460 477 "esami/esami_ok/febbraio2016.ml" 17 460 480
+"esami/esami_ok/febbraio2016.ml" 15 373 386 "esami/esami_ok/febbraio2016.ml" 15 373 389
 type(
   '_weak2
 )
 ident(
-  def lst "esami/esami_ok/febbraio2016.ml" 18 483 484 "esami/esami_ok/febbraio2016.ml" 18 483 522
+  def lst "esami/esami_ok/febbraio2016.ml" 16 393 394 "esami/esami_ok/febbraio2016.ml" 16 393 432
 )

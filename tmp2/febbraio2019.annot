@@ -1,0 +1,92 @@
+"esami/tmp2/febbraio2019.ml" 3 39 43 "esami/tmp2/febbraio2019.ml" 3 39 47
+type(
+  (int * color) list
+)
+ident(
+  def cols "esami/tmp2/febbraio2019.ml" 6 109 109 "esami/tmp2/febbraio2019.ml" 0 0 -1
+)
+"esami/tmp2/febbraio2019.ml" 3 39 52 "esami/tmp2/febbraio2019.ml" 3 39 53
+type(
+  int
+)
+"esami/tmp2/febbraio2019.ml" 3 39 54 "esami/tmp2/febbraio2019.ml" 3 39 59
+type(
+  color
+)
+"esami/tmp2/febbraio2019.ml" 3 39 51 "esami/tmp2/febbraio2019.ml" 3 39 60
+type(
+  int * color
+)
+"esami/tmp2/febbraio2019.ml" 3 39 63 "esami/tmp2/febbraio2019.ml" 3 39 64
+type(
+  int
+)
+"esami/tmp2/febbraio2019.ml" 3 39 65 "esami/tmp2/febbraio2019.ml" 3 39 70
+type(
+  color
+)
+"esami/tmp2/febbraio2019.ml" 3 39 62 "esami/tmp2/febbraio2019.ml" 3 39 71
+type(
+  int * color
+)
+"esami/tmp2/febbraio2019.ml" 3 39 74 "esami/tmp2/febbraio2019.ml" 3 39 75
+type(
+  int
+)
+"esami/tmp2/febbraio2019.ml" 3 39 76 "esami/tmp2/febbraio2019.ml" 3 39 81
+type(
+  color
+)
+"esami/tmp2/febbraio2019.ml" 3 39 73 "esami/tmp2/febbraio2019.ml" 3 39 82
+type(
+  int * color
+)
+"esami/tmp2/febbraio2019.ml" 4 84 85 "esami/tmp2/febbraio2019.ml" 4 84 86
+type(
+  int
+)
+"esami/tmp2/febbraio2019.ml" 4 84 87 "esami/tmp2/febbraio2019.ml" 4 84 92
+type(
+  color
+)
+"esami/tmp2/febbraio2019.ml" 4 84 84 "esami/tmp2/febbraio2019.ml" 4 84 93
+type(
+  int * color
+)
+"esami/tmp2/febbraio2019.ml" 4 84 96 "esami/tmp2/febbraio2019.ml" 4 84 97
+type(
+  int
+)
+"esami/tmp2/febbraio2019.ml" 4 84 98 "esami/tmp2/febbraio2019.ml" 4 84 103
+type(
+  color
+)
+"esami/tmp2/febbraio2019.ml" 4 84 95 "esami/tmp2/febbraio2019.ml" 4 84 104
+type(
+  int * color
+)
+"esami/tmp2/febbraio2019.ml" 3 39 50 "esami/tmp2/febbraio2019.ml" 4 84 105
+type(
+  (int * color) list
+)
+"esami/tmp2/febbraio2019.ml" 6 109 113 "esami/tmp2/febbraio2019.ml" 6 109 121
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def getcolor "esami/tmp2/febbraio2019.ml" 10 175 175 "esami/tmp2/febbraio2019.ml" 0 0 -1
+)
+"esami/tmp2/febbraio2019.ml" 6 109 122 "esami/tmp2/febbraio2019.ml" 6 109 123
+type(
+  '_weak1
+)
+ident(
+  def c "esami/tmp2/febbraio2019.ml" 6 109 124 "esami/tmp2/febbraio2019.ml" 8 154 171
+)
+"esami/tmp2/febbraio2019.ml" 6 109 124 "esami/tmp2/febbraio2019.ml" 6 109 127
+type(
+  '_weak2
+)
+ident(
+  def lst "esami/tmp2/febbraio2019.ml" 7 131 132 "esami/tmp2/febbraio2019.ml" 8 154 171
+)

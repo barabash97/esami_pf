@@ -34,6 +34,8 @@ let rec successori nodo = function
     else successori nodo rest;;
 
 exception NotFound;;
+
+(* safe_path: 'a graph - 'a money -> 'a -> 'a -> 'a -> 'a list *)
 let safe_path g wallet start goal init = 
 	let rec from_node visited nodo cwallet = 
 		if List.mem nodo visited then failwith "from_node"

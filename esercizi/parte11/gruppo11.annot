@@ -1,0 +1,1044 @@
+"esami/esercizi/parte11/gruppo11.ml" 9 127 135 "esami/esercizi/parte11/gruppo11.ml" 9 127 146
+type(
+  form -> int
+)
+ident(
+  def complessita "esami/esercizi/parte11/gruppo11.ml" 9 127 127 "esami/esercizi/parte11/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/parte11/gruppo11.ml" 10 159 166 "esami/esercizi/parte11/gruppo11.ml" 10 159 167
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 10 159 171 "esami/esercizi/parte11/gruppo11.ml" 10 159 188
+)
+"esami/esercizi/parte11/gruppo11.ml" 10 159 162 "esami/esercizi/parte11/gruppo11.ml" 10 159 167
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 10 159 171 "esami/esercizi/parte11/gruppo11.ml" 10 159 172
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 10 159 173 "esami/esercizi/parte11/gruppo11.ml" 10 159 174
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esercizi/parte11/gruppo11.ml" 10 159 175 "esami/esercizi/parte11/gruppo11.ml" 10 159 186
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "esami/esercizi/parte11/gruppo11.ml" 9 127 135 "esami/esercizi/parte11/gruppo11.ml" 9 127 146
+)
+"esami/esercizi/parte11/gruppo11.ml" 10 159 187 "esami/esercizi/parte11/gruppo11.ml" 10 159 188
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 10 159 166 "esami/esercizi/parte11/gruppo11.ml" 10 159 167
+)
+"esami/esercizi/parte11/gruppo11.ml" 10 159 175 "esami/esercizi/parte11/gruppo11.ml" 10 159 188
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 10 159 171 "esami/esercizi/parte11/gruppo11.ml" 10 159 188
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 196 "esami/esercizi/parte11/gruppo11.ml" 11 189 197
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 198 "esami/esercizi/parte11/gruppo11.ml" 11 189 199
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 192 "esami/esercizi/parte11/gruppo11.ml" 11 189 200
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 206 "esami/esercizi/parte11/gruppo11.ml" 11 189 207
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 208 "esami/esercizi/parte11/gruppo11.ml" 11 189 209
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 203 "esami/esercizi/parte11/gruppo11.ml" 11 189 210
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 192 "esami/esercizi/parte11/gruppo11.ml" 11 189 210
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 217 "esami/esercizi/parte11/gruppo11.ml" 11 189 218
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 219 "esami/esercizi/parte11/gruppo11.ml" 11 189 220
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 213 "esami/esercizi/parte11/gruppo11.ml" 11 189 221
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 192 "esami/esercizi/parte11/gruppo11.ml" 11 189 221
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 226
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 227 "esami/esercizi/parte11/gruppo11.ml" 11 189 228
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 229 "esami/esercizi/parte11/gruppo11.ml" 11 189 240
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "esami/esercizi/parte11/gruppo11.ml" 9 127 135 "esami/esercizi/parte11/gruppo11.ml" 9 127 146
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 241 "esami/esercizi/parte11/gruppo11.ml" 11 189 242
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 11 189 196 "esami/esercizi/parte11/gruppo11.ml" 11 189 197
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 229 "esami/esercizi/parte11/gruppo11.ml" 11 189 242
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 242
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 243 "esami/esercizi/parte11/gruppo11.ml" 11 189 244
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 245 "esami/esercizi/parte11/gruppo11.ml" 11 189 256
+type(
+  form -> int
+)
+ident(
+  int_ref complessita "esami/esercizi/parte11/gruppo11.ml" 9 127 135 "esami/esercizi/parte11/gruppo11.ml" 9 127 146
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 257 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/parte11/gruppo11.ml" 11 189 198 "esami/esercizi/parte11/gruppo11.ml" 11 189 199
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 245 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 11 189 225 "esami/esercizi/parte11/gruppo11.ml" 11 189 258
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 12 259 262 "esami/esercizi/parte11/gruppo11.ml" 12 259 263
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 12 259 267 "esami/esercizi/parte11/gruppo11.ml" 12 259 268
+type(
+  int
+)
+"esami/esercizi/parte11/gruppo11.ml" 9 127 149 "esami/esercizi/parte11/gruppo11.ml" 12 259 268
+type(
+  form -> int
+)
+"esami/esercizi/parte11/gruppo11.ml" 14 272 280 "esami/esercizi/parte11/gruppo11.ml" 14 272 285
+type(
+  form list -> form
+)
+ident(
+  def mkand "esami/esercizi/parte11/gruppo11.ml" 14 272 272 "esami/esercizi/parte11/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/parte11/gruppo11.ml" 15 298 301 "esami/esercizi/parte11/gruppo11.ml" 15 298 303
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 15 298 307 "esami/esercizi/parte11/gruppo11.ml" 15 298 311
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 16 312 316 "esami/esercizi/parte11/gruppo11.ml" 16 312 317
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 16 312 322 "esami/esercizi/parte11/gruppo11.ml" 16 312 323
+)
+"esami/esercizi/parte11/gruppo11.ml" 16 312 315 "esami/esercizi/parte11/gruppo11.ml" 16 312 318
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 16 312 322 "esami/esercizi/parte11/gruppo11.ml" 16 312 323
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 16 312 316 "esami/esercizi/parte11/gruppo11.ml" 16 312 317
+)
+"esami/esercizi/parte11/gruppo11.ml" 17 325 328 "esami/esercizi/parte11/gruppo11.ml" 17 325 329
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 17 325 339 "esami/esercizi/parte11/gruppo11.ml" 17 325 357
+)
+"esami/esercizi/parte11/gruppo11.ml" 17 325 331 "esami/esercizi/parte11/gruppo11.ml" 17 325 335
+type(
+  form list
+)
+ident(
+  def rest "esami/esercizi/parte11/gruppo11.ml" 17 325 339 "esami/esercizi/parte11/gruppo11.ml" 17 325 357
+)
+"esami/esercizi/parte11/gruppo11.ml" 17 325 328 "esami/esercizi/parte11/gruppo11.ml" 17 325 335
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 17 325 343 "esami/esercizi/parte11/gruppo11.ml" 17 325 344
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 17 325 328 "esami/esercizi/parte11/gruppo11.ml" 17 325 329
+)
+"esami/esercizi/parte11/gruppo11.ml" 17 325 346 "esami/esercizi/parte11/gruppo11.ml" 17 325 351
+type(
+  form list -> form
+)
+ident(
+  int_ref mkand "esami/esercizi/parte11/gruppo11.ml" 14 272 280 "esami/esercizi/parte11/gruppo11.ml" 14 272 285
+)
+"esami/esercizi/parte11/gruppo11.ml" 17 325 352 "esami/esercizi/parte11/gruppo11.ml" 17 325 356
+type(
+  form list
+)
+ident(
+  int_ref rest "esami/esercizi/parte11/gruppo11.ml" 17 325 331 "esami/esercizi/parte11/gruppo11.ml" 17 325 335
+)
+"esami/esercizi/parte11/gruppo11.ml" 17 325 346 "esami/esercizi/parte11/gruppo11.ml" 17 325 356
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 17 325 339 "esami/esercizi/parte11/gruppo11.ml" 17 325 357
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 14 272 288 "esami/esercizi/parte11/gruppo11.ml" 17 325 357
+type(
+  form list -> form
+)
+"esami/esercizi/parte11/gruppo11.ml" 19 361 369 "esami/esercizi/parte11/gruppo11.ml" 19 361 373
+type(
+  form list -> form
+)
+ident(
+  def mkor "esami/esercizi/parte11/gruppo11.ml" 19 361 361 "esami/esercizi/parte11/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/parte11/gruppo11.ml" 20 386 389 "esami/esercizi/parte11/gruppo11.ml" 20 386 391
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 20 386 395 "esami/esercizi/parte11/gruppo11.ml" 20 386 400
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 21 402 406 "esami/esercizi/parte11/gruppo11.ml" 21 402 407
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 21 402 412 "esami/esercizi/parte11/gruppo11.ml" 21 402 413
+)
+"esami/esercizi/parte11/gruppo11.ml" 21 402 405 "esami/esercizi/parte11/gruppo11.ml" 21 402 408
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 21 402 412 "esami/esercizi/parte11/gruppo11.ml" 21 402 413
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 21 402 406 "esami/esercizi/parte11/gruppo11.ml" 21 402 407
+)
+"esami/esercizi/parte11/gruppo11.ml" 22 414 417 "esami/esercizi/parte11/gruppo11.ml" 22 414 418
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 22 414 428 "esami/esercizi/parte11/gruppo11.ml" 22 414 444
+)
+"esami/esercizi/parte11/gruppo11.ml" 22 414 420 "esami/esercizi/parte11/gruppo11.ml" 22 414 424
+type(
+  form list
+)
+ident(
+  def rest "esami/esercizi/parte11/gruppo11.ml" 22 414 428 "esami/esercizi/parte11/gruppo11.ml" 22 414 444
+)
+"esami/esercizi/parte11/gruppo11.ml" 22 414 417 "esami/esercizi/parte11/gruppo11.ml" 22 414 424
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 22 414 431 "esami/esercizi/parte11/gruppo11.ml" 22 414 432
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 22 414 417 "esami/esercizi/parte11/gruppo11.ml" 22 414 418
+)
+"esami/esercizi/parte11/gruppo11.ml" 22 414 434 "esami/esercizi/parte11/gruppo11.ml" 22 414 438
+type(
+  form list -> form
+)
+ident(
+  int_ref mkor "esami/esercizi/parte11/gruppo11.ml" 19 361 369 "esami/esercizi/parte11/gruppo11.ml" 19 361 373
+)
+"esami/esercizi/parte11/gruppo11.ml" 22 414 439 "esami/esercizi/parte11/gruppo11.ml" 22 414 443
+type(
+  form list
+)
+ident(
+  int_ref rest "esami/esercizi/parte11/gruppo11.ml" 22 414 420 "esami/esercizi/parte11/gruppo11.ml" 22 414 424
+)
+"esami/esercizi/parte11/gruppo11.ml" 22 414 434 "esami/esercizi/parte11/gruppo11.ml" 22 414 443
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 22 414 428 "esami/esercizi/parte11/gruppo11.ml" 22 414 444
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 19 361 376 "esami/esercizi/parte11/gruppo11.ml" 22 414 444
+type(
+  form list -> form
+)
+"esami/esercizi/parte11/gruppo11.ml" 24 448 456 "esami/esercizi/parte11/gruppo11.ml" 24 448 469
+type(
+  form -> form
+)
+ident(
+  def complementare "esami/esercizi/parte11/gruppo11.ml" 24 448 448 "esami/esercizi/parte11/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/parte11/gruppo11.ml" 25 481 482 "esami/esercizi/parte11/gruppo11.ml" 25 481 486
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 25 481 493 "esami/esercizi/parte11/gruppo11.ml" 25 481 498
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 25 481 489 "esami/esercizi/parte11/gruppo11.ml" 25 481 498
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 25 481 482 "esami/esercizi/parte11/gruppo11.ml" 25 481 498
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 25 481 502 "esami/esercizi/parte11/gruppo11.ml" 25 481 507
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 26 508 511 "esami/esercizi/parte11/gruppo11.ml" 26 508 516
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 26 508 523 "esami/esercizi/parte11/gruppo11.ml" 26 508 527
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 26 508 519 "esami/esercizi/parte11/gruppo11.ml" 26 508 527
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 26 508 511 "esami/esercizi/parte11/gruppo11.ml" 26 508 527
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 26 508 531 "esami/esercizi/parte11/gruppo11.ml" 26 508 535
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 27 536 544 "esami/esercizi/parte11/gruppo11.ml" 27 536 545
+type(
+  string
+)
+ident(
+  def p "esami/esercizi/parte11/gruppo11.ml" 27 536 549 "esami/esercizi/parte11/gruppo11.ml" 27 536 560
+)
+"esami/esercizi/parte11/gruppo11.ml" 27 536 539 "esami/esercizi/parte11/gruppo11.ml" 27 536 545
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 27 536 558 "esami/esercizi/parte11/gruppo11.ml" 27 536 559
+type(
+  string
+)
+ident(
+  int_ref p "esami/esercizi/parte11/gruppo11.ml" 27 536 544 "esami/esercizi/parte11/gruppo11.ml" 27 536 545
+)
+"esami/esercizi/parte11/gruppo11.ml" 27 536 552 "esami/esercizi/parte11/gruppo11.ml" 27 536 560
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 27 536 549 "esami/esercizi/parte11/gruppo11.ml" 27 536 560
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 28 561 573 "esami/esercizi/parte11/gruppo11.ml" 28 561 574
+type(
+  string
+)
+ident(
+  def p "esami/esercizi/parte11/gruppo11.ml" 28 561 579 "esami/esercizi/parte11/gruppo11.ml" 28 561 585
+)
+"esami/esercizi/parte11/gruppo11.ml" 28 561 567 "esami/esercizi/parte11/gruppo11.ml" 28 561 575
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 28 561 564 "esami/esercizi/parte11/gruppo11.ml" 28 561 575
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 28 561 584 "esami/esercizi/parte11/gruppo11.ml" 28 561 585
+type(
+  string
+)
+ident(
+  int_ref p "esami/esercizi/parte11/gruppo11.ml" 28 561 573 "esami/esercizi/parte11/gruppo11.ml" 28 561 574
+)
+"esami/esercizi/parte11/gruppo11.ml" 28 561 579 "esami/esercizi/parte11/gruppo11.ml" 28 561 585
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 29 586 589 "esami/esercizi/parte11/gruppo11.ml" 29 586 590
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 29 586 594 "esami/esercizi/parte11/gruppo11.ml" 29 586 602
+type(
+  string -> form
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/esercizi/parte11/gruppo11.ml" 29 586 603 "esami/esercizi/parte11/gruppo11.ml" 29 586 618
+type(
+  string
+)
+"esami/esercizi/parte11/gruppo11.ml" 29 586 594 "esami/esercizi/parte11/gruppo11.ml" 29 586 618
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 24 448 472 "esami/esercizi/parte11/gruppo11.ml" 29 586 618
+type(
+  form -> form
+)
+"esami/esercizi/parte11/gruppo11.ml" 32 623 631 "esami/esercizi/parte11/gruppo11.ml" 32 623 639
+type(
+  form -> bool
+)
+ident(
+  def test_nnf "esami/esercizi/parte11/gruppo11.ml" 32 623 623 "esami/esercizi/parte11/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 660 "esami/esercizi/parte11/gruppo11.ml" 33 652 661
+type(
+  string
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 655 "esami/esercizi/parte11/gruppo11.ml" 33 652 661
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 673 "esami/esercizi/parte11/gruppo11.ml" 33 652 674
+type(
+  string
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 667 "esami/esercizi/parte11/gruppo11.ml" 33 652 675
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 664 "esami/esercizi/parte11/gruppo11.ml" 33 652 675
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 655 "esami/esercizi/parte11/gruppo11.ml" 33 652 675
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 678 "esami/esercizi/parte11/gruppo11.ml" 33 652 682
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 655 "esami/esercizi/parte11/gruppo11.ml" 33 652 682
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 685 "esami/esercizi/parte11/gruppo11.ml" 33 652 690
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 655 "esami/esercizi/parte11/gruppo11.ml" 33 652 690
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 697 "esami/esercizi/parte11/gruppo11.ml" 33 652 701
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 693 "esami/esercizi/parte11/gruppo11.ml" 33 652 701
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 655 "esami/esercizi/parte11/gruppo11.ml" 33 652 701
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 708 "esami/esercizi/parte11/gruppo11.ml" 33 652 713
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 704 "esami/esercizi/parte11/gruppo11.ml" 33 652 713
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 655 "esami/esercizi/parte11/gruppo11.ml" 33 652 713
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 33 652 717 "esami/esercizi/parte11/gruppo11.ml" 33 652 721
+type(
+  bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 729 "esami/esercizi/parte11/gruppo11.ml" 34 722 730
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 34 722 747 "esami/esercizi/parte11/gruppo11.ml" 34 722 771
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 731 "esami/esercizi/parte11/gruppo11.ml" 34 722 732
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/parte11/gruppo11.ml" 34 722 747 "esami/esercizi/parte11/gruppo11.ml" 34 722 771
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 725 "esami/esercizi/parte11/gruppo11.ml" 34 722 733
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 739 "esami/esercizi/parte11/gruppo11.ml" 34 722 740
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 34 722 747 "esami/esercizi/parte11/gruppo11.ml" 34 722 771
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 741 "esami/esercizi/parte11/gruppo11.ml" 34 722 742
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/parte11/gruppo11.ml" 34 722 747 "esami/esercizi/parte11/gruppo11.ml" 34 722 771
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 736 "esami/esercizi/parte11/gruppo11.ml" 34 722 743
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 725 "esami/esercizi/parte11/gruppo11.ml" 34 722 743
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 747 "esami/esercizi/parte11/gruppo11.ml" 34 722 755
+type(
+  form -> bool
+)
+ident(
+  int_ref test_nnf "esami/esercizi/parte11/gruppo11.ml" 32 623 631 "esami/esercizi/parte11/gruppo11.ml" 32 623 639
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 756 "esami/esercizi/parte11/gruppo11.ml" 34 722 757
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 34 722 729 "esami/esercizi/parte11/gruppo11.ml" 34 722 730
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 747 "esami/esercizi/parte11/gruppo11.ml" 34 722 757
+type(
+  bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 758 "esami/esercizi/parte11/gruppo11.ml" 34 722 760
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 761 "esami/esercizi/parte11/gruppo11.ml" 34 722 769
+type(
+  form -> bool
+)
+ident(
+  int_ref test_nnf "esami/esercizi/parte11/gruppo11.ml" 32 623 631 "esami/esercizi/parte11/gruppo11.ml" 32 623 639
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 770 "esami/esercizi/parte11/gruppo11.ml" 34 722 771
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/parte11/gruppo11.ml" 34 722 731 "esami/esercizi/parte11/gruppo11.ml" 34 722 732
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 761 "esami/esercizi/parte11/gruppo11.ml" 34 722 771
+type(
+  bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 34 722 747 "esami/esercizi/parte11/gruppo11.ml" 34 722 771
+type(
+  bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 35 772 775 "esami/esercizi/parte11/gruppo11.ml" 35 772 776
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 35 772 780 "esami/esercizi/parte11/gruppo11.ml" 35 772 785
+type(
+  bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 32 623 642 "esami/esercizi/parte11/gruppo11.ml" 35 772 785
+type(
+  form -> bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 37 787 795 "esami/esercizi/parte11/gruppo11.ml" 37 787 800
+type(
+  form -> form
+)
+ident(
+  def duale "esami/esercizi/parte11/gruppo11.ml" 37 787 787 "esami/esercizi/parte11/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 820 "esami/esercizi/parte11/gruppo11.ml" 38 813 821
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 38 813 828 "esami/esercizi/parte11/gruppo11.ml" 38 813 848
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 822 "esami/esercizi/parte11/gruppo11.ml" 38 813 823
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/parte11/gruppo11.ml" 38 813 828 "esami/esercizi/parte11/gruppo11.ml" 38 813 848
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 816 "esami/esercizi/parte11/gruppo11.ml" 38 813 824
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 831 "esami/esercizi/parte11/gruppo11.ml" 38 813 836
+type(
+  form -> form
+)
+ident(
+  int_ref duale "esami/esercizi/parte11/gruppo11.ml" 37 787 795 "esami/esercizi/parte11/gruppo11.ml" 37 787 800
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 837 "esami/esercizi/parte11/gruppo11.ml" 38 813 838
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 38 813 820 "esami/esercizi/parte11/gruppo11.ml" 38 813 821
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 831 "esami/esercizi/parte11/gruppo11.ml" 38 813 838
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 840 "esami/esercizi/parte11/gruppo11.ml" 38 813 845
+type(
+  form -> form
+)
+ident(
+  int_ref duale "esami/esercizi/parte11/gruppo11.ml" 37 787 795 "esami/esercizi/parte11/gruppo11.ml" 37 787 800
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 846 "esami/esercizi/parte11/gruppo11.ml" 38 813 847
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/parte11/gruppo11.ml" 38 813 822 "esami/esercizi/parte11/gruppo11.ml" 38 813 823
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 840 "esami/esercizi/parte11/gruppo11.ml" 38 813 847
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 38 813 828 "esami/esercizi/parte11/gruppo11.ml" 38 813 848
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 855 "esami/esercizi/parte11/gruppo11.ml" 39 849 856
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 39 849 863 "esami/esercizi/parte11/gruppo11.ml" 39 849 884
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 857 "esami/esercizi/parte11/gruppo11.ml" 39 849 858
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/parte11/gruppo11.ml" 39 849 863 "esami/esercizi/parte11/gruppo11.ml" 39 849 884
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 852 "esami/esercizi/parte11/gruppo11.ml" 39 849 859
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 867 "esami/esercizi/parte11/gruppo11.ml" 39 849 872
+type(
+  form -> form
+)
+ident(
+  int_ref duale "esami/esercizi/parte11/gruppo11.ml" 37 787 795 "esami/esercizi/parte11/gruppo11.ml" 37 787 800
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 873 "esami/esercizi/parte11/gruppo11.ml" 39 849 874
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 39 849 855 "esami/esercizi/parte11/gruppo11.ml" 39 849 856
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 867 "esami/esercizi/parte11/gruppo11.ml" 39 849 874
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 876 "esami/esercizi/parte11/gruppo11.ml" 39 849 881
+type(
+  form -> form
+)
+ident(
+  int_ref duale "esami/esercizi/parte11/gruppo11.ml" 37 787 795 "esami/esercizi/parte11/gruppo11.ml" 37 787 800
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 882 "esami/esercizi/parte11/gruppo11.ml" 39 849 883
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/parte11/gruppo11.ml" 39 849 857 "esami/esercizi/parte11/gruppo11.ml" 39 849 858
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 876 "esami/esercizi/parte11/gruppo11.ml" 39 849 883
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 39 849 863 "esami/esercizi/parte11/gruppo11.ml" 39 849 884
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 888 "esami/esercizi/parte11/gruppo11.ml" 40 885 889
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 40 885 893 "esami/esercizi/parte11/gruppo11.ml" 40 885 939
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 897 "esami/esercizi/parte11/gruppo11.ml" 40 885 910
+type(
+  form -> form
+)
+ident(
+  int_ref complementare "esami/esercizi/parte11/gruppo11.ml" 24 448 456 "esami/esercizi/parte11/gruppo11.ml" 24 448 469
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 911 "esami/esercizi/parte11/gruppo11.ml" 40 885 912
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 40 885 888 "esami/esercizi/parte11/gruppo11.ml" 40 885 889
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 897 "esami/esercizi/parte11/gruppo11.ml" 40 885 912
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 918 "esami/esercizi/parte11/gruppo11.ml" 40 885 919
+type(
+  exn
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 923 "esami/esercizi/parte11/gruppo11.ml" 40 885 931
+type(
+  string -> form
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 932 "esami/esercizi/parte11/gruppo11.ml" 40 885 939
+type(
+  string
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 923 "esami/esercizi/parte11/gruppo11.ml" 40 885 939
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 40 885 893 "esami/esercizi/parte11/gruppo11.ml" 40 885 939
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 37 787 803 "esami/esercizi/parte11/gruppo11.ml" 40 885 939
+type(
+  form -> form
+)
+"esami/esercizi/parte11/gruppo11.ml" 42 943 947 "esami/esercizi/parte11/gruppo11.ml" 42 943 954
+type(
+  form -> bool
+)
+ident(
+  def literal "esami/esercizi/parte11/gruppo11.ml" 46 1054 1054 "esami/esercizi/parte11/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 970 "esami/esercizi/parte11/gruppo11.ml" 43 967 974
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 977 "esami/esercizi/parte11/gruppo11.ml" 43 967 982
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 970 "esami/esercizi/parte11/gruppo11.ml" 43 967 982
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 989 "esami/esercizi/parte11/gruppo11.ml" 43 967 993
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 985 "esami/esercizi/parte11/gruppo11.ml" 43 967 993
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 970 "esami/esercizi/parte11/gruppo11.ml" 43 967 993
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 1000 "esami/esercizi/parte11/gruppo11.ml" 43 967 1005
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 996 "esami/esercizi/parte11/gruppo11.ml" 43 967 1005
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 970 "esami/esercizi/parte11/gruppo11.ml" 43 967 1005
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 1013 "esami/esercizi/parte11/gruppo11.ml" 43 967 1014
+type(
+  string
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 1008 "esami/esercizi/parte11/gruppo11.ml" 43 967 1014
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 970 "esami/esercizi/parte11/gruppo11.ml" 43 967 1014
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 1026 "esami/esercizi/parte11/gruppo11.ml" 43 967 1027
+type(
+  string
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 1020 "esami/esercizi/parte11/gruppo11.ml" 43 967 1028
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 1017 "esami/esercizi/parte11/gruppo11.ml" 43 967 1028
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 970 "esami/esercizi/parte11/gruppo11.ml" 43 967 1028
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 43 967 1032 "esami/esercizi/parte11/gruppo11.ml" 43 967 1036
+type(
+  bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 44 1037 1040 "esami/esercizi/parte11/gruppo11.ml" 44 1037 1041
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 44 1037 1045 "esami/esercizi/parte11/gruppo11.ml" 44 1037 1050
+type(
+  bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 42 943 957 "esami/esercizi/parte11/gruppo11.ml" 44 1037 1050
+type(
+  form -> bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 46 1054 1062 "esami/esercizi/parte11/gruppo11.ml" 46 1054 1070
+type(
+  form -> form list
+)
+ident(
+  def and2list "esami/esercizi/parte11/gruppo11.ml" 46 1054 1054 "esami/esercizi/parte11/gruppo11.ml" 0 0 -1
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1090 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1091
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 47 1083 1098 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1123
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1092 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1093
+type(
+  form
+)
+ident(
+  def g "esami/esercizi/parte11/gruppo11.ml" 47 1083 1098 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1123
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1086 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1094
+type(
+  form
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1099 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1107
+type(
+  form -> form list
+)
+ident(
+  int_ref and2list "esami/esercizi/parte11/gruppo11.ml" 46 1054 1062 "esami/esercizi/parte11/gruppo11.ml" 46 1054 1070
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1108 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1109
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 47 1083 1090 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1091
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1098 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1110
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1110 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1111
+type(
+  form list -> form list -> form list
+)
+ident(
+  int_ref Stdlib.( @ ) "stdlib.mli" 785 29434 29434 "stdlib.mli" 785 29434 29475
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1112 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1120
+type(
+  form -> form list
+)
+ident(
+  int_ref and2list "esami/esercizi/parte11/gruppo11.ml" 46 1054 1062 "esami/esercizi/parte11/gruppo11.ml" 46 1054 1070
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1121 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1122
+type(
+  form
+)
+ident(
+  int_ref g "esami/esercizi/parte11/gruppo11.ml" 47 1083 1092 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1093
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1111 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1123
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 47 1083 1098 "esami/esercizi/parte11/gruppo11.ml" 47 1083 1123
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1127 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1128
+type(
+  form
+)
+ident(
+  def f "esami/esercizi/parte11/gruppo11.ml" 48 1124 1132 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1178
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1135 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1142
+type(
+  form -> bool
+)
+ident(
+  int_ref literal "esami/esercizi/parte11/gruppo11.ml" 42 943 947 "esami/esercizi/parte11/gruppo11.ml" 42 943 954
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1143 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1144
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 48 1124 1127 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1128
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1135 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1144
+type(
+  bool
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1151 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1152
+type(
+  form
+)
+ident(
+  int_ref f "esami/esercizi/parte11/gruppo11.ml" 48 1124 1127 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1128
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1150 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1153
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1159 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1167
+type(
+  string -> form list
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1168 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1178
+type(
+  string
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1159 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1178
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 48 1124 1132 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1178
+type(
+  form list
+)
+"esami/esercizi/parte11/gruppo11.ml" 46 1054 1073 "esami/esercizi/parte11/gruppo11.ml" 48 1124 1178
+type(
+  form -> form list
+)

@@ -1,0 +1,396 @@
+"esami/tmp2/settembre2019.ml" 4 65 69 "esami/tmp2/settembre2019.ml" 4 65 75
+type(
+  int treebin
+)
+ident(
+  def albero "esami/tmp2/settembre2019.ml" 7 215 215 "esami/tmp2/settembre2019.ml" 0 0 -1
+)
+"esami/tmp2/settembre2019.ml" 4 65 81 "esami/tmp2/settembre2019.ml" 4 65 82
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 4 65 87 "esami/tmp2/settembre2019.ml" 4 65 88
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 4 65 93 "esami/tmp2/settembre2019.ml" 4 65 94
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 4 65 96 "esami/tmp2/settembre2019.ml" 4 65 101
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 102 "esami/tmp2/settembre2019.ml" 4 65 107
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 90 "esami/tmp2/settembre2019.ml" 4 65 108
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 113 "esami/tmp2/settembre2019.ml" 4 65 114
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 4 65 116 "esami/tmp2/settembre2019.ml" 4 65 121
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 122 "esami/tmp2/settembre2019.ml" 4 65 127
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 110 "esami/tmp2/settembre2019.ml" 4 65 128
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 84 "esami/tmp2/settembre2019.ml" 4 65 129
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 134 "esami/tmp2/settembre2019.ml" 4 65 135
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 4 65 140 "esami/tmp2/settembre2019.ml" 4 65 141
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 4 65 142 "esami/tmp2/settembre2019.ml" 4 65 147
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 148 "esami/tmp2/settembre2019.ml" 4 65 153
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 137 "esami/tmp2/settembre2019.ml" 4 65 154
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 159 "esami/tmp2/settembre2019.ml" 4 65 160
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 4 65 161 "esami/tmp2/settembre2019.ml" 4 65 166
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 167 "esami/tmp2/settembre2019.ml" 4 65 172
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 156 "esami/tmp2/settembre2019.ml" 4 65 173
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 131 "esami/tmp2/settembre2019.ml" 4 65 174
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 4 65 78 "esami/tmp2/settembre2019.ml" 4 65 175
+type(
+  int treebin
+)
+"esami/tmp2/settembre2019.ml" 7 215 223 "esami/tmp2/settembre2019.ml" 7 215 229
+type(
+  'a treebin -> 'a list
+)
+ident(
+  def labels "esami/tmp2/settembre2019.ml" 7 215 215 "esami/tmp2/settembre2019.ml" 0 0 -1
+)
+"esami/tmp2/settembre2019.ml" 8 242 245 "esami/tmp2/settembre2019.ml" 8 242 250
+type(
+  'a treebin
+)
+"esami/tmp2/settembre2019.ml" 8 242 254 "esami/tmp2/settembre2019.ml" 8 242 256
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 9 257 263 "esami/tmp2/settembre2019.ml" 9 257 264
+type(
+  'a
+)
+ident(
+  def x "esami/tmp2/settembre2019.ml" 9 257 276 "esami/tmp2/settembre2019.ml" 9 257 304
+)
+"esami/tmp2/settembre2019.ml" 9 257 266 "esami/tmp2/settembre2019.ml" 9 257 268
+type(
+  'a treebin
+)
+ident(
+  def t1 "esami/tmp2/settembre2019.ml" 9 257 276 "esami/tmp2/settembre2019.ml" 9 257 304
+)
+"esami/tmp2/settembre2019.ml" 9 257 269 "esami/tmp2/settembre2019.ml" 9 257 271
+type(
+  'a treebin
+)
+ident(
+  def t2 "esami/tmp2/settembre2019.ml" 9 257 276 "esami/tmp2/settembre2019.ml" 9 257 304
+)
+"esami/tmp2/settembre2019.ml" 9 257 260 "esami/tmp2/settembre2019.ml" 9 257 272
+type(
+  'a treebin
+)
+"esami/tmp2/settembre2019.ml" 9 257 276 "esami/tmp2/settembre2019.ml" 9 257 277
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2019.ml" 9 257 263 "esami/tmp2/settembre2019.ml" 9 257 264
+)
+"esami/tmp2/settembre2019.ml" 9 257 281 "esami/tmp2/settembre2019.ml" 9 257 287
+type(
+  'a treebin -> 'a list
+)
+ident(
+  int_ref labels "esami/tmp2/settembre2019.ml" 7 215 223 "esami/tmp2/settembre2019.ml" 7 215 229
+)
+"esami/tmp2/settembre2019.ml" 9 257 288 "esami/tmp2/settembre2019.ml" 9 257 290
+type(
+  'a treebin
+)
+ident(
+  int_ref t1 "esami/tmp2/settembre2019.ml" 9 257 266 "esami/tmp2/settembre2019.ml" 9 257 268
+)
+"esami/tmp2/settembre2019.ml" 9 257 280 "esami/tmp2/settembre2019.ml" 9 257 291
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 9 257 291 "esami/tmp2/settembre2019.ml" 9 257 292
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.( @ ) "stdlib.mli" 785 29434 29434 "stdlib.mli" 785 29434 29475
+)
+"esami/tmp2/settembre2019.ml" 9 257 293 "esami/tmp2/settembre2019.ml" 9 257 299
+type(
+  'a treebin -> 'a list
+)
+ident(
+  int_ref labels "esami/tmp2/settembre2019.ml" 7 215 223 "esami/tmp2/settembre2019.ml" 7 215 229
+)
+"esami/tmp2/settembre2019.ml" 9 257 300 "esami/tmp2/settembre2019.ml" 9 257 302
+type(
+  'a treebin
+)
+ident(
+  int_ref t2 "esami/tmp2/settembre2019.ml" 9 257 269 "esami/tmp2/settembre2019.ml" 9 257 271
+)
+"esami/tmp2/settembre2019.ml" 9 257 292 "esami/tmp2/settembre2019.ml" 9 257 303
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 9 257 279 "esami/tmp2/settembre2019.ml" 9 257 304
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 9 257 276 "esami/tmp2/settembre2019.ml" 9 257 304
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 7 215 232 "esami/tmp2/settembre2019.ml" 9 257 304
+type(
+  'a treebin -> 'a list
+)
+"esami/tmp2/settembre2019.ml" 11 308 316 "esami/tmp2/settembre2019.ml" 11 308 327
+type(
+  'a -> 'a treebin -> 'a list
+)
+ident(
+  def discendenti "esami/tmp2/settembre2019.ml" 11 308 308 "esami/tmp2/settembre2019.ml" 0 0 -1
+)
+"esami/tmp2/settembre2019.ml" 11 308 328 "esami/tmp2/settembre2019.ml" 11 308 329
+type(
+  'a
+)
+ident(
+  def x "esami/tmp2/settembre2019.ml" 11 308 332 "esami/tmp2/settembre2019.ml" 13 356 458
+)
+"esami/tmp2/settembre2019.ml" 12 341 344 "esami/tmp2/settembre2019.ml" 12 341 349
+type(
+  'a treebin
+)
+"esami/tmp2/settembre2019.ml" 12 341 353 "esami/tmp2/settembre2019.ml" 12 341 355
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 13 356 362 "esami/tmp2/settembre2019.ml" 13 356 363
+type(
+  'a
+)
+ident(
+  def y "esami/tmp2/settembre2019.ml" 13 356 375 "esami/tmp2/settembre2019.ml" 13 356 458
+)
+"esami/tmp2/settembre2019.ml" 13 356 365 "esami/tmp2/settembre2019.ml" 13 356 367
+type(
+  'a treebin
+)
+ident(
+  def t1 "esami/tmp2/settembre2019.ml" 13 356 375 "esami/tmp2/settembre2019.ml" 13 356 458
+)
+"esami/tmp2/settembre2019.ml" 13 356 368 "esami/tmp2/settembre2019.ml" 13 356 370
+type(
+  'a treebin
+)
+ident(
+  def t2 "esami/tmp2/settembre2019.ml" 13 356 375 "esami/tmp2/settembre2019.ml" 13 356 458
+)
+"esami/tmp2/settembre2019.ml" 13 356 359 "esami/tmp2/settembre2019.ml" 13 356 371
+type(
+  'a treebin
+)
+"esami/tmp2/settembre2019.ml" 13 356 378 "esami/tmp2/settembre2019.ml" 13 356 379
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2019.ml" 11 308 328 "esami/tmp2/settembre2019.ml" 11 308 329
+)
+"esami/tmp2/settembre2019.ml" 13 356 380 "esami/tmp2/settembre2019.ml" 13 356 381
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp2/settembre2019.ml" 13 356 382 "esami/tmp2/settembre2019.ml" 13 356 383
+type(
+  'a
+)
+ident(
+  int_ref y "esami/tmp2/settembre2019.ml" 13 356 362 "esami/tmp2/settembre2019.ml" 13 356 363
+)
+"esami/tmp2/settembre2019.ml" 13 356 378 "esami/tmp2/settembre2019.ml" 13 356 383
+type(
+  bool
+)
+"esami/tmp2/settembre2019.ml" 13 356 390 "esami/tmp2/settembre2019.ml" 13 356 396
+type(
+  'a treebin -> 'a list
+)
+ident(
+  int_ref labels "esami/tmp2/settembre2019.ml" 7 215 223 "esami/tmp2/settembre2019.ml" 7 215 229
+)
+"esami/tmp2/settembre2019.ml" 13 356 401 "esami/tmp2/settembre2019.ml" 13 356 402
+type(
+  'a
+)
+ident(
+  int_ref y "esami/tmp2/settembre2019.ml" 13 356 362 "esami/tmp2/settembre2019.ml" 13 356 363
+)
+"esami/tmp2/settembre2019.ml" 13 356 403 "esami/tmp2/settembre2019.ml" 13 356 405
+type(
+  'a treebin
+)
+ident(
+  int_ref t1 "esami/tmp2/settembre2019.ml" 13 356 365 "esami/tmp2/settembre2019.ml" 13 356 367
+)
+"esami/tmp2/settembre2019.ml" 13 356 406 "esami/tmp2/settembre2019.ml" 13 356 408
+type(
+  'a treebin
+)
+ident(
+  int_ref t2 "esami/tmp2/settembre2019.ml" 13 356 368 "esami/tmp2/settembre2019.ml" 13 356 370
+)
+"esami/tmp2/settembre2019.ml" 13 356 397 "esami/tmp2/settembre2019.ml" 13 356 410
+type(
+  'a treebin
+)
+"esami/tmp2/settembre2019.ml" 13 356 389 "esami/tmp2/settembre2019.ml" 13 356 411
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 13 356 419 "esami/tmp2/settembre2019.ml" 13 356 430
+type(
+  'a -> 'a treebin -> 'a list
+)
+ident(
+  int_ref discendenti "esami/tmp2/settembre2019.ml" 11 308 316 "esami/tmp2/settembre2019.ml" 11 308 327
+)
+"esami/tmp2/settembre2019.ml" 13 356 431 "esami/tmp2/settembre2019.ml" 13 356 432
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2019.ml" 11 308 328 "esami/tmp2/settembre2019.ml" 11 308 329
+)
+"esami/tmp2/settembre2019.ml" 13 356 433 "esami/tmp2/settembre2019.ml" 13 356 435
+type(
+  'a treebin
+)
+ident(
+  int_ref t1 "esami/tmp2/settembre2019.ml" 13 356 365 "esami/tmp2/settembre2019.ml" 13 356 367
+)
+"esami/tmp2/settembre2019.ml" 13 356 418 "esami/tmp2/settembre2019.ml" 13 356 436
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 13 356 437 "esami/tmp2/settembre2019.ml" 13 356 438
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.( @ ) "stdlib.mli" 785 29434 29434 "stdlib.mli" 785 29434 29475
+)
+"esami/tmp2/settembre2019.ml" 13 356 440 "esami/tmp2/settembre2019.ml" 13 356 451
+type(
+  'a -> 'a treebin -> 'a list
+)
+ident(
+  int_ref discendenti "esami/tmp2/settembre2019.ml" 11 308 316 "esami/tmp2/settembre2019.ml" 11 308 327
+)
+"esami/tmp2/settembre2019.ml" 13 356 452 "esami/tmp2/settembre2019.ml" 13 356 453
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2019.ml" 11 308 328 "esami/tmp2/settembre2019.ml" 11 308 329
+)
+"esami/tmp2/settembre2019.ml" 13 356 454 "esami/tmp2/settembre2019.ml" 13 356 456
+type(
+  'a treebin
+)
+ident(
+  int_ref t2 "esami/tmp2/settembre2019.ml" 13 356 368 "esami/tmp2/settembre2019.ml" 13 356 370
+)
+"esami/tmp2/settembre2019.ml" 13 356 439 "esami/tmp2/settembre2019.ml" 13 356 457
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 13 356 417 "esami/tmp2/settembre2019.ml" 13 356 458
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 13 356 375 "esami/tmp2/settembre2019.ml" 13 356 458
+type(
+  'a list
+)
+"esami/tmp2/settembre2019.ml" 11 308 332 "esami/tmp2/settembre2019.ml" 13 356 458
+type(
+  'a treebin -> 'a list
+)
+"esami/tmp2/settembre2019.ml" 15 462 462 "esami/tmp2/settembre2019.ml" 15 462 473
+type(
+  int -> int treebin -> int list
+)
+ident(
+  int_ref discendenti "esami/tmp2/settembre2019.ml" 11 308 316 "esami/tmp2/settembre2019.ml" 11 308 327
+)
+"esami/tmp2/settembre2019.ml" 15 462 474 "esami/tmp2/settembre2019.ml" 15 462 475
+type(
+  int
+)
+"esami/tmp2/settembre2019.ml" 15 462 476 "esami/tmp2/settembre2019.ml" 15 462 482
+type(
+  int treebin
+)
+ident(
+  int_ref albero "esami/tmp2/settembre2019.ml" 4 65 69 "esami/tmp2/settembre2019.ml" 4 65 75
+)
+"esami/tmp2/settembre2019.ml" 15 462 462 "esami/tmp2/settembre2019.ml" 15 462 482
+type(
+  int list
+)

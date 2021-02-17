@@ -46,12 +46,10 @@ let rec successori x = function
 let sorted_path g start goal = 
 	let rec from_node visited nodo pred = 
 		if List.mem nodo visited then raise NotFound
-		else if nodo = goal then [nodo]
-		else if nodo < pred then raise NotFound else nodo::from_list (nodo::visited) nodo (successori nodo g)																																				
-		and from_list visited nodo = function 
-			 [] -> raise NotFound
-			| x::rest -> if x < nodo then raise NotFound else 
-										try from_node visited x nodo with NotFound -> from_list visited x rest
-		in start::from_list [start] start (successori start g);;		
+		else 
+			if nodo=goal then [nodo]
+			else nodo::from_list (nodo::visited) nodo (successori nodo g)
+			and from_list visited nodo = function 
+				| 	
 
 sorted_path grafo 1 4;;												

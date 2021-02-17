@@ -1,0 +1,1575 @@
+"esami/esami_ok/luglio2018.ml" 3 44 48 "esami/esami_ok/luglio2018.ml" 3 44 53
+type(
+  int ntree
+)
+ident(
+  def ntree "esami/esami_ok/luglio2018.ml" 17 383 383 "esami/esami_ok/luglio2018.ml" 0 0 -1
+)
+"esami/esami_ok/luglio2018.ml" 3 44 59 "esami/esami_ok/luglio2018.ml" 3 44 60
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 5 71 81 "esami/esami_ok/luglio2018.ml" 5 71 82
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 7 96 109 "esami/esami_ok/luglio2018.ml" 7 96 110
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 7 96 112 "esami/esami_ok/luglio2018.ml" 7 96 114
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 7 96 106 "esami/esami_ok/luglio2018.ml" 7 96 115
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 8 118 131 "esami/esami_ok/luglio2018.ml" 8 118 132
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 8 118 138 "esami/esami_ok/luglio2018.ml" 8 118 139
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 8 118 145 "esami/esami_ok/luglio2018.ml" 8 118 147
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 8 118 149 "esami/esami_ok/luglio2018.ml" 8 118 151
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 8 118 142 "esami/esami_ok/luglio2018.ml" 8 118 152
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 8 118 141 "esami/esami_ok/luglio2018.ml" 8 118 153
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 8 118 135 "esami/esami_ok/luglio2018.ml" 8 118 154
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 9 156 169 "esami/esami_ok/luglio2018.ml" 9 156 171
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 9 156 173 "esami/esami_ok/luglio2018.ml" 9 156 175
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 9 156 166 "esami/esami_ok/luglio2018.ml" 9 156 176
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 8 118 134 "esami/esami_ok/luglio2018.ml" 9 156 177
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 8 118 128 "esami/esami_ok/luglio2018.ml" 9 156 178
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 6 85 94 "esami/esami_ok/luglio2018.ml" 9 156 180
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 5 71 78 "esami/esami_ok/luglio2018.ml" 9 156 181
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 10 184 197 "esami/esami_ok/luglio2018.ml" 10 184 198
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 10 184 204 "esami/esami_ok/luglio2018.ml" 10 184 205
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 10 184 207 "esami/esami_ok/luglio2018.ml" 10 184 209
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 10 184 201 "esami/esami_ok/luglio2018.ml" 10 184 210
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 10 184 215 "esami/esami_ok/luglio2018.ml" 10 184 216
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 10 184 218 "esami/esami_ok/luglio2018.ml" 10 184 220
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 10 184 212 "esami/esami_ok/luglio2018.ml" 10 184 221
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 10 184 226 "esami/esami_ok/luglio2018.ml" 10 184 228
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 10 184 234 "esami/esami_ok/luglio2018.ml" 10 184 236
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 10 184 237 "esami/esami_ok/luglio2018.ml" 10 184 239
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 10 184 231 "esami/esami_ok/luglio2018.ml" 10 184 240
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 10 184 244 "esami/esami_ok/luglio2018.ml" 10 184 245
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 10 184 247 "esami/esami_ok/luglio2018.ml" 10 184 249
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 10 184 241 "esami/esami_ok/luglio2018.ml" 10 184 250
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 10 184 230 "esami/esami_ok/luglio2018.ml" 10 184 251
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 10 184 223 "esami/esami_ok/luglio2018.ml" 10 184 252
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 10 184 200 "esami/esami_ok/luglio2018.ml" 10 184 253
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 10 184 194 "esami/esami_ok/luglio2018.ml" 10 184 254
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 11 256 269 "esami/esami_ok/luglio2018.ml" 11 256 271
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 11 256 277 "esami/esami_ok/luglio2018.ml" 11 256 279
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 11 256 280 "esami/esami_ok/luglio2018.ml" 11 256 282
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 11 256 274 "esami/esami_ok/luglio2018.ml" 11 256 283
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 11 256 288 "esami/esami_ok/luglio2018.ml" 11 256 290
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 11 256 292 "esami/esami_ok/luglio2018.ml" 11 256 294
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 11 256 285 "esami/esami_ok/luglio2018.ml" 11 256 295
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 11 256 300 "esami/esami_ok/luglio2018.ml" 11 256 302
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 11 256 308 "esami/esami_ok/luglio2018.ml" 11 256 310
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 11 256 312 "esami/esami_ok/luglio2018.ml" 11 256 314
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 11 256 305 "esami/esami_ok/luglio2018.ml" 11 256 315
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 11 256 304 "esami/esami_ok/luglio2018.ml" 11 256 316
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 11 256 297 "esami/esami_ok/luglio2018.ml" 11 256 317
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 11 256 273 "esami/esami_ok/luglio2018.ml" 11 256 318
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 11 256 266 "esami/esami_ok/luglio2018.ml" 11 256 319
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 4 63 69 "esami/esami_ok/luglio2018.ml" 13 331 342
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 3 44 56 "esami/esami_ok/luglio2018.ml" 13 331 343
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 17 383 387 "esami/esami_ok/luglio2018.ml" 17 383 392
+type(
+  int -> 'a -> int
+)
+ident(
+  def depth "esami/esami_ok/luglio2018.ml" 28 696 696 "esami/esami_ok/luglio2018.ml" 0 0 -1
+)
+"esami/esami_ok/luglio2018.ml" 17 383 393 "esami/esami_ok/luglio2018.ml" 17 383 397
+type(
+  int
+)
+ident(
+  def nodo "esami/esami_ok/luglio2018.ml" 17 383 398 "esami/esami_ok/luglio2018.ml" 26 670 691
+)
+"esami/esami_ok/luglio2018.ml" 17 383 398 "esami/esami_ok/luglio2018.ml" 17 383 399
+type(
+  'a
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 18 403 404 "esami/esami_ok/luglio2018.ml" 26 670 691
+)
+"esami/esami_ok/luglio2018.ml" 18 403 412 "esami/esami_ok/luglio2018.ml" 18 403 421
+type(
+  int -> int ntree -> int
+)
+ident(
+  def from_node "esami/esami_ok/luglio2018.ml" 18 403 404 "esami/esami_ok/luglio2018.ml" 26 670 691
+)
+"esami/esami_ok/luglio2018.ml" 18 403 422 "esami/esami_ok/luglio2018.ml" 18 403 428
+type(
+  int
+)
+ident(
+  def result "esami/esami_ok/luglio2018.ml" 18 403 429 "esami/esami_ok/luglio2018.ml" 22 500 529
+)
+"esami/esami_ok/luglio2018.ml" 18 403 429 "esami/esami_ok/luglio2018.ml" 18 403 430
+type(
+  int ntree
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 18 403 433 "esami/esami_ok/luglio2018.ml" 22 500 529
+)
+"esami/esami_ok/luglio2018.ml" 18 403 439 "esami/esami_ok/luglio2018.ml" 18 403 440
+type(
+  int ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 18 403 429 "esami/esami_ok/luglio2018.ml" 18 403 430
+)
+"esami/esami_ok/luglio2018.ml" 19 446 452 "esami/esami_ok/luglio2018.ml" 19 446 453
+type(
+  int
+)
+ident(
+  def x "esami/esami_ok/luglio2018.ml" 20 466 468 "esami/esami_ok/luglio2018.ml" 22 500 529
+)
+"esami/esami_ok/luglio2018.ml" 19 446 455 "esami/esami_ok/luglio2018.ml" 19 446 460
+type(
+  int ntree list
+)
+ident(
+  def tlist "esami/esami_ok/luglio2018.ml" 20 466 468 "esami/esami_ok/luglio2018.ml" 22 500 529
+)
+"esami/esami_ok/luglio2018.ml" 19 446 449 "esami/esami_ok/luglio2018.ml" 19 446 461
+type(
+  int ntree
+)
+"esami/esami_ok/luglio2018.ml" 20 466 471 "esami/esami_ok/luglio2018.ml" 20 466 472
+type(
+  int
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 19 446 452 "esami/esami_ok/luglio2018.ml" 19 446 453
+)
+"esami/esami_ok/luglio2018.ml" 20 466 473 "esami/esami_ok/luglio2018.ml" 20 466 474
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_ok/luglio2018.ml" 20 466 475 "esami/esami_ok/luglio2018.ml" 20 466 479
+type(
+  int
+)
+ident(
+  int_ref nodo "esami/esami_ok/luglio2018.ml" 17 383 393 "esami/esami_ok/luglio2018.ml" 17 383 397
+)
+"esami/esami_ok/luglio2018.ml" 20 466 471 "esami/esami_ok/luglio2018.ml" 20 466 479
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 20 466 485 "esami/esami_ok/luglio2018.ml" 20 466 491
+type(
+  int
+)
+ident(
+  int_ref result "esami/esami_ok/luglio2018.ml" 18 403 422 "esami/esami_ok/luglio2018.ml" 18 403 428
+)
+"esami/esami_ok/luglio2018.ml" 22 500 503 "esami/esami_ok/luglio2018.ml" 22 500 512
+type(
+  int -> int ntree list -> int
+)
+ident(
+  int_ref from_list "esami/esami_ok/luglio2018.ml" 23 530 537 "esami/esami_ok/luglio2018.ml" 23 530 546
+)
+"esami/esami_ok/luglio2018.ml" 22 500 514 "esami/esami_ok/luglio2018.ml" 22 500 520
+type(
+  int
+)
+ident(
+  int_ref result "esami/esami_ok/luglio2018.ml" 18 403 422 "esami/esami_ok/luglio2018.ml" 18 403 428
+)
+"esami/esami_ok/luglio2018.ml" 22 500 520 "esami/esami_ok/luglio2018.ml" 22 500 521
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_ok/luglio2018.ml" 22 500 521 "esami/esami_ok/luglio2018.ml" 22 500 522
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 22 500 513 "esami/esami_ok/luglio2018.ml" 22 500 523
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 22 500 524 "esami/esami_ok/luglio2018.ml" 22 500 529
+type(
+  int ntree list
+)
+ident(
+  int_ref tlist "esami/esami_ok/luglio2018.ml" 19 446 455 "esami/esami_ok/luglio2018.ml" 19 446 460
+)
+"esami/esami_ok/luglio2018.ml" 22 500 503 "esami/esami_ok/luglio2018.ml" 22 500 529
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 20 466 468 "esami/esami_ok/luglio2018.ml" 22 500 529
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 18 403 433 "esami/esami_ok/luglio2018.ml" 22 500 529
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 23 530 537 "esami/esami_ok/luglio2018.ml" 23 530 546
+type(
+  int -> int ntree list -> int
+)
+ident(
+  def from_list "esami/esami_ok/luglio2018.ml" 18 403 404 "esami/esami_ok/luglio2018.ml" 26 670 691
+)
+"esami/esami_ok/luglio2018.ml" 23 530 547 "esami/esami_ok/luglio2018.ml" 23 530 553
+type(
+  int
+)
+ident(
+  def result "esami/esami_ok/luglio2018.ml" 23 530 556 "esami/esami_ok/luglio2018.ml" 25 598 669
+)
+"esami/esami_ok/luglio2018.ml" 24 565 571 "esami/esami_ok/luglio2018.ml" 24 565 573
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 24 565 577 "esami/esami_ok/luglio2018.ml" 24 565 585
+type(
+  string -> int
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/esami_ok/luglio2018.ml" 24 565 586 "esami/esami_ok/luglio2018.ml" 24 565 597
+type(
+  string
+)
+"esami/esami_ok/luglio2018.ml" 24 565 577 "esami/esami_ok/luglio2018.ml" 24 565 597
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 25 598 604 "esami/esami_ok/luglio2018.ml" 25 598 605
+type(
+  int ntree
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 25 598 613 "esami/esami_ok/luglio2018.ml" 25 598 669
+)
+"esami/esami_ok/luglio2018.ml" 25 598 607 "esami/esami_ok/luglio2018.ml" 25 598 609
+type(
+  int ntree list
+)
+ident(
+  def ts "esami/esami_ok/luglio2018.ml" 25 598 613 "esami/esami_ok/luglio2018.ml" 25 598 669
+)
+"esami/esami_ok/luglio2018.ml" 25 598 604 "esami/esami_ok/luglio2018.ml" 25 598 609
+type(
+  int ntree list
+)
+"esami/esami_ok/luglio2018.ml" 25 598 618 "esami/esami_ok/luglio2018.ml" 25 598 627
+type(
+  int -> int ntree -> int
+)
+ident(
+  int_ref from_node "esami/esami_ok/luglio2018.ml" 18 403 412 "esami/esami_ok/luglio2018.ml" 18 403 421
+)
+"esami/esami_ok/luglio2018.ml" 25 598 628 "esami/esami_ok/luglio2018.ml" 25 598 634
+type(
+  int
+)
+ident(
+  int_ref result "esami/esami_ok/luglio2018.ml" 23 530 547 "esami/esami_ok/luglio2018.ml" 23 530 553
+)
+"esami/esami_ok/luglio2018.ml" 25 598 635 "esami/esami_ok/luglio2018.ml" 25 598 636
+type(
+  int ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 25 598 604 "esami/esami_ok/luglio2018.ml" 25 598 605
+)
+"esami/esami_ok/luglio2018.ml" 25 598 617 "esami/esami_ok/luglio2018.ml" 25 598 637
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 25 598 643 "esami/esami_ok/luglio2018.ml" 25 598 644
+type(
+  exn
+)
+"esami/esami_ok/luglio2018.ml" 25 598 649 "esami/esami_ok/luglio2018.ml" 25 598 658
+type(
+  int -> int ntree list -> int
+)
+ident(
+  int_ref from_list "esami/esami_ok/luglio2018.ml" 23 530 537 "esami/esami_ok/luglio2018.ml" 23 530 546
+)
+"esami/esami_ok/luglio2018.ml" 25 598 659 "esami/esami_ok/luglio2018.ml" 25 598 665
+type(
+  int
+)
+ident(
+  int_ref result "esami/esami_ok/luglio2018.ml" 23 530 547 "esami/esami_ok/luglio2018.ml" 23 530 553
+)
+"esami/esami_ok/luglio2018.ml" 25 598 666 "esami/esami_ok/luglio2018.ml" 25 598 668
+type(
+  int ntree list
+)
+ident(
+  int_ref ts "esami/esami_ok/luglio2018.ml" 25 598 607 "esami/esami_ok/luglio2018.ml" 25 598 609
+)
+"esami/esami_ok/luglio2018.ml" 25 598 648 "esami/esami_ok/luglio2018.ml" 25 598 669
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 25 598 613 "esami/esami_ok/luglio2018.ml" 25 598 669
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 23 530 556 "esami/esami_ok/luglio2018.ml" 25 598 669
+type(
+  int ntree list -> int
+)
+"esami/esami_ok/luglio2018.ml" 26 670 674 "esami/esami_ok/luglio2018.ml" 26 670 683
+type(
+  int -> int ntree -> int
+)
+ident(
+  int_ref from_node "esami/esami_ok/luglio2018.ml" 18 403 412 "esami/esami_ok/luglio2018.ml" 18 403 421
+)
+"esami/esami_ok/luglio2018.ml" 26 670 684 "esami/esami_ok/luglio2018.ml" 26 670 685
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 26 670 686 "esami/esami_ok/luglio2018.ml" 26 670 691
+type(
+  int ntree
+)
+ident(
+  int_ref ntree "esami/esami_ok/luglio2018.ml" 3 44 48 "esami/esami_ok/luglio2018.ml" 3 44 53
+)
+"esami/esami_ok/luglio2018.ml" 26 670 674 "esami/esami_ok/luglio2018.ml" 26 670 691
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 18 403 404 "esami/esami_ok/luglio2018.ml" 26 670 691
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 28 696 704 "esami/esami_ok/luglio2018.ml" 28 696 714
+type(
+  'a ntree -> 'a -> bool
+)
+ident(
+  def appartiene "esami/esami_ok/luglio2018.ml" 28 696 696 "esami/esami_ok/luglio2018.ml" 0 0 -1
+)
+"esami/esami_ok/luglio2018.ml" 28 696 719 "esami/esami_ok/luglio2018.ml" 28 696 720
+type(
+  'a
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 28 696 730 "esami/esami_ok/luglio2018.ml" 31 766 792
+)
+"esami/esami_ok/luglio2018.ml" 28 696 722 "esami/esami_ok/luglio2018.ml" 28 696 727
+type(
+  'a ntree list
+)
+ident(
+  def tlist "esami/esami_ok/luglio2018.ml" 28 696 730 "esami/esami_ok/luglio2018.ml" 31 766 792
+)
+"esami/esami_ok/luglio2018.ml" 28 696 715 "esami/esami_ok/luglio2018.ml" 28 696 729
+type(
+  'a ntree
+)
+"esami/esami_ok/luglio2018.ml" 28 696 730 "esami/esami_ok/luglio2018.ml" 28 696 731
+type(
+  'a
+)
+ident(
+  def x "esami/esami_ok/luglio2018.ml" 29 735 736 "esami/esami_ok/luglio2018.ml" 31 766 792
+)
+"esami/esami_ok/luglio2018.ml" 29 735 739 "esami/esami_ok/luglio2018.ml" 29 735 744
+type(
+  'a ntree list
+)
+ident(
+  int_ref tlist "esami/esami_ok/luglio2018.ml" 28 696 722 "esami/esami_ok/luglio2018.ml" 28 696 727
+)
+"esami/esami_ok/luglio2018.ml" 29 735 745 "esami/esami_ok/luglio2018.ml" 29 735 746
+type(
+  'a ntree list -> 'a ntree list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_ok/luglio2018.ml" 29 735 747 "esami/esami_ok/luglio2018.ml" 29 735 749
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 29 735 739 "esami/esami_ok/luglio2018.ml" 29 735 749
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 29 735 755 "esami/esami_ok/luglio2018.ml" 29 735 756
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 28 696 730 "esami/esami_ok/luglio2018.ml" 28 696 731
+)
+"esami/esami_ok/luglio2018.ml" 29 735 756 "esami/esami_ok/luglio2018.ml" 29 735 757
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_ok/luglio2018.ml" 29 735 757 "esami/esami_ok/luglio2018.ml" 29 735 758
+type(
+  'a
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 28 696 719 "esami/esami_ok/luglio2018.ml" 28 696 720
+)
+"esami/esami_ok/luglio2018.ml" 29 735 755 "esami/esami_ok/luglio2018.ml" 29 735 758
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 31 766 768 "esami/esami_ok/luglio2018.ml" 31 766 769
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 28 696 730 "esami/esami_ok/luglio2018.ml" 28 696 731
+)
+"esami/esami_ok/luglio2018.ml" 31 766 769 "esami/esami_ok/luglio2018.ml" 31 766 770
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_ok/luglio2018.ml" 31 766 770 "esami/esami_ok/luglio2018.ml" 31 766 771
+type(
+  'a
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 28 696 719 "esami/esami_ok/luglio2018.ml" 28 696 720
+)
+"esami/esami_ok/luglio2018.ml" 31 766 768 "esami/esami_ok/luglio2018.ml" 31 766 771
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 31 766 772 "esami/esami_ok/luglio2018.ml" 31 766 774
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"esami/esami_ok/luglio2018.ml" 31 766 775 "esami/esami_ok/luglio2018.ml" 31 766 784
+type(
+  'a ntree list -> 'a -> bool
+)
+ident(
+  int_ref from_list "esami/esami_ok/luglio2018.ml" 32 793 799 "esami/esami_ok/luglio2018.ml" 32 793 808
+)
+"esami/esami_ok/luglio2018.ml" 31 766 785 "esami/esami_ok/luglio2018.ml" 31 766 790
+type(
+  'a ntree list
+)
+ident(
+  int_ref tlist "esami/esami_ok/luglio2018.ml" 28 696 722 "esami/esami_ok/luglio2018.ml" 28 696 727
+)
+"esami/esami_ok/luglio2018.ml" 31 766 791 "esami/esami_ok/luglio2018.ml" 31 766 792
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 28 696 730 "esami/esami_ok/luglio2018.ml" 28 696 731
+)
+"esami/esami_ok/luglio2018.ml" 31 766 775 "esami/esami_ok/luglio2018.ml" 31 766 792
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 31 766 768 "esami/esami_ok/luglio2018.ml" 31 766 792
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 29 735 736 "esami/esami_ok/luglio2018.ml" 31 766 792
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 32 793 799 "esami/esami_ok/luglio2018.ml" 32 793 808
+type(
+  'a ntree list -> 'a -> bool
+)
+ident(
+  def from_list "esami/esami_ok/luglio2018.ml" 28 696 696 "esami/esami_ok/luglio2018.ml" 0 0 -1
+)
+"esami/esami_ok/luglio2018.ml" 32 793 809 "esami/esami_ok/luglio2018.ml" 32 793 814
+type(
+  'a ntree list
+)
+ident(
+  def tlist "esami/esami_ok/luglio2018.ml" 32 793 815 "esami/esami_ok/luglio2018.ml" 34 853 902
+)
+"esami/esami_ok/luglio2018.ml" 32 793 815 "esami/esami_ok/luglio2018.ml" 32 793 816
+type(
+  'a
+)
+ident(
+  def x "esami/esami_ok/luglio2018.ml" 32 793 819 "esami/esami_ok/luglio2018.ml" 34 853 902
+)
+"esami/esami_ok/luglio2018.ml" 32 793 825 "esami/esami_ok/luglio2018.ml" 32 793 830
+type(
+  'a ntree list
+)
+ident(
+  int_ref tlist "esami/esami_ok/luglio2018.ml" 32 793 809 "esami/esami_ok/luglio2018.ml" 32 793 814
+)
+"esami/esami_ok/luglio2018.ml" 33 837 841 "esami/esami_ok/luglio2018.ml" 33 837 843
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 33 837 847 "esami/esami_ok/luglio2018.ml" 33 837 852
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 34 853 857 "esami/esami_ok/luglio2018.ml" 34 853 858
+type(
+  'a ntree
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 34 853 866 "esami/esami_ok/luglio2018.ml" 34 853 902
+)
+"esami/esami_ok/luglio2018.ml" 34 853 860 "esami/esami_ok/luglio2018.ml" 34 853 862
+type(
+  'a ntree list
+)
+ident(
+  def ts "esami/esami_ok/luglio2018.ml" 34 853 866 "esami/esami_ok/luglio2018.ml" 34 853 902
+)
+"esami/esami_ok/luglio2018.ml" 34 853 857 "esami/esami_ok/luglio2018.ml" 34 853 862
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 34 853 867 "esami/esami_ok/luglio2018.ml" 34 853 877
+type(
+  'a ntree -> 'a -> bool
+)
+ident(
+  int_ref appartiene "esami/esami_ok/luglio2018.ml" 28 696 704 "esami/esami_ok/luglio2018.ml" 28 696 714
+)
+"esami/esami_ok/luglio2018.ml" 34 853 878 "esami/esami_ok/luglio2018.ml" 34 853 879
+type(
+  'a ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 34 853 857 "esami/esami_ok/luglio2018.ml" 34 853 858
+)
+"esami/esami_ok/luglio2018.ml" 34 853 880 "esami/esami_ok/luglio2018.ml" 34 853 881
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 32 793 815 "esami/esami_ok/luglio2018.ml" 32 793 816
+)
+"esami/esami_ok/luglio2018.ml" 34 853 866 "esami/esami_ok/luglio2018.ml" 34 853 882
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 34 853 883 "esami/esami_ok/luglio2018.ml" 34 853 885
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"esami/esami_ok/luglio2018.ml" 34 853 887 "esami/esami_ok/luglio2018.ml" 34 853 896
+type(
+  'a ntree list -> 'a -> bool
+)
+ident(
+  int_ref from_list "esami/esami_ok/luglio2018.ml" 32 793 799 "esami/esami_ok/luglio2018.ml" 32 793 808
+)
+"esami/esami_ok/luglio2018.ml" 34 853 897 "esami/esami_ok/luglio2018.ml" 34 853 899
+type(
+  'a ntree list
+)
+ident(
+  int_ref ts "esami/esami_ok/luglio2018.ml" 34 853 860 "esami/esami_ok/luglio2018.ml" 34 853 862
+)
+"esami/esami_ok/luglio2018.ml" 34 853 900 "esami/esami_ok/luglio2018.ml" 34 853 901
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 32 793 815 "esami/esami_ok/luglio2018.ml" 32 793 816
+)
+"esami/esami_ok/luglio2018.ml" 34 853 886 "esami/esami_ok/luglio2018.ml" 34 853 902
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 34 853 866 "esami/esami_ok/luglio2018.ml" 34 853 902
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 32 793 819 "esami/esami_ok/luglio2018.ml" 34 853 902
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 36 906 906 "esami/esami_ok/luglio2018.ml" 36 906 916
+type(
+  int ntree -> int -> bool
+)
+ident(
+  int_ref appartiene "esami/esami_ok/luglio2018.ml" 28 696 704 "esami/esami_ok/luglio2018.ml" 28 696 714
+)
+"esami/esami_ok/luglio2018.ml" 36 906 917 "esami/esami_ok/luglio2018.ml" 36 906 922
+type(
+  int ntree
+)
+ident(
+  int_ref ntree "esami/esami_ok/luglio2018.ml" 3 44 48 "esami/esami_ok/luglio2018.ml" 3 44 53
+)
+"esami/esami_ok/luglio2018.ml" 36 906 923 "esami/esami_ok/luglio2018.ml" 36 906 924
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 36 906 906 "esami/esami_ok/luglio2018.ml" 36 906 924
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 40 950 958 "esami/esami_ok/luglio2018.ml" 40 950 968
+type(
+  'a ntree -> 'a -> int
+)
+ident(
+  def profondita "esami/esami_ok/luglio2018.ml" 40 950 950 "esami/esami_ok/luglio2018.ml" 0 0 -1
+)
+"esami/esami_ok/luglio2018.ml" 40 950 969 "esami/esami_ok/luglio2018.ml" 40 950 974
+type(
+  'a ntree
+)
+ident(
+  def ntree "esami/esami_ok/luglio2018.ml" 40 950 975 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+)
+"esami/esami_ok/luglio2018.ml" 40 950 975 "esami/esami_ok/luglio2018.ml" 40 950 976
+type(
+  'a
+)
+ident(
+  def x "esami/esami_ok/luglio2018.ml" 40 950 979 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+)
+"esami/esami_ok/luglio2018.ml" 40 950 985 "esami/esami_ok/luglio2018.ml" 40 950 990
+type(
+  'a ntree
+)
+ident(
+  int_ref ntree "esami/esami_ok/luglio2018.ml" 40 950 969 "esami/esami_ok/luglio2018.ml" 40 950 974
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1002 "esami/esami_ok/luglio2018.ml" 41 997 1003
+type(
+  'a
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 41 997 1012 "esami/esami_ok/luglio2018.ml" 41 997 1045
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1005 "esami/esami_ok/luglio2018.ml" 41 997 1007
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 41 997 999 "esami/esami_ok/luglio2018.ml" 41 997 1008
+type(
+  'a ntree
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1015 "esami/esami_ok/luglio2018.ml" 41 997 1016
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 40 950 975 "esami/esami_ok/luglio2018.ml" 40 950 976
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1016 "esami/esami_ok/luglio2018.ml" 41 997 1017
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1017 "esami/esami_ok/luglio2018.ml" 41 997 1018
+type(
+  'a
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 41 997 1002 "esami/esami_ok/luglio2018.ml" 41 997 1003
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1015 "esami/esami_ok/luglio2018.ml" 41 997 1018
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1024 "esami/esami_ok/luglio2018.ml" 41 997 1025
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1031 "esami/esami_ok/luglio2018.ml" 41 997 1036
+type(
+  exn -> int
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1037 "esami/esami_ok/luglio2018.ml" 41 997 1045
+type(
+  exn
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1031 "esami/esami_ok/luglio2018.ml" 41 997 1045
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 41 997 1012 "esami/esami_ok/luglio2018.ml" 41 997 1045
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1051 "esami/esami_ok/luglio2018.ml" 42 1046 1052
+type(
+  'a
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 42 1046 1064 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1054 "esami/esami_ok/luglio2018.ml" 42 1046 1059
+type(
+  'a ntree list
+)
+ident(
+  def tlist "esami/esami_ok/luglio2018.ml" 42 1046 1064 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1048 "esami/esami_ok/luglio2018.ml" 42 1046 1060
+type(
+  'a ntree
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1067 "esami/esami_ok/luglio2018.ml" 42 1046 1068
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 40 950 975 "esami/esami_ok/luglio2018.ml" 40 950 976
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1069 "esami/esami_ok/luglio2018.ml" 42 1046 1070
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1071 "esami/esami_ok/luglio2018.ml" 42 1046 1072
+type(
+  'a
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 42 1046 1051 "esami/esami_ok/luglio2018.ml" 42 1046 1052
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1067 "esami/esami_ok/luglio2018.ml" 42 1046 1072
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1078 "esami/esami_ok/luglio2018.ml" 42 1046 1079
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1085 "esami/esami_ok/luglio2018.ml" 42 1046 1086
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1087 "esami/esami_ok/luglio2018.ml" 42 1046 1088
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1089 "esami/esami_ok/luglio2018.ml" 42 1046 1098
+type(
+  'a ntree list -> 'a -> int
+)
+ident(
+  int_ref from_list "esami/esami_ok/luglio2018.ml" 44 1108 1112 "esami/esami_ok/luglio2018.ml" 44 1108 1121
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1099 "esami/esami_ok/luglio2018.ml" 42 1046 1104
+type(
+  'a ntree list
+)
+ident(
+  int_ref tlist "esami/esami_ok/luglio2018.ml" 42 1046 1054 "esami/esami_ok/luglio2018.ml" 42 1046 1059
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1105 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 40 950 975 "esami/esami_ok/luglio2018.ml" 40 950 976
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1089 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1085 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 42 1046 1064 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 40 950 979 "esami/esami_ok/luglio2018.ml" 42 1046 1106
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 44 1108 1112 "esami/esami_ok/luglio2018.ml" 44 1108 1121
+type(
+  'a ntree list -> 'a -> int
+)
+ident(
+  def from_list "esami/esami_ok/luglio2018.ml" 40 950 950 "esami/esami_ok/luglio2018.ml" 0 0 -1
+)
+"esami/esami_ok/luglio2018.ml" 44 1108 1122 "esami/esami_ok/luglio2018.ml" 44 1108 1127
+type(
+  'a ntree list
+)
+ident(
+  def tlist "esami/esami_ok/luglio2018.ml" 44 1108 1128 "esami/esami_ok/luglio2018.ml" 46 1159 1213
+)
+"esami/esami_ok/luglio2018.ml" 44 1108 1128 "esami/esami_ok/luglio2018.ml" 44 1108 1129
+type(
+  'a
+)
+ident(
+  def x "esami/esami_ok/luglio2018.ml" 44 1108 1132 "esami/esami_ok/luglio2018.ml" 46 1159 1213
+)
+"esami/esami_ok/luglio2018.ml" 44 1108 1138 "esami/esami_ok/luglio2018.ml" 44 1108 1143
+type(
+  'a ntree list
+)
+ident(
+  int_ref tlist "esami/esami_ok/luglio2018.ml" 44 1108 1122 "esami/esami_ok/luglio2018.ml" 44 1108 1127
+)
+"esami/esami_ok/luglio2018.ml" 45 1149 1151 "esami/esami_ok/luglio2018.ml" 45 1149 1153
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 45 1149 1157 "esami/esami_ok/luglio2018.ml" 45 1149 1158
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1161 "esami/esami_ok/luglio2018.ml" 46 1159 1162
+type(
+  'a ntree
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 46 1159 1170 "esami/esami_ok/luglio2018.ml" 46 1159 1213
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1164 "esami/esami_ok/luglio2018.ml" 46 1159 1166
+type(
+  'a ntree list
+)
+ident(
+  def ts "esami/esami_ok/luglio2018.ml" 46 1159 1170 "esami/esami_ok/luglio2018.ml" 46 1159 1213
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1161 "esami/esami_ok/luglio2018.ml" 46 1159 1166
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1174 "esami/esami_ok/luglio2018.ml" 46 1159 1184
+type(
+  'a ntree -> 'a -> int
+)
+ident(
+  int_ref profondita "esami/esami_ok/luglio2018.ml" 40 950 958 "esami/esami_ok/luglio2018.ml" 40 950 968
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1185 "esami/esami_ok/luglio2018.ml" 46 1159 1186
+type(
+  'a ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 46 1159 1161 "esami/esami_ok/luglio2018.ml" 46 1159 1162
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1187 "esami/esami_ok/luglio2018.ml" 46 1159 1188
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 44 1108 1128 "esami/esami_ok/luglio2018.ml" 44 1108 1129
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1174 "esami/esami_ok/luglio2018.ml" 46 1159 1188
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1194 "esami/esami_ok/luglio2018.ml" 46 1159 1195
+type(
+  exn
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1199 "esami/esami_ok/luglio2018.ml" 46 1159 1208
+type(
+  'a ntree list -> 'a -> int
+)
+ident(
+  int_ref from_list "esami/esami_ok/luglio2018.ml" 44 1108 1112 "esami/esami_ok/luglio2018.ml" 44 1108 1121
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1209 "esami/esami_ok/luglio2018.ml" 46 1159 1211
+type(
+  'a ntree list
+)
+ident(
+  int_ref ts "esami/esami_ok/luglio2018.ml" 46 1159 1164 "esami/esami_ok/luglio2018.ml" 46 1159 1166
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1212 "esami/esami_ok/luglio2018.ml" 46 1159 1213
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 44 1108 1128 "esami/esami_ok/luglio2018.ml" 44 1108 1129
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1199 "esami/esami_ok/luglio2018.ml" 46 1159 1213
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 46 1159 1170 "esami/esami_ok/luglio2018.ml" 46 1159 1213
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 44 1108 1132 "esami/esami_ok/luglio2018.ml" 46 1159 1213
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 48 1217 1217 "esami/esami_ok/luglio2018.ml" 48 1217 1227
+type(
+  int ntree -> int -> int
+)
+ident(
+  int_ref profondita "esami/esami_ok/luglio2018.ml" 40 950 958 "esami/esami_ok/luglio2018.ml" 40 950 968
+)
+"esami/esami_ok/luglio2018.ml" 48 1217 1228 "esami/esami_ok/luglio2018.ml" 48 1217 1233
+type(
+  int ntree
+)
+ident(
+  int_ref ntree "esami/esami_ok/luglio2018.ml" 3 44 48 "esami/esami_ok/luglio2018.ml" 3 44 53
+)
+"esami/esami_ok/luglio2018.ml" 48 1217 1234 "esami/esami_ok/luglio2018.ml" 48 1217 1236
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 48 1217 1217 "esami/esami_ok/luglio2018.ml" 48 1217 1236
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 50 1240 1248 "esami/esami_ok/luglio2018.ml" 50 1240 1257
+type(
+  'a ntree -> 'a -> 'a -> int
+)
+ident(
+  def parentela "esami/esami_ok/luglio2018.ml" 50 1240 1240 "esami/esami_ok/luglio2018.ml" 0 0 -1
+)
+"esami/esami_ok/luglio2018.ml" 50 1240 1258 "esami/esami_ok/luglio2018.ml" 50 1240 1259
+type(
+  'a ntree
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 50 1240 1260 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+)
+"esami/esami_ok/luglio2018.ml" 50 1240 1260 "esami/esami_ok/luglio2018.ml" 50 1240 1262
+type(
+  'a
+)
+ident(
+  def n1 "esami/esami_ok/luglio2018.ml" 50 1240 1263 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+)
+"esami/esami_ok/luglio2018.ml" 50 1240 1263 "esami/esami_ok/luglio2018.ml" 50 1240 1265
+type(
+  'a
+)
+ident(
+  def n2 "esami/esami_ok/luglio2018.ml" 50 1240 1268 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+)
+"esami/esami_ok/luglio2018.ml" 50 1240 1274 "esami/esami_ok/luglio2018.ml" 50 1240 1275
+type(
+  'a ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 50 1240 1258 "esami/esami_ok/luglio2018.ml" 50 1240 1259
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1286 "esami/esami_ok/luglio2018.ml" 51 1281 1287
+type(
+  'a
+)
+ident(
+  def x "esami/esami_ok/luglio2018.ml" 51 1281 1296 "esami/esami_ok/luglio2018.ml" 51 1281 1338
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1289 "esami/esami_ok/luglio2018.ml" 51 1281 1291
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1283 "esami/esami_ok/luglio2018.ml" 51 1281 1292
+type(
+  'a ntree
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1299 "esami/esami_ok/luglio2018.ml" 51 1281 1300
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 51 1281 1286 "esami/esami_ok/luglio2018.ml" 51 1281 1287
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1300 "esami/esami_ok/luglio2018.ml" 51 1281 1301
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1301 "esami/esami_ok/luglio2018.ml" 51 1281 1303
+type(
+  'a
+)
+ident(
+  int_ref n1 "esami/esami_ok/luglio2018.ml" 50 1240 1260 "esami/esami_ok/luglio2018.ml" 50 1240 1262
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1299 "esami/esami_ok/luglio2018.ml" 51 1281 1303
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1304 "esami/esami_ok/luglio2018.ml" 51 1281 1306
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1307 "esami/esami_ok/luglio2018.ml" 51 1281 1308
+type(
+  'a
+)
+ident(
+  int_ref x "esami/esami_ok/luglio2018.ml" 51 1281 1286 "esami/esami_ok/luglio2018.ml" 51 1281 1287
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1308 "esami/esami_ok/luglio2018.ml" 51 1281 1309
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1309 "esami/esami_ok/luglio2018.ml" 51 1281 1311
+type(
+  'a
+)
+ident(
+  int_ref n2 "esami/esami_ok/luglio2018.ml" 50 1240 1263 "esami/esami_ok/luglio2018.ml" 50 1240 1265
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1307 "esami/esami_ok/luglio2018.ml" 51 1281 1311
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1299 "esami/esami_ok/luglio2018.ml" 51 1281 1311
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1317 "esami/esami_ok/luglio2018.ml" 51 1281 1318
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1324 "esami/esami_ok/luglio2018.ml" 51 1281 1329
+type(
+  exn -> int
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1330 "esami/esami_ok/luglio2018.ml" 51 1281 1338
+type(
+  exn
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1324 "esami/esami_ok/luglio2018.ml" 51 1281 1338
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 51 1281 1296 "esami/esami_ok/luglio2018.ml" 51 1281 1338
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1344 "esami/esami_ok/luglio2018.ml" 52 1339 1345
+type(
+  'a
+)
+ident(
+  def x "esami/esami_ok/luglio2018.ml" 52 1339 1357 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1347 "esami/esami_ok/luglio2018.ml" 52 1339 1352
+type(
+  'a ntree list
+)
+ident(
+  def tlist "esami/esami_ok/luglio2018.ml" 52 1339 1357 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1341 "esami/esami_ok/luglio2018.ml" 52 1339 1353
+type(
+  'a ntree
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1361 "esami/esami_ok/luglio2018.ml" 52 1339 1370
+type(
+  'a -> 'a -> 'a ntree list -> int
+)
+ident(
+  int_ref from_list "esami/esami_ok/luglio2018.ml" 53 1431 1444 "esami/esami_ok/luglio2018.ml" 53 1431 1453
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1371 "esami/esami_ok/luglio2018.ml" 52 1339 1373
+type(
+  'a
+)
+ident(
+  int_ref n1 "esami/esami_ok/luglio2018.ml" 50 1240 1260 "esami/esami_ok/luglio2018.ml" 50 1240 1262
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1374 "esami/esami_ok/luglio2018.ml" 52 1339 1376
+type(
+  'a
+)
+ident(
+  int_ref n2 "esami/esami_ok/luglio2018.ml" 50 1240 1263 "esami/esami_ok/luglio2018.ml" 50 1240 1265
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1377 "esami/esami_ok/luglio2018.ml" 52 1339 1382
+type(
+  'a ntree list
+)
+ident(
+  int_ref tlist "esami/esami_ok/luglio2018.ml" 52 1339 1347 "esami/esami_ok/luglio2018.ml" 52 1339 1352
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1361 "esami/esami_ok/luglio2018.ml" 52 1339 1382
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1388 "esami/esami_ok/luglio2018.ml" 52 1339 1389
+type(
+  exn
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1394 "esami/esami_ok/luglio2018.ml" 52 1339 1404
+type(
+  'a ntree -> 'a -> int
+)
+ident(
+  int_ref profondita "esami/esami_ok/luglio2018.ml" 40 950 958 "esami/esami_ok/luglio2018.ml" 40 950 968
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1405 "esami/esami_ok/luglio2018.ml" 52 1339 1406
+type(
+  'a ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 50 1240 1258 "esami/esami_ok/luglio2018.ml" 50 1240 1259
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1407 "esami/esami_ok/luglio2018.ml" 52 1339 1409
+type(
+  'a
+)
+ident(
+  int_ref n1 "esami/esami_ok/luglio2018.ml" 50 1240 1260 "esami/esami_ok/luglio2018.ml" 50 1240 1262
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1393 "esami/esami_ok/luglio2018.ml" 52 1339 1410
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1411 "esami/esami_ok/luglio2018.ml" 52 1339 1412
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1414 "esami/esami_ok/luglio2018.ml" 52 1339 1424
+type(
+  'a ntree -> 'a -> int
+)
+ident(
+  int_ref profondita "esami/esami_ok/luglio2018.ml" 40 950 958 "esami/esami_ok/luglio2018.ml" 40 950 968
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1425 "esami/esami_ok/luglio2018.ml" 52 1339 1426
+type(
+  'a ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 50 1240 1258 "esami/esami_ok/luglio2018.ml" 50 1240 1259
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1427 "esami/esami_ok/luglio2018.ml" 52 1339 1429
+type(
+  'a
+)
+ident(
+  int_ref n2 "esami/esami_ok/luglio2018.ml" 50 1240 1263 "esami/esami_ok/luglio2018.ml" 50 1240 1265
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1413 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1393 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 52 1339 1357 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 50 1240 1268 "esami/esami_ok/luglio2018.ml" 52 1339 1430
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 53 1431 1444 "esami/esami_ok/luglio2018.ml" 53 1431 1453
+type(
+  'a -> 'a -> 'a ntree list -> int
+)
+ident(
+  def from_list "esami/esami_ok/luglio2018.ml" 50 1240 1240 "esami/esami_ok/luglio2018.ml" 0 0 -1
+)
+"esami/esami_ok/luglio2018.ml" 53 1431 1454 "esami/esami_ok/luglio2018.ml" 53 1431 1456
+type(
+  'a
+)
+ident(
+  def n1 "esami/esami_ok/luglio2018.ml" 53 1431 1457 "esami/esami_ok/luglio2018.ml" 56 1634 1668
+)
+"esami/esami_ok/luglio2018.ml" 53 1431 1457 "esami/esami_ok/luglio2018.ml" 53 1431 1459
+type(
+  'a
+)
+ident(
+  def n2 "esami/esami_ok/luglio2018.ml" 53 1431 1462 "esami/esami_ok/luglio2018.ml" 56 1634 1668
+)
+"esami/esami_ok/luglio2018.ml" 54 1472 1484 "esami/esami_ok/luglio2018.ml" 54 1472 1486
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 54 1472 1490 "esami/esami_ok/luglio2018.ml" 54 1472 1498
+type(
+  string -> int
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"esami/esami_ok/luglio2018.ml" 54 1472 1499 "esami/esami_ok/luglio2018.ml" 54 1472 1546
+type(
+  string
+)
+"esami/esami_ok/luglio2018.ml" 54 1472 1490 "esami/esami_ok/luglio2018.ml" 54 1472 1546
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1559 "esami/esami_ok/luglio2018.ml" 55 1547 1560
+type(
+  'a ntree
+)
+ident(
+  def t "esami/esami_ok/luglio2018.ml" 55 1547 1568 "esami/esami_ok/luglio2018.ml" 56 1634 1668
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1562 "esami/esami_ok/luglio2018.ml" 55 1547 1564
+type(
+  'a ntree list
+)
+ident(
+  def ts "esami/esami_ok/luglio2018.ml" 55 1547 1568 "esami/esami_ok/luglio2018.ml" 56 1634 1668
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1559 "esami/esami_ok/luglio2018.ml" 55 1547 1564
+type(
+  'a ntree list
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1572 "esami/esami_ok/luglio2018.ml" 55 1547 1582
+type(
+  'a ntree -> 'a -> bool
+)
+ident(
+  int_ref appartiene "esami/esami_ok/luglio2018.ml" 28 696 704 "esami/esami_ok/luglio2018.ml" 28 696 714
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1583 "esami/esami_ok/luglio2018.ml" 55 1547 1584
+type(
+  'a ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 55 1547 1559 "esami/esami_ok/luglio2018.ml" 55 1547 1560
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1585 "esami/esami_ok/luglio2018.ml" 55 1547 1587
+type(
+  'a
+)
+ident(
+  int_ref n1 "esami/esami_ok/luglio2018.ml" 53 1431 1454 "esami/esami_ok/luglio2018.ml" 53 1431 1456
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1571 "esami/esami_ok/luglio2018.ml" 55 1547 1588
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1589 "esami/esami_ok/luglio2018.ml" 55 1547 1591
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1593 "esami/esami_ok/luglio2018.ml" 55 1547 1603
+type(
+  'a ntree -> 'a -> bool
+)
+ident(
+  int_ref appartiene "esami/esami_ok/luglio2018.ml" 28 696 704 "esami/esami_ok/luglio2018.ml" 28 696 714
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1604 "esami/esami_ok/luglio2018.ml" 55 1547 1605
+type(
+  'a ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 55 1547 1559 "esami/esami_ok/luglio2018.ml" 55 1547 1560
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1606 "esami/esami_ok/luglio2018.ml" 55 1547 1608
+type(
+  'a
+)
+ident(
+  int_ref n2 "esami/esami_ok/luglio2018.ml" 53 1431 1457 "esami/esami_ok/luglio2018.ml" 53 1431 1459
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1592 "esami/esami_ok/luglio2018.ml" 55 1547 1609
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1571 "esami/esami_ok/luglio2018.ml" 55 1547 1609
+type(
+  bool
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1615 "esami/esami_ok/luglio2018.ml" 55 1547 1624
+type(
+  'a ntree -> 'a -> 'a -> int
+)
+ident(
+  int_ref parentela "esami/esami_ok/luglio2018.ml" 50 1240 1248 "esami/esami_ok/luglio2018.ml" 50 1240 1257
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1625 "esami/esami_ok/luglio2018.ml" 55 1547 1626
+type(
+  'a ntree
+)
+ident(
+  int_ref t "esami/esami_ok/luglio2018.ml" 55 1547 1559 "esami/esami_ok/luglio2018.ml" 55 1547 1560
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1627 "esami/esami_ok/luglio2018.ml" 55 1547 1629
+type(
+  'a
+)
+ident(
+  int_ref n1 "esami/esami_ok/luglio2018.ml" 53 1431 1454 "esami/esami_ok/luglio2018.ml" 53 1431 1456
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1630 "esami/esami_ok/luglio2018.ml" 55 1547 1632
+type(
+  'a
+)
+ident(
+  int_ref n2 "esami/esami_ok/luglio2018.ml" 53 1431 1457 "esami/esami_ok/luglio2018.ml" 53 1431 1459
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1615 "esami/esami_ok/luglio2018.ml" 55 1547 1632
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 56 1634 1654 "esami/esami_ok/luglio2018.ml" 56 1634 1659
+type(
+  exn -> int
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/esami_ok/luglio2018.ml" 56 1634 1660 "esami/esami_ok/luglio2018.ml" 56 1634 1668
+type(
+  exn
+)
+"esami/esami_ok/luglio2018.ml" 56 1634 1654 "esami/esami_ok/luglio2018.ml" 56 1634 1668
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 55 1547 1568 "esami/esami_ok/luglio2018.ml" 56 1634 1668
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 53 1431 1462 "esami/esami_ok/luglio2018.ml" 56 1634 1668
+type(
+  'a ntree list -> int
+)
+"esami/esami_ok/luglio2018.ml" 58 1672 1672 "esami/esami_ok/luglio2018.ml" 58 1672 1681
+type(
+  int ntree -> int -> int -> int
+)
+ident(
+  int_ref parentela "esami/esami_ok/luglio2018.ml" 50 1240 1248 "esami/esami_ok/luglio2018.ml" 50 1240 1257
+)
+"esami/esami_ok/luglio2018.ml" 58 1672 1682 "esami/esami_ok/luglio2018.ml" 58 1672 1687
+type(
+  int ntree
+)
+ident(
+  int_ref ntree "esami/esami_ok/luglio2018.ml" 3 44 48 "esami/esami_ok/luglio2018.ml" 3 44 53
+)
+"esami/esami_ok/luglio2018.ml" 58 1672 1688 "esami/esami_ok/luglio2018.ml" 58 1672 1689
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 58 1672 1690 "esami/esami_ok/luglio2018.ml" 58 1672 1691
+type(
+  int
+)
+"esami/esami_ok/luglio2018.ml" 58 1672 1672 "esami/esami_ok/luglio2018.ml" 58 1672 1691
+type(
+  int
+)

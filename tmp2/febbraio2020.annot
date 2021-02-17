@@ -1,0 +1,176 @@
+"esami/tmp2/febbraio2020.ml" 3 45 49 "esami/tmp2/febbraio2020.ml" 3 45 54
+type(
+  (int * int * string) list
+)
+ident(
+  def metro "esami/tmp2/febbraio2020.ml" 7 160 160 "esami/tmp2/febbraio2020.ml" 0 0 -1
+)
+"esami/tmp2/febbraio2020.ml" 3 45 59 "esami/tmp2/febbraio2020.ml" 3 45 60
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 3 45 61 "esami/tmp2/febbraio2020.ml" 3 45 62
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 3 45 63 "esami/tmp2/febbraio2020.ml" 3 45 66
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 3 45 58 "esami/tmp2/febbraio2020.ml" 3 45 67
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 3 45 70 "esami/tmp2/febbraio2020.ml" 3 45 71
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 3 45 72 "esami/tmp2/febbraio2020.ml" 3 45 73
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 3 45 74 "esami/tmp2/febbraio2020.ml" 3 45 77
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 3 45 69 "esami/tmp2/febbraio2020.ml" 3 45 78
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 81 "esami/tmp2/febbraio2020.ml" 4 80 82
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 83 "esami/tmp2/febbraio2020.ml" 4 80 84
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 85 "esami/tmp2/febbraio2020.ml" 4 80 88
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 80 "esami/tmp2/febbraio2020.ml" 4 80 89
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 92 "esami/tmp2/febbraio2020.ml" 4 80 93
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 94 "esami/tmp2/febbraio2020.ml" 4 80 95
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 96 "esami/tmp2/febbraio2020.ml" 4 80 99
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 91 "esami/tmp2/febbraio2020.ml" 4 80 100
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 103 "esami/tmp2/febbraio2020.ml" 4 80 104
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 105 "esami/tmp2/febbraio2020.ml" 4 80 106
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 107 "esami/tmp2/febbraio2020.ml" 4 80 110
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 102 "esami/tmp2/febbraio2020.ml" 4 80 111
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 114 "esami/tmp2/febbraio2020.ml" 4 80 115
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 116 "esami/tmp2/febbraio2020.ml" 4 80 117
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 118 "esami/tmp2/febbraio2020.ml" 4 80 121
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 113 "esami/tmp2/febbraio2020.ml" 4 80 122
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 125 "esami/tmp2/febbraio2020.ml" 4 80 126
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 127 "esami/tmp2/febbraio2020.ml" 4 80 128
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 129 "esami/tmp2/febbraio2020.ml" 4 80 132
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 124 "esami/tmp2/febbraio2020.ml" 4 80 133
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 136 "esami/tmp2/febbraio2020.ml" 4 80 137
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 138 "esami/tmp2/febbraio2020.ml" 4 80 139
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 4 80 140 "esami/tmp2/febbraio2020.ml" 4 80 143
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 4 80 135 "esami/tmp2/febbraio2020.ml" 4 80 144
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 5 146 147 "esami/tmp2/febbraio2020.ml" 5 146 148
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 5 146 149 "esami/tmp2/febbraio2020.ml" 5 146 150
+type(
+  int
+)
+"esami/tmp2/febbraio2020.ml" 5 146 151 "esami/tmp2/febbraio2020.ml" 5 146 154
+type(
+  string
+)
+"esami/tmp2/febbraio2020.ml" 5 146 146 "esami/tmp2/febbraio2020.ml" 5 146 155
+type(
+  int * int * string
+)
+"esami/tmp2/febbraio2020.ml" 3 45 57 "esami/tmp2/febbraio2020.ml" 5 146 156
+type(
+  (int * int * string) list
+)
+"esami/tmp2/febbraio2020.ml" 7 160 164 "esami/tmp2/febbraio2020.ml" 7 160 170
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def addset "esami/tmp2/febbraio2020.ml" 10 223 223 "esami/tmp2/febbraio2020.ml" 0 0 -1
+)
+"esami/tmp2/febbraio2020.ml" 7 160 171 "esami/tmp2/febbraio2020.ml" 7 160 172
+type(
+  '_weak1
+)
+ident(
+  def l "esami/tmp2/febbraio2020.ml" 7 160 173 "esami/tmp2/febbraio2020.ml" 8 180 219
+)
+"esami/tmp2/febbraio2020.ml" 7 160 173 "esami/tmp2/febbraio2020.ml" 7 160 176
+type(
+  '_weak2
+)
+ident(
+  def lst "esami/tmp2/febbraio2020.ml" 8 180 181 "esami/tmp2/febbraio2020.ml" 8 180 219
+)

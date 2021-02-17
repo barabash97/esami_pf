@@ -1,0 +1,49 @@
+"esami/tmp2/test.ml" 1 0 4 "esami/tmp2/test.ml" 1 0 9
+type(
+  '_weak1 -> '_weak2 -> '_weak3
+)
+ident(
+  def figli "esami/tmp2/test.ml" 9 270 293 "esami/tmp2/test.ml" 0 0 -1
+)
+"esami/tmp2/test.ml" 1 0 10 "esami/tmp2/test.ml" 1 0 11
+type(
+  '_weak1
+)
+ident(
+  def x "esami/tmp2/test.ml" 1 0 12 "esami/tmp2/test.ml" 9 270 293
+)
+"esami/tmp2/test.ml" 1 0 12 "esami/tmp2/test.ml" 1 0 17
+type(
+  '_weak2
+)
+ident(
+  def ntree "esami/tmp2/test.ml" 2 20 21 "esami/tmp2/test.ml" 9 270 293
+)
+"esami/tmp2/test.ml" 2 20 29 "esami/tmp2/test.ml" 2 20 38
+type(
+  '_weak4 -> '_weak5 -> '_weak6 -> '_weak7
+)
+ident(
+  def from_node "esami/tmp2/test.ml" 2 20 21 "esami/tmp2/test.ml" 9 270 293
+)
+"esami/tmp2/test.ml" 2 20 39 "esami/tmp2/test.ml" 2 20 40
+type(
+  '_weak4
+)
+ident(
+  def x "esami/tmp2/test.ml" 2 20 41 "esami/tmp2/test.ml" 5 104 152
+)
+"esami/tmp2/test.ml" 2 20 41 "esami/tmp2/test.ml" 2 20 47
+type(
+  '_weak5
+)
+ident(
+  def result "esami/tmp2/test.ml" 2 20 50 "esami/tmp2/test.ml" 5 104 152
+)
+"esami/tmp2/test.ml" 6 153 161 "esami/tmp2/test.ml" 6 153 170
+type(
+  '_weak8 -> '_weak9 -> '_weak10 -> '_weak11
+)
+ident(
+  def from_list "esami/tmp2/test.ml" 2 20 21 "esami/tmp2/test.ml" 9 270 293
+)

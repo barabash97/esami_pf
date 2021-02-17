@@ -1,0 +1,823 @@
+"esami/tmp2/settembre2018.ml" 5 77 81 "esami/tmp2/settembre2018.ml" 5 77 87
+type(
+  int tree
+)
+ident(
+  def albero "esami/tmp2/settembre2018.ml" 8 235 235 "esami/tmp2/settembre2018.ml" 0 0 -1
+)
+"esami/tmp2/settembre2018.ml" 5 77 93 "esami/tmp2/settembre2018.ml" 5 77 94
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 5 77 99 "esami/tmp2/settembre2018.ml" 5 77 100
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 5 77 105 "esami/tmp2/settembre2018.ml" 5 77 106
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 5 77 108 "esami/tmp2/settembre2018.ml" 5 77 113
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 115 "esami/tmp2/settembre2018.ml" 5 77 120
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 102 "esami/tmp2/settembre2018.ml" 5 77 121
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 126 "esami/tmp2/settembre2018.ml" 5 77 127
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 5 77 129 "esami/tmp2/settembre2018.ml" 5 77 134
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 135 "esami/tmp2/settembre2018.ml" 5 77 140
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 123 "esami/tmp2/settembre2018.ml" 5 77 141
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 96 "esami/tmp2/settembre2018.ml" 5 77 142
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 147 "esami/tmp2/settembre2018.ml" 5 77 148
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 5 77 153 "esami/tmp2/settembre2018.ml" 5 77 154
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 5 77 159 "esami/tmp2/settembre2018.ml" 5 77 160
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 5 77 162 "esami/tmp2/settembre2018.ml" 5 77 167
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 168 "esami/tmp2/settembre2018.ml" 5 77 173
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 156 "esami/tmp2/settembre2018.ml" 5 77 174
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 176 "esami/tmp2/settembre2018.ml" 5 77 181
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 150 "esami/tmp2/settembre2018.ml" 5 77 182
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 187 "esami/tmp2/settembre2018.ml" 5 77 188
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 5 77 190 "esami/tmp2/settembre2018.ml" 5 77 195
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 196 "esami/tmp2/settembre2018.ml" 5 77 201
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 184 "esami/tmp2/settembre2018.ml" 5 77 202
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 144 "esami/tmp2/settembre2018.ml" 5 77 203
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 5 77 90 "esami/tmp2/settembre2018.ml" 5 77 204
+type(
+  int tree
+)
+"esami/tmp2/settembre2018.ml" 8 235 239 "esami/tmp2/settembre2018.ml" 8 235 243
+type(
+  'a tree -> 'a
+)
+ident(
+  def root "esami/tmp2/settembre2018.ml" 13 351 351 "esami/tmp2/settembre2018.ml" 0 0 -1
+)
+"esami/tmp2/settembre2018.ml" 9 256 259 "esami/tmp2/settembre2018.ml" 9 256 264
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 9 256 268 "esami/tmp2/settembre2018.ml" 9 256 273
+type(
+  exn -> 'a
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/tmp2/settembre2018.ml" 9 256 274 "esami/tmp2/settembre2018.ml" 9 256 282
+type(
+  exn
+)
+"esami/tmp2/settembre2018.ml" 9 256 268 "esami/tmp2/settembre2018.ml" 9 256 282
+type(
+  'a
+)
+"esami/tmp2/settembre2018.ml" 10 283 289 "esami/tmp2/settembre2018.ml" 10 283 290
+type(
+  'a
+)
+ident(
+  def t "esami/tmp2/settembre2018.ml" 10 283 300 "esami/tmp2/settembre2018.ml" 10 283 301
+)
+"esami/tmp2/settembre2018.ml" 10 283 292 "esami/tmp2/settembre2018.ml" 10 283 293
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 10 283 294 "esami/tmp2/settembre2018.ml" 10 283 295
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 10 283 286 "esami/tmp2/settembre2018.ml" 10 283 296
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 10 283 300 "esami/tmp2/settembre2018.ml" 10 283 301
+type(
+  'a
+)
+ident(
+  int_ref t "esami/tmp2/settembre2018.ml" 10 283 289 "esami/tmp2/settembre2018.ml" 10 283 290
+)
+"esami/tmp2/settembre2018.ml" 8 235 246 "esami/tmp2/settembre2018.ml" 10 283 301
+type(
+  'a tree -> 'a
+)
+"esami/tmp2/settembre2018.ml" 13 351 359 "esami/tmp2/settembre2018.ml" 13 351 372
+type(
+  'a tree -> 'a -> 'a list
+)
+ident(
+  def sorted_branch "esami/tmp2/settembre2018.ml" 13 351 351 "esami/tmp2/settembre2018.ml" 0 0 -1
+)
+"esami/tmp2/settembre2018.ml" 13 351 373 "esami/tmp2/settembre2018.ml" 13 351 374
+type(
+  'a tree
+)
+ident(
+  def t "esami/tmp2/settembre2018.ml" 13 351 375 "esami/tmp2/settembre2018.ml" 17 565 646
+)
+"esami/tmp2/settembre2018.ml" 13 351 375 "esami/tmp2/settembre2018.ml" 13 351 376
+type(
+  'a
+)
+ident(
+  def x "esami/tmp2/settembre2018.ml" 13 351 379 "esami/tmp2/settembre2018.ml" 17 565 646
+)
+"esami/tmp2/settembre2018.ml" 13 351 385 "esami/tmp2/settembre2018.ml" 13 351 386
+type(
+  'a tree
+)
+ident(
+  int_ref t "esami/tmp2/settembre2018.ml" 13 351 373 "esami/tmp2/settembre2018.ml" 13 351 374
+)
+"esami/tmp2/settembre2018.ml" 14 392 394 "esami/tmp2/settembre2018.ml" 14 392 399
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 14 392 403 "esami/tmp2/settembre2018.ml" 14 392 408
+type(
+  exn -> 'a list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/tmp2/settembre2018.ml" 14 392 409 "esami/tmp2/settembre2018.ml" 14 392 417
+type(
+  exn
+)
+"esami/tmp2/settembre2018.ml" 14 392 403 "esami/tmp2/settembre2018.ml" 14 392 417
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 15 418 423 "esami/tmp2/settembre2018.ml" 15 418 424
+type(
+  'a
+)
+ident(
+  def k "esami/tmp2/settembre2018.ml" 15 418 443 "esami/tmp2/settembre2018.ml" 15 418 480
+)
+"esami/tmp2/settembre2018.ml" 15 418 426 "esami/tmp2/settembre2018.ml" 15 418 431
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 15 418 433 "esami/tmp2/settembre2018.ml" 15 418 438
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 15 418 420 "esami/tmp2/settembre2018.ml" 15 418 439
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 15 418 446 "esami/tmp2/settembre2018.ml" 15 418 447
+type(
+  'a
+)
+ident(
+  int_ref k "esami/tmp2/settembre2018.ml" 15 418 423 "esami/tmp2/settembre2018.ml" 15 418 424
+)
+"esami/tmp2/settembre2018.ml" 15 418 448 "esami/tmp2/settembre2018.ml" 15 418 449
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp2/settembre2018.ml" 15 418 450 "esami/tmp2/settembre2018.ml" 15 418 451
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2018.ml" 13 351 375 "esami/tmp2/settembre2018.ml" 13 351 376
+)
+"esami/tmp2/settembre2018.ml" 15 418 446 "esami/tmp2/settembre2018.ml" 15 418 451
+type(
+  bool
+)
+"esami/tmp2/settembre2018.ml" 15 418 458 "esami/tmp2/settembre2018.ml" 15 418 459
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2018.ml" 13 351 375 "esami/tmp2/settembre2018.ml" 13 351 376
+)
+"esami/tmp2/settembre2018.ml" 15 418 457 "esami/tmp2/settembre2018.ml" 15 418 460
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 15 418 466 "esami/tmp2/settembre2018.ml" 15 418 471
+type(
+  exn -> 'a list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/tmp2/settembre2018.ml" 15 418 472 "esami/tmp2/settembre2018.ml" 15 418 480
+type(
+  exn
+)
+"esami/tmp2/settembre2018.ml" 15 418 466 "esami/tmp2/settembre2018.ml" 15 418 480
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 15 418 443 "esami/tmp2/settembre2018.ml" 15 418 480
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 16 481 486 "esami/tmp2/settembre2018.ml" 16 481 487
+type(
+  'a
+)
+ident(
+  def k "esami/tmp2/settembre2018.ml" 16 481 499 "esami/tmp2/settembre2018.ml" 17 565 646
+)
+"esami/tmp2/settembre2018.ml" 16 481 489 "esami/tmp2/settembre2018.ml" 16 481 491
+type(
+  'a tree
+)
+ident(
+  def t1 "esami/tmp2/settembre2018.ml" 16 481 499 "esami/tmp2/settembre2018.ml" 17 565 646
+)
+"esami/tmp2/settembre2018.ml" 16 481 492 "esami/tmp2/settembre2018.ml" 16 481 494
+type(
+  'a tree
+)
+ident(
+  def t2 "esami/tmp2/settembre2018.ml" 16 481 499 "esami/tmp2/settembre2018.ml" 17 565 646
+)
+"esami/tmp2/settembre2018.ml" 16 481 483 "esami/tmp2/settembre2018.ml" 16 481 495
+type(
+  'a tree
+)
+"esami/tmp2/settembre2018.ml" 16 481 506 "esami/tmp2/settembre2018.ml" 16 481 507
+type(
+  'a
+)
+ident(
+  int_ref k "esami/tmp2/settembre2018.ml" 16 481 486 "esami/tmp2/settembre2018.ml" 16 481 487
+)
+"esami/tmp2/settembre2018.ml" 16 481 508 "esami/tmp2/settembre2018.ml" 16 481 509
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"esami/tmp2/settembre2018.ml" 16 481 510 "esami/tmp2/settembre2018.ml" 16 481 514
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref root "esami/tmp2/settembre2018.ml" 8 235 239 "esami/tmp2/settembre2018.ml" 8 235 243
+)
+"esami/tmp2/settembre2018.ml" 16 481 515 "esami/tmp2/settembre2018.ml" 16 481 517
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "esami/tmp2/settembre2018.ml" 16 481 489 "esami/tmp2/settembre2018.ml" 16 481 491
+)
+"esami/tmp2/settembre2018.ml" 16 481 510 "esami/tmp2/settembre2018.ml" 16 481 517
+type(
+  'a
+)
+"esami/tmp2/settembre2018.ml" 16 481 506 "esami/tmp2/settembre2018.ml" 16 481 517
+type(
+  bool
+)
+"esami/tmp2/settembre2018.ml" 16 481 523 "esami/tmp2/settembre2018.ml" 16 481 524
+type(
+  'a
+)
+ident(
+  int_ref k "esami/tmp2/settembre2018.ml" 16 481 486 "esami/tmp2/settembre2018.ml" 16 481 487
+)
+"esami/tmp2/settembre2018.ml" 16 481 526 "esami/tmp2/settembre2018.ml" 16 481 539
+type(
+  'a tree -> 'a -> 'a list
+)
+ident(
+  int_ref sorted_branch "esami/tmp2/settembre2018.ml" 13 351 359 "esami/tmp2/settembre2018.ml" 13 351 372
+)
+"esami/tmp2/settembre2018.ml" 16 481 540 "esami/tmp2/settembre2018.ml" 16 481 542
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "esami/tmp2/settembre2018.ml" 16 481 489 "esami/tmp2/settembre2018.ml" 16 481 491
+)
+"esami/tmp2/settembre2018.ml" 16 481 543 "esami/tmp2/settembre2018.ml" 16 481 544
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2018.ml" 13 351 375 "esami/tmp2/settembre2018.ml" 13 351 376
+)
+"esami/tmp2/settembre2018.ml" 16 481 526 "esami/tmp2/settembre2018.ml" 16 481 544
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 16 481 523 "esami/tmp2/settembre2018.ml" 16 481 544
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 16 481 550 "esami/tmp2/settembre2018.ml" 16 481 555
+type(
+  exn -> 'a list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/tmp2/settembre2018.ml" 16 481 556 "esami/tmp2/settembre2018.ml" 16 481 564
+type(
+  exn
+)
+"esami/tmp2/settembre2018.ml" 16 481 550 "esami/tmp2/settembre2018.ml" 16 481 564
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 16 481 503 "esami/tmp2/settembre2018.ml" 16 481 564
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 17 565 579 "esami/tmp2/settembre2018.ml" 17 565 580
+type(
+  exn
+)
+"esami/tmp2/settembre2018.ml" 17 565 587 "esami/tmp2/settembre2018.ml" 17 565 588
+type(
+  'a
+)
+ident(
+  int_ref k "esami/tmp2/settembre2018.ml" 16 481 486 "esami/tmp2/settembre2018.ml" 16 481 487
+)
+"esami/tmp2/settembre2018.ml" 17 565 589 "esami/tmp2/settembre2018.ml" 17 565 590
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"esami/tmp2/settembre2018.ml" 17 565 591 "esami/tmp2/settembre2018.ml" 17 565 595
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref root "esami/tmp2/settembre2018.ml" 8 235 239 "esami/tmp2/settembre2018.ml" 8 235 243
+)
+"esami/tmp2/settembre2018.ml" 17 565 596 "esami/tmp2/settembre2018.ml" 17 565 598
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "esami/tmp2/settembre2018.ml" 16 481 492 "esami/tmp2/settembre2018.ml" 16 481 494
+)
+"esami/tmp2/settembre2018.ml" 17 565 591 "esami/tmp2/settembre2018.ml" 17 565 598
+type(
+  'a
+)
+"esami/tmp2/settembre2018.ml" 17 565 587 "esami/tmp2/settembre2018.ml" 17 565 598
+type(
+  bool
+)
+"esami/tmp2/settembre2018.ml" 17 565 605 "esami/tmp2/settembre2018.ml" 17 565 606
+type(
+  'a
+)
+ident(
+  int_ref k "esami/tmp2/settembre2018.ml" 16 481 486 "esami/tmp2/settembre2018.ml" 16 481 487
+)
+"esami/tmp2/settembre2018.ml" 17 565 608 "esami/tmp2/settembre2018.ml" 17 565 621
+type(
+  'a tree -> 'a -> 'a list
+)
+ident(
+  int_ref sorted_branch "esami/tmp2/settembre2018.ml" 13 351 359 "esami/tmp2/settembre2018.ml" 13 351 372
+)
+"esami/tmp2/settembre2018.ml" 17 565 622 "esami/tmp2/settembre2018.ml" 17 565 624
+type(
+  'a tree
+)
+ident(
+  int_ref t2 "esami/tmp2/settembre2018.ml" 16 481 492 "esami/tmp2/settembre2018.ml" 16 481 494
+)
+"esami/tmp2/settembre2018.ml" 17 565 625 "esami/tmp2/settembre2018.ml" 17 565 626
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2018.ml" 13 351 375 "esami/tmp2/settembre2018.ml" 13 351 376
+)
+"esami/tmp2/settembre2018.ml" 17 565 608 "esami/tmp2/settembre2018.ml" 17 565 626
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 17 565 605 "esami/tmp2/settembre2018.ml" 17 565 626
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 17 565 632 "esami/tmp2/settembre2018.ml" 17 565 637
+type(
+  exn -> 'a list
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"esami/tmp2/settembre2018.ml" 17 565 638 "esami/tmp2/settembre2018.ml" 17 565 646
+type(
+  exn
+)
+"esami/tmp2/settembre2018.ml" 17 565 632 "esami/tmp2/settembre2018.ml" 17 565 646
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 17 565 584 "esami/tmp2/settembre2018.ml" 17 565 646
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 16 481 499 "esami/tmp2/settembre2018.ml" 17 565 646
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 13 351 379 "esami/tmp2/settembre2018.ml" 17 565 646
+type(
+  'a list
+)
+"esami/tmp2/settembre2018.ml" 19 650 650 "esami/tmp2/settembre2018.ml" 19 650 663
+type(
+  int tree -> int -> int list
+)
+ident(
+  int_ref sorted_branch "esami/tmp2/settembre2018.ml" 13 351 359 "esami/tmp2/settembre2018.ml" 13 351 372
+)
+"esami/tmp2/settembre2018.ml" 19 650 664 "esami/tmp2/settembre2018.ml" 19 650 670
+type(
+  int tree
+)
+ident(
+  int_ref albero "esami/tmp2/settembre2018.ml" 5 77 81 "esami/tmp2/settembre2018.ml" 5 77 87
+)
+"esami/tmp2/settembre2018.ml" 19 650 671 "esami/tmp2/settembre2018.ml" 19 650 672
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 19 650 650 "esami/tmp2/settembre2018.ml" 19 650 672
+type(
+  int list
+)
+"esami/tmp2/settembre2018.ml" 22 709 713 "esami/tmp2/settembre2018.ml" 22 709 718
+type(
+  (int * int) list
+)
+ident(
+  def grafo "esami/tmp2/settembre2018.ml" 24 767 767 "esami/tmp2/settembre2018.ml" 0 0 -1
+)
+"esami/tmp2/settembre2018.ml" 22 709 723 "esami/tmp2/settembre2018.ml" 22 709 724
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 725 "esami/tmp2/settembre2018.ml" 22 709 726
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 722 "esami/tmp2/settembre2018.ml" 22 709 727
+type(
+  int * int
+)
+"esami/tmp2/settembre2018.ml" 22 709 730 "esami/tmp2/settembre2018.ml" 22 709 731
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 732 "esami/tmp2/settembre2018.ml" 22 709 733
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 729 "esami/tmp2/settembre2018.ml" 22 709 734
+type(
+  int * int
+)
+"esami/tmp2/settembre2018.ml" 22 709 737 "esami/tmp2/settembre2018.ml" 22 709 738
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 739 "esami/tmp2/settembre2018.ml" 22 709 740
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 736 "esami/tmp2/settembre2018.ml" 22 709 741
+type(
+  int * int
+)
+"esami/tmp2/settembre2018.ml" 22 709 744 "esami/tmp2/settembre2018.ml" 22 709 745
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 746 "esami/tmp2/settembre2018.ml" 22 709 747
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 743 "esami/tmp2/settembre2018.ml" 22 709 748
+type(
+  int * int
+)
+"esami/tmp2/settembre2018.ml" 22 709 751 "esami/tmp2/settembre2018.ml" 22 709 752
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 753 "esami/tmp2/settembre2018.ml" 22 709 754
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 750 "esami/tmp2/settembre2018.ml" 22 709 755
+type(
+  int * int
+)
+"esami/tmp2/settembre2018.ml" 22 709 758 "esami/tmp2/settembre2018.ml" 22 709 759
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 760 "esami/tmp2/settembre2018.ml" 22 709 761
+type(
+  int
+)
+"esami/tmp2/settembre2018.ml" 22 709 757 "esami/tmp2/settembre2018.ml" 22 709 762
+type(
+  int * int
+)
+"esami/tmp2/settembre2018.ml" 22 709 721 "esami/tmp2/settembre2018.ml" 22 709 763
+type(
+  (int * int) list
+)
+"esami/tmp2/settembre2018.ml" 24 767 775 "esami/tmp2/settembre2018.ml" 24 767 785
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  def successori "esami/tmp2/settembre2018.ml" 24 767 767 "esami/tmp2/settembre2018.ml" 0 0 -1
+)
+"esami/tmp2/settembre2018.ml" 24 767 786 "esami/tmp2/settembre2018.ml" 24 767 787
+type(
+  'a
+)
+ident(
+  def x "esami/tmp2/settembre2018.ml" 24 767 790 "esami/tmp2/settembre2018.ml" 26 811 886
+)
+"esami/tmp2/settembre2018.ml" 25 799 802 "esami/tmp2/settembre2018.ml" 25 799 804
+type(
+  ('a * 'b) list
+)
+"esami/tmp2/settembre2018.ml" 25 799 808 "esami/tmp2/settembre2018.ml" 25 799 810
+type(
+  'b list
+)
+"esami/tmp2/settembre2018.ml" 26 811 815 "esami/tmp2/settembre2018.ml" 26 811 816
+type(
+  'a
+)
+ident(
+  def a "esami/tmp2/settembre2018.ml" 26 811 829 "esami/tmp2/settembre2018.ml" 26 811 886
+)
+"esami/tmp2/settembre2018.ml" 26 811 817 "esami/tmp2/settembre2018.ml" 26 811 818
+type(
+  'b
+)
+ident(
+  def b "esami/tmp2/settembre2018.ml" 26 811 829 "esami/tmp2/settembre2018.ml" 26 811 886
+)
+"esami/tmp2/settembre2018.ml" 26 811 814 "esami/tmp2/settembre2018.ml" 26 811 819
+type(
+  'a * 'b
+)
+"esami/tmp2/settembre2018.ml" 26 811 821 "esami/tmp2/settembre2018.ml" 26 811 825
+type(
+  ('a * 'b) list
+)
+ident(
+  def rest "esami/tmp2/settembre2018.ml" 26 811 829 "esami/tmp2/settembre2018.ml" 26 811 886
+)
+"esami/tmp2/settembre2018.ml" 26 811 814 "esami/tmp2/settembre2018.ml" 26 811 825
+type(
+  ('a * 'b) list
+)
+"esami/tmp2/settembre2018.ml" 26 811 832 "esami/tmp2/settembre2018.ml" 26 811 833
+type(
+  'a
+)
+ident(
+  int_ref a "esami/tmp2/settembre2018.ml" 26 811 815 "esami/tmp2/settembre2018.ml" 26 811 816
+)
+"esami/tmp2/settembre2018.ml" 26 811 834 "esami/tmp2/settembre2018.ml" 26 811 835
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"esami/tmp2/settembre2018.ml" 26 811 836 "esami/tmp2/settembre2018.ml" 26 811 837
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2018.ml" 24 767 786 "esami/tmp2/settembre2018.ml" 24 767 787
+)
+"esami/tmp2/settembre2018.ml" 26 811 832 "esami/tmp2/settembre2018.ml" 26 811 837
+type(
+  bool
+)
+"esami/tmp2/settembre2018.ml" 26 811 843 "esami/tmp2/settembre2018.ml" 26 811 844
+type(
+  'b
+)
+ident(
+  int_ref b "esami/tmp2/settembre2018.ml" 26 811 817 "esami/tmp2/settembre2018.ml" 26 811 818
+)
+"esami/tmp2/settembre2018.ml" 26 811 846 "esami/tmp2/settembre2018.ml" 26 811 856
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  int_ref successori "esami/tmp2/settembre2018.ml" 24 767 775 "esami/tmp2/settembre2018.ml" 24 767 785
+)
+"esami/tmp2/settembre2018.ml" 26 811 857 "esami/tmp2/settembre2018.ml" 26 811 858
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2018.ml" 24 767 786 "esami/tmp2/settembre2018.ml" 24 767 787
+)
+"esami/tmp2/settembre2018.ml" 26 811 859 "esami/tmp2/settembre2018.ml" 26 811 863
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "esami/tmp2/settembre2018.ml" 26 811 821 "esami/tmp2/settembre2018.ml" 26 811 825
+)
+"esami/tmp2/settembre2018.ml" 26 811 846 "esami/tmp2/settembre2018.ml" 26 811 863
+type(
+  'b list
+)
+"esami/tmp2/settembre2018.ml" 26 811 843 "esami/tmp2/settembre2018.ml" 26 811 863
+type(
+  'b list
+)
+"esami/tmp2/settembre2018.ml" 26 811 869 "esami/tmp2/settembre2018.ml" 26 811 879
+type(
+  'a -> ('a * 'b) list -> 'b list
+)
+ident(
+  int_ref successori "esami/tmp2/settembre2018.ml" 24 767 775 "esami/tmp2/settembre2018.ml" 24 767 785
+)
+"esami/tmp2/settembre2018.ml" 26 811 880 "esami/tmp2/settembre2018.ml" 26 811 881
+type(
+  'a
+)
+ident(
+  int_ref x "esami/tmp2/settembre2018.ml" 24 767 786 "esami/tmp2/settembre2018.ml" 24 767 787
+)
+"esami/tmp2/settembre2018.ml" 26 811 882 "esami/tmp2/settembre2018.ml" 26 811 886
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref rest "esami/tmp2/settembre2018.ml" 26 811 821 "esami/tmp2/settembre2018.ml" 26 811 825
+)
+"esami/tmp2/settembre2018.ml" 26 811 869 "esami/tmp2/settembre2018.ml" 26 811 886
+type(
+  'b list
+)
+"esami/tmp2/settembre2018.ml" 26 811 829 "esami/tmp2/settembre2018.ml" 26 811 886
+type(
+  'b list
+)
+"esami/tmp2/settembre2018.ml" 24 767 790 "esami/tmp2/settembre2018.ml" 26 811 886
+type(
+  ('a * 'b) list -> 'b list
+)
+"esami/tmp2/settembre2018.ml" 28 890 894 "esami/tmp2/settembre2018.ml" 28 890 905
+type(
+  '_weak1 -> '_weak2 -> '_weak3 -> '_weak4
+)
+ident(
+  def sorted_path "esami/tmp2/settembre2018.ml" 40 1382 1382 "esami/tmp2/settembre2018.ml" 0 0 -1
+)
+"esami/tmp2/settembre2018.ml" 28 890 906 "esami/tmp2/settembre2018.ml" 28 890 907
+type(
+  '_weak1
+)
+ident(
+  def g "esami/tmp2/settembre2018.ml" 28 890 908 "esami/tmp2/settembre2018.ml" 38 1323 1378
+)
+"esami/tmp2/settembre2018.ml" 28 890 908 "esami/tmp2/settembre2018.ml" 28 890 913
+type(
+  '_weak2
+)
+ident(
+  def start "esami/tmp2/settembre2018.ml" 28 890 914 "esami/tmp2/settembre2018.ml" 38 1323 1378
+)
+"esami/tmp2/settembre2018.ml" 28 890 914 "esami/tmp2/settembre2018.ml" 28 890 918
+type(
+  '_weak3
+)
+ident(
+  def goal "esami/tmp2/settembre2018.ml" 29 922 923 "esami/tmp2/settembre2018.ml" 38 1323 1378
+)
+"esami/tmp2/settembre2018.ml" 29 922 931 "esami/tmp2/settembre2018.ml" 29 922 940
+type(
+  '_weak5 -> '_weak6 -> '_weak7 -> '_weak8
+)
+ident(
+  def from_node "esami/tmp2/settembre2018.ml" 29 922 923 "esami/tmp2/settembre2018.ml" 38 1323 1378
+)
+"esami/tmp2/settembre2018.ml" 29 922 941 "esami/tmp2/settembre2018.ml" 29 922 948
+type(
+  '_weak5
+)
+ident(
+  def visited "esami/tmp2/settembre2018.ml" 29 922 949 "esami/tmp2/settembre2018.ml" 33 1082 1146
+)
+"esami/tmp2/settembre2018.ml" 29 922 949 "esami/tmp2/settembre2018.ml" 29 922 953
+type(
+  '_weak6
+)
+ident(
+  def nodo "esami/tmp2/settembre2018.ml" 29 922 954 "esami/tmp2/settembre2018.ml" 33 1082 1146
+)
+"esami/tmp2/settembre2018.ml" 29 922 954 "esami/tmp2/settembre2018.ml" 29 922 963
+type(
+  '_weak7
+)
+ident(
+  def predvalue "esami/tmp2/settembre2018.ml" 30 967 969 "esami/tmp2/settembre2018.ml" 33 1082 1146
+)
+"esami/tmp2/settembre2018.ml" 30 967 994 "esami/tmp2/settembre2018.ml" 30 967 996
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"esami/tmp2/settembre2018.ml" 34 1147 1154 "esami/tmp2/settembre2018.ml" 34 1147 1163
+type(
+  '_weak9 -> '_weak10 -> '_weak11 -> '_weak12
+)
+ident(
+  def from_list "esami/tmp2/settembre2018.ml" 29 922 923 "esami/tmp2/settembre2018.ml" 38 1323 1378
+)

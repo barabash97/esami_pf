@@ -1,143 +1,92 @@
-"esami/febbraio2019.ml" 5 76 80 "esami/febbraio2019.ml" 5 76 84
+"esami/febbraio2019.ml" 3 39 43 "esami/febbraio2019.ml" 3 39 47
 type(
   (int * color) list
 )
 ident(
-  def cols "esami/febbraio2019.ml" 8 146 146 "esami/febbraio2019.ml" 0 0 -1
+  def cols "esami/febbraio2019.ml" 6 109 109 "esami/febbraio2019.ml" 0 0 -1
 )
-"esami/febbraio2019.ml" 5 76 89 "esami/febbraio2019.ml" 5 76 90
+"esami/febbraio2019.ml" 3 39 52 "esami/febbraio2019.ml" 3 39 53
 type(
   int
 )
-"esami/febbraio2019.ml" 5 76 91 "esami/febbraio2019.ml" 5 76 96
+"esami/febbraio2019.ml" 3 39 54 "esami/febbraio2019.ml" 3 39 59
 type(
   color
 )
-"esami/febbraio2019.ml" 5 76 88 "esami/febbraio2019.ml" 5 76 97
+"esami/febbraio2019.ml" 3 39 51 "esami/febbraio2019.ml" 3 39 60
 type(
   int * color
 )
-"esami/febbraio2019.ml" 5 76 100 "esami/febbraio2019.ml" 5 76 101
+"esami/febbraio2019.ml" 3 39 63 "esami/febbraio2019.ml" 3 39 64
 type(
   int
 )
-"esami/febbraio2019.ml" 5 76 102 "esami/febbraio2019.ml" 5 76 107
+"esami/febbraio2019.ml" 3 39 65 "esami/febbraio2019.ml" 3 39 70
 type(
   color
 )
-"esami/febbraio2019.ml" 5 76 99 "esami/febbraio2019.ml" 5 76 108
+"esami/febbraio2019.ml" 3 39 62 "esami/febbraio2019.ml" 3 39 71
 type(
   int * color
 )
-"esami/febbraio2019.ml" 5 76 111 "esami/febbraio2019.ml" 5 76 112
+"esami/febbraio2019.ml" 3 39 74 "esami/febbraio2019.ml" 3 39 75
 type(
   int
 )
-"esami/febbraio2019.ml" 5 76 113 "esami/febbraio2019.ml" 5 76 118
+"esami/febbraio2019.ml" 3 39 76 "esami/febbraio2019.ml" 3 39 81
 type(
   color
 )
-"esami/febbraio2019.ml" 5 76 110 "esami/febbraio2019.ml" 5 76 119
+"esami/febbraio2019.ml" 3 39 73 "esami/febbraio2019.ml" 3 39 82
 type(
   int * color
 )
-"esami/febbraio2019.ml" 6 121 122 "esami/febbraio2019.ml" 6 121 123
+"esami/febbraio2019.ml" 4 84 85 "esami/febbraio2019.ml" 4 84 86
 type(
   int
 )
-"esami/febbraio2019.ml" 6 121 124 "esami/febbraio2019.ml" 6 121 129
+"esami/febbraio2019.ml" 4 84 87 "esami/febbraio2019.ml" 4 84 92
 type(
   color
 )
-"esami/febbraio2019.ml" 6 121 121 "esami/febbraio2019.ml" 6 121 130
+"esami/febbraio2019.ml" 4 84 84 "esami/febbraio2019.ml" 4 84 93
 type(
   int * color
 )
-"esami/febbraio2019.ml" 6 121 133 "esami/febbraio2019.ml" 6 121 134
+"esami/febbraio2019.ml" 4 84 96 "esami/febbraio2019.ml" 4 84 97
 type(
   int
 )
-"esami/febbraio2019.ml" 6 121 135 "esami/febbraio2019.ml" 6 121 140
+"esami/febbraio2019.ml" 4 84 98 "esami/febbraio2019.ml" 4 84 103
 type(
   color
 )
-"esami/febbraio2019.ml" 6 121 132 "esami/febbraio2019.ml" 6 121 141
+"esami/febbraio2019.ml" 4 84 95 "esami/febbraio2019.ml" 4 84 104
 type(
   int * color
 )
-"esami/febbraio2019.ml" 5 76 87 "esami/febbraio2019.ml" 6 121 142
+"esami/febbraio2019.ml" 3 39 50 "esami/febbraio2019.ml" 4 84 105
 type(
   (int * color) list
 )
-"esami/febbraio2019.ml" 8 146 150 "esami/febbraio2019.ml" 8 146 155
-type(
-  int list
-)
-ident(
-  def nodes "esami/febbraio2019.ml" 10 185 185 "esami/febbraio2019.ml" 0 0 -1
-)
-"esami/febbraio2019.ml" 8 146 160 "esami/febbraio2019.ml" 8 146 161
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 162 "esami/febbraio2019.ml" 8 146 163
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 164 "esami/febbraio2019.ml" 8 146 165
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 166 "esami/febbraio2019.ml" 8 146 167
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 168 "esami/febbraio2019.ml" 8 146 169
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 170 "esami/febbraio2019.ml" 8 146 171
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 172 "esami/febbraio2019.ml" 8 146 173
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 174 "esami/febbraio2019.ml" 8 146 175
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 176 "esami/febbraio2019.ml" 8 146 177
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 178 "esami/febbraio2019.ml" 8 146 180
-type(
-  int
-)
-"esami/febbraio2019.ml" 8 146 159 "esami/febbraio2019.ml" 8 146 181
-type(
-  int list
-)
-"esami/febbraio2019.ml" 10 185 189 "esami/febbraio2019.ml" 10 185 201
+"esami/febbraio2019.ml" 6 109 113 "esami/febbraio2019.ml" 6 109 121
 type(
   '_weak1 -> '_weak2 -> '_weak3
 )
 ident(
-  def trova_colore "esami/febbraio2019.ml" 15 263 263 "esami/febbraio2019.ml" 0 0 -1
+  def getcolor "esami/febbraio2019.ml" 10 175 175 "esami/febbraio2019.ml" 0 0 -1
 )
-"esami/febbraio2019.ml" 10 185 202 "esami/febbraio2019.ml" 10 185 203
+"esami/febbraio2019.ml" 6 109 122 "esami/febbraio2019.ml" 6 109 123
 type(
   '_weak1
 )
 ident(
-  def e "esami/febbraio2019.ml" 10 185 204 "esami/febbraio2019.ml" 13 236 253
+  def c "esami/febbraio2019.ml" 6 109 124 "esami/febbraio2019.ml" 8 154 171
 )
-"esami/febbraio2019.ml" 10 185 204 "esami/febbraio2019.ml" 10 185 207
+"esami/febbraio2019.ml" 6 109 124 "esami/febbraio2019.ml" 6 109 127
 type(
   '_weak2
 )
 ident(
-  def lst "esami/febbraio2019.ml" 11 211 212 "esami/febbraio2019.ml" 13 236 253
+  def lst "esami/febbraio2019.ml" 7 131 132 "esami/febbraio2019.ml" 8 154 171
 )
